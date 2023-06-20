@@ -35,7 +35,7 @@ PhenoTagger have been tested using Python3.10 on CentOS and uses the following d
 
 - [TensorFlow 2.12.0](https://www.tensorflow.org/)
 - [Transformers 4.30.1](https://huggingface.co/docs/transformers/index)
-- [nltk 3.8.1](www.nltk.org)
+- [NLTK 3.8.1](www.nltk.org)
 
 
 To install all dependencies automatically using the command:
@@ -47,7 +47,11 @@ $ pip install -r requirements.txt
 ## Data and model preparation
 <a name="preparation"></a>
 
-1. To run this code, you need to first download [the model file](https://ftp.ncbi.nlm.nih.gov/pub/lu/PhenoTagger/models_v1.1.zip) ( it includes the files for three trained models for HPO concept recognition, i.e., CNN, Bioformer, and BioBERT ), then unzip and put the model folder into the Phenotagger folder.
+1. To run this code, you need to create a model folder named "models_v1.2" in the PhenoTagger folder, then download the model files ( four trained models for HPO concept recognition are released, i.e., CNN, Bioformer, BioBERT, PubMedBERT) into the model folder.
+
+	- First download original files of the pre-trained language models (PLMs): [Bioformer](https://huggingface.co/bioformers/bioformer-8L/), [BioBERT](https://huggingface.co/dmis-lab/biobert-base-cased-v1.2), [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext)
+	- Then download the fine-tuned model files for HPO in [Here](https://huggingface.co/lingbionlp/PhenoTagger_v1.2/)
+
 2. The corpora used in the experiments are provided in */data/corpus.zip*. Please unzip the file, if you need to use them.
 
 ## Tagging free text with PhenoTagger
