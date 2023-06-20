@@ -1,0 +1,5 @@
+TensorFlow==2.12.0
+transformers==4.30.1
+torch==1.11.0
+nltk==3.8.1
+bioc==2.0.post5
