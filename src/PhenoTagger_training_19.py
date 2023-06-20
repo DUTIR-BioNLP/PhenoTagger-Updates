@@ -7,7 +7,7 @@ Created on Mon Aug 24 10:14:27 2020
 
 import argparse
 from nn_model import bioTag_CNN,bioTag_BERT
-from keras.optimizers import RMSprop, SGD, Adam, Adadelta, Adagrad
+from tensorflow.keras.optimizers import RMSprop, SGD, Adam, Adadelta, Adagrad,Nadam
 from ml_ner import ml_intext
 from dic_ner import dic_ont
 from tagging_text import bioTag
