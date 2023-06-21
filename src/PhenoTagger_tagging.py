@@ -91,25 +91,25 @@ def phenotagger_tag(infolder,para_set,outfolder):
                     'charfile':'../dict/char.vocab',
                     'labelfile':'../dict/lable.vocab',
                     'posfile':'../dict/pos.vocab'}
-        modelfile='../models_v1.1/cnn_hpo_v1.1.h5'
+        modelfile='../models_v1.2/cnn_PT23.h5'
         
     elif para_set['model_type']=='bioformer':
         vocabfiles={'labelfile':'../dict/lable.vocab',
                     'checkpoint_path':'../models_v1.2/bioformer-cased-v1.0/',
                     'lowercase':False}
-        modelfile='../models/bioformer-PT.h5'
+        modelfile='../models_v1.2/bioformer_PT.h5'
         
     elif para_set['model_type']=='pubmedbert':
         vocabfiles={'labelfile':'../dict/lable.vocab',
                     'checkpoint_path':'../models_v1.2/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext/',
                     'lowercase':True}
-        modelfile='../models/pubmedbert_PT.h5'
+        modelfile='../models_v1.2/pubmedbert_PT.h5'
         
     else:
         vocabfiles={'labelfile':'../dict/lable.vocab',
                     'checkpoint_path':'../models_v1.2/biobert-base-cased-v1.2/',
                     'lowercase':False}
-        modelfile='../models/biobert-PT.h5'
+        modelfile='../models_v1.2/biobert_PT.h5'
     
     # loading dict and model
         
@@ -168,7 +168,7 @@ if __name__=="__main__":
         os.makedirs(args.outfolder)
 
     para_set={
-              'model_type':'biobert', # cnn, bioformer, pubmedbert or biobert
+              'model_type':'pubmedbert', # cnn, bioformer, pubmedbert or biobert
               'onlyLongest':False, # False: return overlap concepts, True only longgest
               'abbrRecog':True,# False: don't identify abbr, True: identify abbr
               'ML_Threshold':0.95,# the Threshold of deep learning model
