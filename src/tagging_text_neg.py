@@ -13,18 +13,20 @@ from nn_model import bioTag_CNN,bioTag_BERT
 from dic_ner import dic_ont
 from post_processing import combine_overlap
 from abbre_resolution import postprocess_abbr
+from neg_iden import neg_iden
 from neg_detect import NegDec
 import os
 import time
 import json
 
 #hybrid method
-def bioTag(text,biotag_dic,ml_model,neg_model,onlyLongest=False, abbrRecog=False, Threshold=0.95,Negation=False):
+def bioTag(text,biotag_dic,ml_model,neg_model,onlyLongest=False, abbrRecog=False, Threshold=0.95, Negation=False):
 
 #    startTime=time.time()
     ssplit_token=ssplit_token_pos_lemma(text)
     #print(ssplit_token) 
 #    print('ssplit token:',time.time()-startTime)
+    #print(text)
     
 #    startTime=time.time()
     dict_tsv=biotag_dic.matching(ssplit_token)
@@ -48,9 +50,11 @@ def bioTag(text,biotag_dic,ml_model,neg_model,onlyLongest=False, abbrRecog=False
     if abbrRecog==True:
         final_result=postprocess_abbr(final_result,text)
     if Negation==True:
+        # print('\nneg before:',final_result)
+        # final_result=neg_iden(text, final_result)#qjw
         final_result=NegDec(text,neg_model,final_result)
-#    print('final result:') 
-#    print(final_result)
+    # print('final result:') 
+    # print(final_result)
     
     return final_result
 
