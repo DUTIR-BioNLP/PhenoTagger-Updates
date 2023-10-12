@@ -7,27 +7,22 @@ PhenoTagger is a hybrid method that combines dictionary and deep learning-based 
 - [Ling Luo, Shankai Yan, Po-Ting Lai, Daniel Veltri, Andrew Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N Robinson, Zhiyong Lu. PhenoTagger: A Hybrid Method for Phenotype Concept Recognition using Human Phenotype Ontology. Bioinformatics, Volume 37, Issue 13, 1 July 2021, Pages 1884–1890.](https://doi.org/10.1093/bioinformatics/btab019)
 
 
-## Updates (2023-06-15):
+## Updates (2023-10-12):
 - Use Transformers instead of kears-bert to load deep learning models.
-- Use Tensorflow.keras instead of Keara.
+- Use Tensorflow.keras instead of Keras.
 - Add a [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext) model.  
-- Re-train phenotype models using the newest version of HPO (hp/releases/2023-06-06)
+- Re-train phenotype models using the newest version of HPO (hp/releases/2023-10-09)
 
 
-## Updates (2022-05-10):
-- Fix some bugs to speed up the processing time.
-- Add a [Bioformer](https://github.com/WGLab/Bioformer) model (a light weight BERT in biomedical domain).  
-- Re-train phenotype models using the newest version of HPO (hp/releases/2022-04-14)
 
 ## Content
 - [Dependency package](#package)
 - [Data and model preparation](#preparation)
 - [Instructions for tagging text with PhenoTagger](#tagging)
 - [Instructions for training PhenoTagger](#training)
-- [Web API for PhenoTagger](#api)
 - [Performance on HPO GSC+](#performance)
 - [Citing PhenoTagger](#citing)
-- [Acknowledgments](#ac)
+
 
 ## Dependency package
 <a name="package"></a>
@@ -155,54 +150,6 @@ After the program is finished, 2 files will be generated in the output folder:
 - cnn_dev_temp.tsv/biobert_dev_temp.tsv  (the prediction results of the development set, if you input a development set file)
 
 
-## Web API
-<a name="api"></a>
-We also provide Web API for PhenoTagger for ease of use. Due to the limitation of computing resources, the API is run on a CPU. If you have GPUs, we suggest you download the source code and run PhenoTagger on own server.
-
-You can use it to process raw text in the same way as [Pubtotar API](https://www.ncbi.nlm.nih.gov/research/pubtator/api.html). You need to set \[Bioconcept\] parameter to "Phenotype". The code samples in python are found in *API_pythonExample* folder. We suggest the user use PubTator or BioC-XML formats. 
-
-The process consists of two primary steps 1) submitting requests and 2) retrieving results.
-	
-### 1. Submitting requests
-
-```
-$ python SubmitText_request.py [Inputfolder] [Bioconcept:Phenotype] [Outputfile_SessionNumber]
-```
-
-Three parameters are required:
-        
-- \[Inputfolder\]: a folder with files to submit
-- \[Bioconcept\]: Phenotype
-- \[Outputfile_SessionNumber\]: output file to save the session numbers
-
-Example:
-
-```
-$ python SubmitText_request.py input Phenotype SessionNumber.txt
-```
-	
-###	2. Retrieving results
-
-```
-$ python SubmitText_retrieve.py [Inputfolder] [Inputfile_SessionNumber] [outputfolder]
-```
-
-Three parameters are required:
-
-- \[Inputfolder\]: original input folder	
-- \[Inputfile_SessionNumber\]: a file with a list of session numbers
-- \[Outputfolder\]: Output folder
-
-Example:
-
-```
-$ python SubmitText_retrieve.py input SessionNumber.txt output
-```
-
-Note that each file in the input folder will be submitted for processing separately. After submission, each file may be queued for 10 to 20 minutes, depending on the computer cluster workload.
-
-
-
 
 
 ## Citing PhenoTagger
@@ -213,15 +160,6 @@ If you're using PhenoTagger, please cite:
 *  Ling Luo, Shankai Yan, Po-Ting Lai, Daniel Veltri, Andrew Oler, Sandhya Xirasagar, Rajarshi Ghosh, Morgan Similuk, Peter N Robinson, Zhiyong Lu. [PhenoTagger: A Hybrid Method for Phenotype Concept Recognition using Human Phenotype Ontology](https://doi.org/10.1093/bioinformatics/btab019). Bioinformatics, Volume 37, Issue 13, 1 July 2021, Pages 1884–1890.
 
 
-## Acknowledgments 
-<a name="ac"></a>
 
-This research is supported by the Intramural Research Programs of the National Institutes of Health, National Library of Medicine.
-Thanks to Dr. Chih-Hsuan Wei for his help with Web APIs.
-
-
-## Disclaimer
-
-This tool shows the results of research conducted in the Computational Biology Branch, NCBI. The information produced on this website is not intended for direct diagnostic use or medical decision-making without review and oversight by a clinical professional. Individuals should not change their health behavior solely on the basis of information produced on this website. NIH does not independently verify the validity or utility of the information produced by this tool. If you have questions about the information produced on this website, please see a health care professional. More information about NCBI's disclaimer policy is available.
 
 ***
