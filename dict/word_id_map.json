@@ -7441,6 +7441,12 @@
   "disturbed color vision": [
     "HP:0000551"
   ],
+  "disturb colour vision": [
+    "HP:0000551"
+  ],
+  "disturbed colour vision": [
+    "HP:0000551"
+  ],
   "loss in color vision": [
     "HP:0000551"
   ],
@@ -9711,10 +9717,16 @@
   "agitation": [
     "HP:0000713"
   ],
+  "psychomotor agitation": [
+    "HP:0000713"
+  ],
   "depression": [
     "HP:0000716"
   ],
   "depressive disorder": [
+    "HP:0000716"
+  ],
+  "depressive episode": [
     "HP:0000716"
   ],
   "depressivity": [
@@ -9846,10 +9858,7 @@
   "pervasive developmental disorder": [
     "HP:0000729"
   ],
-  "inflexible adherence to routines or ritual": [
-    "HP:0000732"
-  ],
-  "inflexible adherence to routines or rituals": [
+  "inflexible adherence to routines": [
     "HP:0000732"
   ],
   "abnormal repetitive mannerism": [
@@ -9864,7 +9873,13 @@
   "repetitive behavior": [
     "HP:0000733"
   ],
+  "repetitive behaviour": [
+    "HP:0000733"
+  ],
   "repetitive behaviour stereotypic behavior": [
+    "HP:0000733"
+  ],
+  "repetitive behaviour stereotypic behaviour": [
     "HP:0000733"
   ],
   "repetitive movement": [
@@ -9921,6 +9936,15 @@
   "disinhibition": [
     "HP:0000734"
   ],
+  "impulse control disorder": [
+    "HP:0000734"
+  ],
+  "impulse control disorders": [
+    "HP:0000734"
+  ],
+  "self - control": [
+    "HP:0000734"
+  ],
   "impaired social interaction": [
     "HP:0000735"
   ],
@@ -9957,6 +9981,9 @@
   "irritable": [
     "HP:0000737"
   ],
+  "irritable mood": [
+    "HP:0000737"
+  ],
   "hallucination": [
     "HP:0000738"
   ],
@@ -9985,6 +10012,12 @@
     "HP:0000741"
   ],
   "lack of feeling , emotion , interest": [
+    "HP:0000741"
+  ],
+  "lack of feeling , emotion , interest , motivation , initiation": [
+    "HP:0000741"
+  ],
+  "state of indifference": [
     "HP:0000741"
   ],
   "self - mutilation": [
@@ -10020,6 +10053,12 @@
   "diminished motivation": [
     "HP:0000745"
   ],
+  "diminish energy": [
+    "HP:0000745"
+  ],
+  "diminished energy": [
+    "HP:0000745"
+  ],
   "lack of initiative": [
     "HP:0000745"
   ],
@@ -10036,6 +10075,15 @@
     "HP:0000745"
   ],
   "lacks initiative": [
+    "HP:0000745"
+  ],
+  "psychomotor retardation": [
+    "HP:0000745"
+  ],
+  "psychomotor slow": [
+    "HP:0000745"
+  ],
+  "psychomotor slowing": [
     "HP:0000745"
   ],
   "delusion": [
@@ -10173,7 +10221,13 @@
   "lack of insight": [
     "HP:0000757"
   ],
+  "anosognosia": [
+    "HP:0000757"
+  ],
   "abnormal nonverbal communicative behavior": [
+    "HP:0000758"
+  ],
+  "abnormal nonverbal communicative behaviour": [
     "HP:0000758"
   ],
   "impaired use of nonverbal behavior": [
@@ -10389,6 +10443,9 @@
   "diaphragmatic hernia": [
     "HP:0000776"
   ],
+  "abnormal thymus morphology": [
+    "HP:0000777"
+  ],
   "abnormality of the thymus": [
     "HP:0000777"
   ],
@@ -10479,10 +10536,13 @@
   "urethral obstruction": [
     "HP:0000796"
   ],
-  "oligospermia": [
+  "oligozoospermia": [
     "HP:0000798"
   ],
   "low sperm count": [
+    "HP:0000798"
+  ],
+  "oligospermia": [
     "HP:0000798"
   ],
   "renal steatosis": [
@@ -14462,6 +14522,24 @@
   "lethargy": [
     "HP:0001254"
   ],
+  "dullness": [
+    "HP:0001254"
+  ],
+  "inaction": [
+    "HP:0001254"
+  ],
+  "inactivity": [
+    "HP:0001254"
+  ],
+  "languor": [
+    "HP:0001254"
+  ],
+  "slowness": [
+    "HP:0001254"
+  ],
+  "torpor": [
+    "HP:0001254"
+  ],
   "intellectual disability , mild": [
     "HP:0001256"
   ],
@@ -14499,6 +14577,18 @@
     "HP:0001258"
   ],
   "coma": [
+    "HP:0001259"
+  ],
+  "persistent vegetative state": [
+    "HP:0001259"
+  ],
+  "stupor": [
+    "HP:0001259"
+  ],
+  "trance": [
+    "HP:0001259"
+  ],
+  "unconsciousness": [
     "HP:0001259"
   ],
   "dysarthria": [
@@ -16109,7 +16199,7 @@
   "genetic heterogeneity": [
     "HP:0001425"
   ],
-  "multifactorial inheritance": [
+  "non - mendelian inheritance": [
     "HP:0001426"
   ],
   "familial predisposition": [
@@ -16121,7 +16211,7 @@
   "mitochondrial": [
     "HP:0001427"
   ],
-  "somatic mutation": [
+  "obsolete somatic mutation": [
     "HP:0001428"
   ],
   "abnormality of the calf musculature": [
@@ -16211,7 +16301,19 @@
   "abnormal thigh muscles": [
     "HP:0001441"
   ],
+  "typify by somatic mosaicism": [
+    "HP:0001442"
+  ],
+  "typified by somatic mosaicism": [
+    "HP:0001442"
+  ],
+  "autosomal dominant somatic cell mutation": [
+    "HP:0001442"
+  ],
   "somatic mosaicism": [
+    "HP:0001442"
+  ],
+  "somatic mutation": [
     "HP:0001442"
   ],
   "abnormality of the gluteal musculature": [
@@ -16223,7 +16325,7 @@
   "abnormality of glutes": [
     "HP:0001443"
   ],
-  "autosomal dominant somatic cell mutation": [
+  "obsolete autosomal dominant somatic cell mutation": [
     "HP:0001444"
   ],
   "abnormality of the hip - girdle musculature": [
@@ -17036,6 +17138,9 @@
   "dminished fetal movement": [
     "HP:0001558"
   ],
+  "dminished foetal movement": [
+    "HP:0001558"
+  ],
   "fetal hypokinesia": [
     "HP:0001558"
   ],
@@ -17517,6 +17622,9 @@
     "HP:0001620"
   ],
   "high pitched voice": [
+    "HP:0001620"
+  ],
+  "abnormally high - pitched voice": [
     "HP:0001620"
   ],
   "high - pitched voice": [
@@ -21101,6 +21209,21 @@
   "anorexia": [
     "HP:0002039"
   ],
+  "deliberately not eat": [
+    "HP:0002039"
+  ],
+  "deliberately not eating": [
+    "HP:0002039"
+  ],
+  "obsessive dieting": [
+    "HP:0002039"
+  ],
+  "refuse to eat": [
+    "HP:0002039"
+  ],
+  "refusing to eat": [
+    "HP:0002039"
+  ],
   "esophageal varix": [
     "HP:0002040"
   ],
@@ -21269,13 +21392,16 @@
   "lower limb spasticity": [
     "HP:0002061"
   ],
-  "morphological abnormality of the pyramidal tract": [
+  "abnormal pyramidal tract morphology": [
     "HP:0002062"
   ],
   "abnormality of the pyramidal tract": [
     "HP:0002062"
   ],
   "abnormality of the pyramidal tracts": [
+    "HP:0002062"
+  ],
+  "morphological abnormality of the pyramidal tract": [
     "HP:0002062"
   ],
   "pyramidal tract disease": [
@@ -21726,6 +21852,12 @@
   "labored breathing": [
     "HP:0002098"
   ],
+  "labour breathing": [
+    "HP:0002098"
+  ],
+  "laboured breathing": [
+    "HP:0002098"
+  ],
   "respiratory difficulty": [
     "HP:0002098"
   ],
@@ -21748,6 +21880,9 @@
     "HP:0002100"
   ],
   "abnormal lung lobation": [
+    "HP:0002101"
+  ],
+  "abnormal pulmonary lobation": [
     "HP:0002101"
   ],
   "defective lung lobation": [
@@ -22134,6 +22269,9 @@
   "arrhinencephaly": [
     "HP:0002139"
   ],
+  "arhinencephaly": [
+    "HP:0002139"
+  ],
   "ischemic stroke": [
     "HP:0002140"
   ],
@@ -22402,6 +22540,15 @@
     "HP:0002166"
   ],
   "abnormality of speech or vocalization": [
+    "HP:0002167"
+  ],
+  "abnormal speech": [
+    "HP:0002167"
+  ],
+  "abnormal vocalisation": [
+    "HP:0002167"
+  ],
+  "abnormal vocalization": [
     "HP:0002167"
   ],
   "scan speech": [
@@ -23798,10 +23945,25 @@
   "drowsiness": [
     "HP:0002329"
   ],
+  "abnormal drowsiness": [
+    "HP:0002329"
+  ],
+  "sleepiness": [
+    "HP:0002329"
+  ],
   "sleepy": [
     "HP:0002329"
   ],
+  "somnolence": [
+    "HP:0002329"
+  ],
   "paroxysmal drowsiness": [
+    "HP:0002330"
+  ],
+  "a neurological disorder mark by a sudden recurrent uncontrollable compulsion to sleep": [
+    "HP:0002330"
+  ],
+  "a neurological disorder marked by a sudden recurrent uncontrollable compulsion to sleep": [
     "HP:0002330"
   ],
   "recurrent paroxysmal headache": [
@@ -24011,13 +24173,16 @@
   "frequent falls": [
     "HP:0002359"
   ],
-  "sleep disturbance": [
+  "sleep abnormality": [
     "HP:0002360"
   ],
   "difficulty sleep": [
     "HP:0002360"
   ],
   "difficulty sleeping": [
+    "HP:0002360"
+  ],
+  "sleep disturbance": [
     "HP:0002360"
   ],
   "sleep disturbances": [
@@ -24885,7 +25050,7 @@
   "spasticity of the facial muscles": [
     "HP:0002491"
   ],
-  "morphological abnormality of the corticospinal tract": [
+  "abnormal corticospinal tract morphology": [
     "HP:0002492"
   ],
   "abnormality of the corticospinal tract": [
@@ -24895,6 +25060,9 @@
     "HP:0002492"
   ],
   "involvement of the corticospinal pathways": [
+    "HP:0002492"
+  ],
+  "morphological abnormality of the corticospinal tract": [
     "HP:0002492"
   ],
   "upper motor neuron dysfunction": [
@@ -25113,7 +25281,10 @@
   "hypnagogic hallucination": [
     "HP:0002519"
   ],
-  "hypnagogic hallucinations": [
+  "hallucination while fall asleep": [
+    "HP:0002519"
+  ],
+  "hallucinations while falling asleep": [
     "HP:0002519"
   ],
   "hypsarrhythmia": [
@@ -25201,6 +25372,9 @@
     "HP:0002536"
   ],
   "cerebral gyral anomalies": [
+    "HP:0002536"
+  ],
+  "gyral disorganisation": [
     "HP:0002536"
   ],
   "gyral disorganization": [
@@ -25508,6 +25682,9 @@
   ],
   "intestinal hemorrhage": [
     "HP:0002584"
+  ],
+  "abnormal peritoneum morphology": [
+    "HP:0002585"
   ],
   "abnormality of the peritoneum": [
     "HP:0002585"
@@ -27840,10 +28017,13 @@
   "coxa vara": [
     "HP:0002812"
   ],
-  "abnormality of limb bone morphology": [
+  "abnormal limb bone morphology": [
     "HP:0002813"
   ],
   "abnormal shape of limb bone": [
+    "HP:0002813"
+  ],
+  "abnormality of limb bone morphology": [
     "HP:0002813"
   ],
   "arm and / or leg bone difference": [
@@ -27917,6 +28097,9 @@
   ],
   "hyperplastic femoral trochanters": [
     "HP:0002822"
+  ],
+  "abnormal femur morphology": [
+    "HP:0002823"
   ],
   "abnormality of femur morphology": [
     "HP:0002823"
@@ -28773,10 +28956,10 @@
   "ketone bodies in urine": [
     "HP:0002919"
   ],
-  "decrease circulate acth level": [
+  "decrease circulate acth concentration": [
     "HP:0002920"
   ],
-  "decreased circulating acth level": [
+  "decreased circulating acth concentration": [
     "HP:0002920"
   ],
   "abnormal cerebrospinal fluid morphology": [
@@ -29472,19 +29655,25 @@
   "absent - hypoplastic fibulae": [
     "HP:0002990"
   ],
+  "abnormal fibula morphology": [
+    "HP:0002991"
+  ],
   "abnormality of fibula morphology": [
     "HP:0002991"
   ],
   "abnormality of the calf bone": [
     "HP:0002991"
   ],
-  "abnormality of tibia morphology": [
+  "abnormal tibia morphology": [
     "HP:0002992"
   ],
   "abnormality of the shankbone": [
     "HP:0002992"
   ],
   "abnormality of the shinbone": [
+    "HP:0002992"
+  ],
+  "abnormality of tibia morphology": [
     "HP:0002992"
   ],
   "limited elbow movement": [
@@ -31629,13 +31818,19 @@
   "low hdl - cholesterol": [
     "HP:0003233"
   ],
+  "decrease circulate carnitine concentration": [
+    "HP:0003234"
+  ],
+  "decreased circulating carnitine concentration": [
+    "HP:0003234"
+  ],
+  "carnitine deficiency": [
+    "HP:0003234"
+  ],
   "decrease plasma carnitine": [
     "HP:0003234"
   ],
   "decreased plasma carnitine": [
-    "HP:0003234"
-  ],
-  "carnitine deficiency": [
     "HP:0003234"
   ],
   "hypermethioninemia": [
@@ -32345,13 +32540,16 @@
   "ovoid thoracic and lumbar vertebrae": [
     "HP:0003309"
   ],
-  "abnormality of the odontoid process": [
+  "abnormal odontoid process morphology": [
     "HP:0003310"
   ],
   "abnormal odontoid peg": [
     "HP:0003310"
   ],
   "abnormal odontoid process": [
+    "HP:0003310"
+  ],
+  "abnormality of the odontoid process": [
     "HP:0003310"
   ],
   "hypoplasia of the odontoid process": [
@@ -32630,10 +32828,10 @@
   "3 - methylglutaricaciduria": [
     "HP:0003344"
   ],
-  "elevate urinary norepinephrine": [
+  "elevate urinary norepinephrine level": [
     "HP:0003345"
   ],
-  "elevated urinary norepinephrine": [
+  "elevated urinary norepinephrine level": [
     "HP:0003345"
   ],
   "impaired lymphocyte transformation with phytohemagglutinin": [
@@ -33240,6 +33438,9 @@
     "HP:0003419"
   ],
   "lower back pain": [
+    "HP:0003419"
+  ],
+  "lumbago": [
     "HP:0003419"
   ],
   "obsolete platyspondyly ( childhood )": [
@@ -33871,6 +34072,12 @@
   "high urine prostaglandin levels": [
     "HP:0003527"
   ],
+  "elevate circulate calcitonin concentration": [
+    "HP:0003528"
+  ],
+  "elevated circulating calcitonin concentration": [
+    "HP:0003528"
+  ],
   "elevate calcitonin": [
     "HP:0003528"
   ],
@@ -34486,10 +34693,10 @@
   "reducted hppd activity": [
     "HP:0003637"
   ],
-  "elevate urinary epinephrine": [
+  "elevate urinary epinephrine level": [
     "HP:0003639"
   ],
-  "elevated urinary epinephrine": [
+  "elevated urinary epinephrine level": [
     "HP:0003639"
   ],
   "increase urinary epinephrine": [
@@ -35761,7 +35968,13 @@
   "foetal death": [
     "HP:0003826"
   ],
+  "foetal demise": [
+    "HP:0003826"
+  ],
   "late fetal death": [
+    "HP:0003826"
+  ],
+  "late foetal death": [
     "HP:0003826"
   ],
   "stillborn": [
@@ -35848,7 +36061,7 @@
   "calcification of the soft - tissue around the shoulders": [
     "HP:0003837"
   ],
-  "abnormality of upper limb epiphysis morphology": [
+  "abnormal upper limb epiphysis morphology": [
     "HP:0003839"
   ],
   "abnormal shape of end part of upper limb long bone": [
@@ -35861,6 +36074,9 @@
     "HP:0003839"
   ],
   "abnormality involving the epiphyses of the upper limbs": [
+    "HP:0003839"
+  ],
+  "abnormality of upper limb epiphysis morphology": [
     "HP:0003839"
   ],
   "epihyseal plate abnormality of the upper limb": [
@@ -39373,6 +39589,9 @@
   "abnormality of circulating leptin level": [
     "HP:0004361"
   ],
+  "abnormal enteric ganglion morphology": [
+    "HP:0004362"
+  ],
   "abnormality of enteric ganglion morphology": [
     "HP:0004362"
   ],
@@ -39475,10 +39694,10 @@
   "abnormality of glycosaminoglycan metabolism": [
     "HP:0004371"
   ],
-  "reduce consciousness / confusion": [
+  "reduce consciousness": [
     "HP:0004372"
   ],
-  "reduced consciousness / confusion": [
+  "reduced consciousness": [
     "HP:0004372"
   ],
   "disturbance of consciousness": [
@@ -39491,6 +39710,12 @@
     "HP:0004372"
   ],
   "lowered consciousness": [
+    "HP:0004372"
+  ],
+  "reduce consciousness / confusion": [
+    "HP:0004372"
+  ],
+  "reduced consciousness / confusion": [
     "HP:0004372"
   ],
   "focal dystonia": [
@@ -42421,6 +42646,12 @@
   "maturity onset diabetes of the young": [
     "HP:0004904"
   ],
+  "reduce circulate vitamin a concentration": [
+    "HP:0004905"
+  ],
+  "reduced circulating vitamin a concentration": [
+    "HP:0004905"
+  ],
   "low level of vitamin a": [
     "HP:0004905"
   ],
@@ -42809,6 +43040,12 @@
     "HP:0004969"
   ],
   "narrowing of peripheral lung artery": [
+    "HP:0004969"
+  ],
+  "occlusion of small pulmonary artery": [
+    "HP:0004969"
+  ],
+  "occlusion of small pulmonary arteries": [
     "HP:0004969"
   ],
   "peripheral pulmonary stenosis": [
@@ -43810,6 +44047,12 @@
   "global systolic dysfunction": [
     "HP:0005185"
   ],
+  "synovial lining hyperplasia": [
+    "HP:0005186"
+  ],
+  "synovial hyperplasia": [
+    "HP:0005186"
+  ],
   "synovial hypertrophy": [
     "HP:0005186"
   ],
@@ -44224,7 +44467,7 @@
   "spontaneous joint hemorrhage": [
     "HP:0005261"
   ],
-  "abnormality of the synovia": [
+  "abnormal synovial membrane morphology": [
     "HP:0005262"
   ],
   "gastritis": [
@@ -44258,6 +44501,9 @@
     "HP:0005268"
   ],
   "early fetal demise": [
+    "HP:0005268"
+  ],
+  "early foetal demise": [
     "HP:0005268"
   ],
   "spontaneous abortion": [
@@ -46087,6 +46333,9 @@
   "hypoplastic bone marrow": [
     "HP:0005528"
   ],
+  "myeloid hypoplasia": [
+    "HP:0005528"
+  ],
   "biphenotypic acute leukemia": [
     "HP:0005531"
   ],
@@ -46189,6 +46438,12 @@
   "megakaryocytopenia": [
     "HP:0005548"
   ],
+  "megakaryocyte decrease im bone marrow": [
+    "HP:0005548"
+  ],
+  "megakaryocytes decreased im bone marrow": [
+    "HP:0005548"
+  ],
   "obsolete congenital neutropenia": [
     "HP:0005549"
   ],
@@ -46254,6 +46509,9 @@
   ],
   "imbalanced hb synthesis": [
     "HP:0005560"
+  ],
+  "abnormal bone marrow cell morphology": [
+    "HP:0005561"
   ],
   "abnormality of bone marrow cell morphology": [
     "HP:0005561"
@@ -50744,10 +51002,13 @@
   "pointed upper lateral incisors": [
     "HP:0006342"
   ],
-  "abnormality of primary molar morphology": [
+  "abnormal primary molar morphology": [
     "HP:0006344"
   ],
   "abnormality of deciduous molar morphology": [
+    "HP:0006344"
+  ],
+  "abnormality of primary molar morphology": [
     "HP:0006344"
   ],
   "abnormality of shape of baby molar": [
@@ -51611,6 +51872,9 @@
   "abnormality of milk teeth": [
     "HP:0006481"
   ],
+  "abnormal dental morphology": [
+    "HP:0006482"
+  ],
   "abnormality of dental morphology": [
     "HP:0006482"
   ],
@@ -51917,10 +52181,10 @@
   "abnormality of thighbone end part": [
     "HP:0006499"
   ],
-  "abnormality of low limb epiphysis morphology": [
+  "abnormal low limb epiphysis morphology": [
     "HP:0006500"
   ],
-  "abnormality of lower limb epiphysis morphology": [
+  "abnormal lower limb epiphysis morphology": [
     "HP:0006500"
   ],
   "abnormal shape of end part of low limb end bone": [
@@ -51933,6 +52197,12 @@
     "HP:0006500"
   ],
   "abnormality involving the epiphyses of the lower limbs": [
+    "HP:0006500"
+  ],
+  "abnormality of low limb epiphysis morphology": [
+    "HP:0006500"
+  ],
+  "abnormality of lower limb epiphysis morphology": [
     "HP:0006500"
   ],
   "aplasia / hypoplasia of the radius": [
@@ -53573,9 +53843,6 @@
   "vivid hallucination": [
     "HP:0006803"
   ],
-  "vivid hallucinations": [
-    "HP:0006803"
-  ],
   "cerebral hypomyelination": [
     "HP:0006808"
   ],
@@ -53870,7 +54137,10 @@
   "hypnopompic hallucination": [
     "HP:0006896"
   ],
-  "hypnopompic hallucinations": [
+  "hallucination while awake": [
+    "HP:0006896"
+  ],
+  "hallucinations while awaking": [
     "HP:0006896"
   ],
   "abducens palsy": [
@@ -53951,7 +54221,7 @@
   "axial muscle stiffness": [
     "HP:0006921"
   ],
-  "metachromatic leukodystrophy variant": [
+  "obsolete metachromatic leukodystrophy variant": [
     "HP:0006926"
   ],
   "unilateral polymicrogyria": [
@@ -53973,6 +54243,15 @@
     "HP:0006932"
   ],
   "transient psychotic episodes": [
+    "HP:0006932"
+  ],
+  "brief psychotic episode": [
+    "HP:0006932"
+  ],
+  "brief psychotic episodes": [
+    "HP:0006932"
+  ],
+  "brief reactive psychosis": [
     "HP:0006932"
   ],
   "congenital nystagmus": [
@@ -54135,6 +54414,21 @@
     "HP:0006978"
   ],
   "sleep - wake cycle disturbance": [
+    "HP:0006979"
+  ],
+  "internal - clock disorder": [
+    "HP:0006979"
+  ],
+  "internal - clock disorders": [
+    "HP:0006979"
+  ],
+  "sleep phase disturbance": [
+    "HP:0006979"
+  ],
+  "sleep - wake cycle disorder": [
+    "HP:0006979"
+  ],
+  "sleep - wake cycle disorders": [
     "HP:0006979"
   ],
   "progressive leukoencephalopathy": [
@@ -54755,6 +55049,9 @@
   "loss of consciousness": [
     "HP:0007185"
   ],
+  "fainting": [
+    "HP:0007185"
+  ],
   "pass out": [
     "HP:0007185"
   ],
@@ -54810,6 +55107,12 @@
     "HP:0007199"
   ],
   "episodic hypersomnia": [
+    "HP:0007200"
+  ],
+  "idiopathic hypersomnia": [
+    "HP:0007200"
+  ],
+  "recurrent hypersomnia": [
     "HP:0007200"
   ],
   "cerebral artery atherosclerosis": [
@@ -55127,7 +55430,13 @@
   "bipolar affective disorder": [
     "HP:0007302"
   ],
+  "bipolar depression": [
+    "HP:0007302"
+  ],
   "bipolar disorder": [
+    "HP:0007302"
+  ],
+  "manic depressive": [
     "HP:0007302"
   ],
   "cns demyelination": [
@@ -58433,6 +58742,9 @@
   "broad lateral eyebrow": [
     "HP:0007933"
   ],
+  "lateral eyebrow flare": [
+    "HP:0007933"
+  ],
   "wide lateral eyebrow": [
     "HP:0007933"
   ],
@@ -60803,7 +61115,10 @@
   "abnormal ossification involving metatarsal bones": [
     "HP:0008371"
   ],
-  "abnormality of vitamin a metabolism": [
+  "abnormal circulate vitamin a concentration": [
+    "HP:0008372"
+  ],
+  "abnormal circulating vitamin a concentration": [
     "HP:0008372"
   ],
   "puberty and gonadal disorder": [
@@ -60812,7 +61127,7 @@
   "puberty and gonadal disorders": [
     "HP:0008373"
   ],
-  "nasal , dysarthic speech": [
+  "nasal dysarthria": [
     "HP:0008376"
   ],
   "breathy speech": [
@@ -62042,10 +62357,13 @@
   "hypertrophic auricular cartilage": [
     "HP:0008608"
   ],
-  "morphological abnormality of the middle ear": [
+  "abnormal middle ear morphology": [
     "HP:0008609"
   ],
   "middle ear malformation": [
+    "HP:0008609"
+  ],
+  "morphological abnormality of the middle ear": [
     "HP:0008609"
   ],
   "infantile sensorineural hearing impairment": [
@@ -62654,9 +62972,6 @@
   "auditory hallucination": [
     "HP:0008765"
   ],
-  "auditory hallucinations": [
-    "HP:0008765"
-  ],
   "hallucination of sound": [
     "HP:0008765"
   ],
@@ -62674,6 +62989,9 @@
   ],
   "self - mutilation of tongue and lips due to involuntary movements": [
     "HP:0008767"
+  ],
+  "abnormal sexual behavior": [
+    "HP:0008768"
   ],
   "inappropriate sexual behavior": [
     "HP:0008768"
@@ -69451,6 +69769,9 @@
   ],
   "abnormality of thumb epiphyses": [
     "HP:0009599"
+  ],
+  "thumb contracture": [
+    "HP:0009600"
   ],
   "contracture of thumb": [
     "HP:0009600"
@@ -77345,6 +77666,18 @@
   "abnormally low - pitched voice": [
     "HP:0010300"
   ],
+  "low pitch voice": [
+    "HP:0010300"
+  ],
+  "low pitched voice": [
+    "HP:0010300"
+  ],
+  "low - pitch voice": [
+    "HP:0010300"
+  ],
+  "low - pitched voice": [
+    "HP:0010300"
+  ],
   "spinal dysraphism": [
     "HP:0010301"
   ],
@@ -79577,6 +79910,9 @@
   "word blindness": [
     "HP:0010523"
   ],
+  "disturbed sensory perception": [
+    "HP:0010524"
+  ],
   "agnosia": [
     "HP:0010524"
   ],
@@ -79585,9 +79921,6 @@
   ],
   "dysgraphia": [
     "HP:0010526"
-  ],
-  "astereognosia": [
-    "HP:0010527"
   ],
   "astereognosis": [
     "HP:0010527"
@@ -79922,10 +80255,10 @@
   "hamartoma of the eye": [
     "HP:0010568"
   ],
-  "elevate 7 - dehydrocholesterol": [
+  "elevate circulate 7 - dehydrocholesterol concentration": [
     "HP:0010569"
   ],
-  "elevated 7 - dehydrocholesterol": [
+  "elevated circulating 7 - dehydrocholesterol concentration": [
     "HP:0010569"
   ],
   "elevated level of cholesta - 5,7 - dien - 3beta - ol": [
@@ -80387,6 +80720,9 @@
   "hypoplasia of the pituitary gland": [
     "HP:0010627"
   ],
+  "small anterior pituitary lobe": [
+    "HP:0010627"
+  ],
   "underdeveloped pituitary gland": [
     "HP:0010627"
   ],
@@ -80708,10 +81044,13 @@
   "abnormality of the diencephalon": [
     "HP:0010662"
   ],
-  "abnormality of thalamus morphology": [
+  "abnormal thalamus morphology": [
     "HP:0010663"
   ],
   "abnormal shape of thalamus": [
+    "HP:0010663"
+  ],
+  "abnormality of thalamus morphology": [
     "HP:0010663"
   ],
   "abnormality of the thalamus": [
@@ -82115,10 +82454,10 @@
   "abnormality of the leydig cells": [
     "HP:0010789"
   ],
-  "hyoplasia of the leydig cell": [
+  "hypoplasia of the leydig cell": [
     "HP:0010790"
   ],
-  "hyoplasia of the leydig cells": [
+  "hypoplasia of the leydig cells": [
     "HP:0010790"
   ],
   "hyperplasia of the leydig cell": [
@@ -83552,6 +83891,12 @@
   "echogenic foetal bowel": [
     "HP:0010943"
   ],
+  "hyperechogenic fetal bowel": [
+    "HP:0010943"
+  ],
+  "prenatal ultrasound : hyperechogenic bowel": [
+    "HP:0010943"
+  ],
   "abnormal renal pelvis morphology": [
     "HP:0010944"
   ],
@@ -83682,6 +84027,9 @@
     "HP:0010963"
   ],
   "non - visualisation of the fetal stomach": [
+    "HP:0010963"
+  ],
+  "non - visualisation of the foetal stomach": [
     "HP:0010963"
   ],
   "abnormal circulate long - chain fatty - acid concentration": [
@@ -83832,6 +84180,15 @@
     "HP:0010981"
   ],
   "polygenic inheritance": [
+    "HP:0010982"
+  ],
+  "common , complex disease": [
+    "HP:0010982"
+  ],
+  "complex disease": [
+    "HP:0010982"
+  ],
+  "multifactorial inheritance": [
     "HP:0010982"
   ],
   "oligogenic inheritance": [
@@ -85028,6 +85385,9 @@
   "abnormality of molar morphology": [
     "HP:0011070"
   ],
+  "abnormal permanent molar morphology": [
+    "HP:0011071"
+  ],
   "abnormality of permanent molar morphology": [
     "HP:0011071"
   ],
@@ -85721,13 +86081,13 @@
   "ski jump nose": [
     "HP:0011120"
   ],
-  "abnormality of skin morphology": [
-    "HP:0011121"
-  ],
   "abnormal skin morphology": [
     "HP:0011121"
   ],
   "abnormal skin structure": [
+    "HP:0011121"
+  ],
+  "abnormality of skin morphology": [
     "HP:0011121"
   ],
   "abnormality of skin physiology": [
@@ -85871,10 +86231,13 @@
   "non - itchy hives": [
     "HP:0011137"
   ],
-  "abnormality of skin adnexa morphology": [
+  "abnormal skin adnexa morphology": [
     "HP:0011138"
   ],
   "abnormal skin appendage": [
+    "HP:0011138"
+  ],
+  "abnormality of skin adnexa morphology": [
     "HP:0011138"
   ],
   "gastric duplication": [
@@ -86106,7 +86469,8 @@
     "HP:0011160"
   ],
   "taste hallucination": [
-    "HP:0011160"
+    "HP:0011160",
+    "HP:5200201"
   ],
   "taste hallucinations": [
     "HP:0011160"
@@ -88070,6 +88434,9 @@
   "absent cochlea": [
     "HP:0011375"
   ],
+  "abnormal morphology of the vestibule of the inner ear": [
+    "HP:0011376"
+  ],
   "morphological abnormality of the vestibule of the inner ear": [
     "HP:0011376"
   ],
@@ -88090,6 +88457,9 @@
   ],
   "dilated vestibule of the inner ear": [
     "HP:0011379"
+  ],
+  "abnormal semicircular canal morphology": [
+    "HP:0011380"
   ],
   "morphological abnormality of the semicircular canal": [
     "HP:0011380"
@@ -88166,8 +88536,14 @@
   "functional abnormality of the inner ear": [
     "HP:0011389"
   ],
+  "abnormal inner ear morphology": [
+    "HP:0011390"
+  ],
   "morphological abnormality of the inner ear": [
     "HP:0011390"
+  ],
+  "abnormal inner ear nerve morphology": [
+    "HP:0011391"
   ],
   "morphological abnormality of the nerve of the inner ear": [
     "HP:0011391"
@@ -88571,6 +88947,9 @@
   "dyskinetic cerebral palsy": [
     "HP:0011445"
   ],
+  "abnormality of mental function": [
+    "HP:0011446"
+  ],
   "abnormality of high mental function": [
     "HP:0011446"
   ],
@@ -88823,10 +89202,13 @@
   "peg - fed in infancy": [
     "HP:0011471"
   ],
-  "abnormality of small intestinal villus morphology": [
+  "abnormal small intestinal villus morphology": [
     "HP:0011472"
   ],
   "abnormal shape of small intestinal villus": [
+    "HP:0011472"
+  ],
+  "abnormality of small intestinal villus morphology": [
     "HP:0011472"
   ],
   "villous atrophy": [
@@ -90461,6 +90843,9 @@
   "abnormality of circulating cortisol level": [
     "HP:0011731"
   ],
+  "abnormal adrenal morphology": [
+    "HP:0011732"
+  ],
   "abnormality of adrenal morphology": [
     "HP:0011732"
   ],
@@ -90590,10 +90975,13 @@
   "neoplasm of the pars anterior": [
     "HP:0011750"
   ],
-  "abnormality of the posterior pituitary": [
+  "abnormal posterior pituitary morphogenesis": [
     "HP:0011751"
   ],
   "abnormality of the neurohypophysis": [
+    "HP:0011751"
+  ],
+  "abnormality of the posterior pituitary": [
     "HP:0011751"
   ],
   "neoplasm of the posterior pituitary": [
@@ -90618,6 +91006,9 @@
     "HP:0011755"
   ],
   "ectopic neurohypophysis": [
+    "HP:0011755"
+  ],
+  "ectopic posterior pituitary lobe": [
     "HP:0011755"
   ],
   "posterior pituitary agenesis": [
@@ -90676,6 +91067,9 @@
   ],
   "obsolete ectopic anterior pituitary": [
     "HP:0011765"
+  ],
+  "abnormal parathyroid morphology": [
+    "HP:0011766"
   ],
   "abnormality of the parathyroid morphology": [
     "HP:0011766"
@@ -91013,10 +91407,10 @@
   "increased cerebral lipofuscin": [
     "HP:0011813"
   ],
-  "increase urinary hypoxanthine": [
+  "increase urinary hypoxanthine level": [
     "HP:0011814"
   ],
-  "increased urinary hypoxanthine": [
+  "increased urinary hypoxanthine level": [
     "HP:0011814"
   ],
   "cephalocele": [
@@ -92042,10 +92436,10 @@
   "anterior wedging of l2": [
     "HP:0011941"
   ],
-  "increase urinary sulfite": [
+  "increase urinary sulfite level": [
     "HP:0011942"
   ],
-  "increased urinary sulfite": [
+  "increased urinary sulfite level": [
     "HP:0011942"
   ],
   "increase urinary thiosulfate": [
@@ -92288,11 +92682,20 @@
   "paroxysmal lethargy": [
     "HP:0011973"
   ],
+  "intermittent lack of energy": [
+    "HP:0011973"
+  ],
   "myelofibrosis": [
     "HP:0011974"
   ],
   "aminoglycoside - induced hearing loss": [
     "HP:0011975"
+  ],
+  "elevate urinary catecholamine level": [
+    "HP:0011976"
+  ],
+  "elevated urinary catecholamine level": [
+    "HP:0011976"
   ],
   "elevate urinary catecholamine": [
     "HP:0011976"
@@ -92323,6 +92726,12 @@
   ],
   "increased urinary vanillylmandelic acid": [
     "HP:0011978"
+  ],
+  "elevate urinary dopamine level": [
+    "HP:0011979"
+  ],
+  "elevated urinary dopamine level": [
+    "HP:0011979"
   ],
   "elevate urinary dopamine": [
     "HP:0011979"
@@ -92416,6 +92825,9 @@
   ],
   "abnormal neutrophil cell number": [
     "HP:0011991"
+  ],
+  "abnormal neutrophil morphology": [
+    "HP:0011992"
   ],
   "abnormality of neutrophil morphology": [
     "HP:0011992"
@@ -92936,10 +93348,10 @@
   "chondroitin sulphate excretion in urine": [
     "HP:0012070"
   ],
-  "abnormal circulate acetylcarnitine concentration": [
+  "abnormal circulate acylcarnitine concentration": [
     "HP:0012071"
   ],
-  "abnormal circulating acetylcarnitine concentration": [
+  "abnormal circulating acylcarnitine concentration": [
     "HP:0012071"
   ],
   "abnormal acetylcarnitine profile": [
@@ -92973,6 +93385,9 @@
     "HP:0012075"
   ],
   "borderline personality disorder": [
+    "HP:0012076"
+  ],
+  "emotionally unstable personality disorder": [
     "HP:0012076"
   ],
   "histrionic personality disorder": [
@@ -93518,6 +93933,9 @@
   "anhedonia": [
     "HP:0012154"
   ],
+  "anhedonic": [
+    "HP:0012154"
+  ],
   "decrease corneal sensation": [
     "HP:0012155"
   ],
@@ -93833,13 +94251,16 @@
   "abnormal sperm motility": [
     "HP:0012206"
   ],
+  "asthenospermia": [
+    "HP:0012206"
+  ],
+  "asthenozoospermia": [
+    "HP:0012206"
+  ],
   "reduce sperm motility": [
     "HP:0012207"
   ],
   "reduced sperm motility": [
-    "HP:0012207"
-  ],
-  "asthenospermia": [
     "HP:0012207"
   ],
   "immotile sperm": [
@@ -95516,6 +95937,18 @@
   "abnormal social interactions": [
     "HP:0012433"
   ],
+  "delay early - childhood social milestone development": [
+    "HP:0012434"
+  ],
+  "delayed early - childhood social milestone development": [
+    "HP:0012434"
+  ],
+  "delay milestone development": [
+    "HP:0012434"
+  ],
+  "delayed milestone development": [
+    "HP:0012434"
+  ],
   "delay social development": [
     "HP:0012434"
   ],
@@ -95570,10 +96003,13 @@
   "gallbladder dyskinesia": [
     "HP:0012442"
   ],
-  "abnormality of brain morphology": [
+  "abnormal brain morphology": [
     "HP:0012443"
   ],
   "abnormal shape of brain": [
+    "HP:0012443"
+  ],
+  "abnormality of brain morphology": [
     "HP:0012443"
   ],
   "abnormality of the brain": [
@@ -95636,7 +96072,13 @@
   "restless legs": [
     "HP:0012452"
   ],
+  "ekbom syndrome": [
+    "HP:0012452"
+  ],
   "restless legs syndrome": [
+    "HP:0012452"
+  ],
+  "tachyathetosis": [
     "HP:0012452"
   ],
   "willis - ekbom disease": [
@@ -96079,6 +96521,9 @@
   ],
   "abnormality of the internal capsule": [
     "HP:0012502"
+  ],
+  "abnormal pituitary gland morphology": [
+    "HP:0012503"
   ],
   "abnormality of the pituitary gland": [
     "HP:0012503"
@@ -97364,6 +97809,9 @@
   "reduced brain n - acetyl aspartate level by mrs": [
     "HP:0012708"
   ],
+  "mr spectroscopy : n - acetylaspartate low in brain": [
+    "HP:0012708"
+  ],
   "reduce brain n - acetyl aspartate level by magnetic resonance spectroscopy": [
     "HP:0012708"
   ],
@@ -97424,10 +97872,13 @@
   "conductive hearing loss , severe": [
     "HP:0012717"
   ],
-  "morphological abnormality of the gastrointestinal tract": [
+  "abnormal gastrointestinal tract morphology": [
     "HP:0012718"
   ],
   "abnormal shape of the digestive system": [
+    "HP:0012718"
+  ],
+  "morphological abnormality of the gastrointestinal tract": [
     "HP:0012718"
   ],
   "morphological abnormality of the gi tract": [
@@ -99071,6 +99522,9 @@
   "carnitinuria": [
     "HP:0020077"
   ],
+  "carnitine high in urine": [
+    "HP:0020077"
+  ],
   "alaninuria": [
     "HP:0020078"
   ],
@@ -99243,6 +99697,12 @@
     "HP:0020113"
   ],
   "persistent human papillomavirus infection": [
+    "HP:0020114"
+  ],
+  "chronic hpv infection": [
+    "HP:0020114"
+  ],
+  "persistent hpv infection": [
     "HP:0020114"
   ],
   "hypoplastic dermoepidermal hemidesmosomes": [
@@ -99440,10 +99900,10 @@
   "elevated circulating succinate": [
     "HP:0020149"
   ],
-  "elevate urinary uromodulin": [
+  "elevate urinary uromodulin level": [
     "HP:0020150"
   ],
-  "elevated urinary uromodulin": [
+  "elevated urinary uromodulin level": [
     "HP:0020150"
   ],
   "elevate urinary tamm - horsfall protein concentration": [
@@ -99944,6 +100404,21 @@
   "dermal sinus tract": [
     "HP:0020223"
   ],
+  "mammary duct ectasia": [
+    "HP:0020224"
+  ],
+  "breast abscess": [
+    "HP:0020225"
+  ],
+  "nipple tenderness": [
+    "HP:0020226"
+  ],
+  "float gallbladder": [
+    "HP:0020227"
+  ],
+  "floating gallbladder": [
+    "HP:0020227"
+  ],
   "hallux rigidus": [
     "HP:0025004"
   ],
@@ -100091,8 +100566,14 @@
   "osteomatosis": [
     "HP:0025027"
   ],
+  "abnormal enteric nervous system morphology": [
+    "HP:0025028"
+  ],
   "abnormality of enteric nervous system morphology": [
     "HP:0025028"
+  ],
+  "abnormal enteric neuron morphology": [
+    "HP:0025029"
   ],
   "abnormality of enteric neuron morphology": [
     "HP:0025029"
@@ -100108,6 +100589,9 @@
   ],
   "abnormality of digestive system physiology": [
     "HP:0025032"
+  ],
+  "abnormal digestive system morphology": [
+    "HP:0025033"
   ],
   "abnormality of digestive system morphology": [
     "HP:0025033"
@@ -100279,6 +100763,9 @@
   ],
   "elevated brain n - acetyl aspartate level by magnetic resonance spectroscopy": [
     "HP:0025053"
+  ],
+  "abnormal olfactory lobe morphology": [
+    "HP:0025057"
   ],
   "abnormality of olfactory lobe morphology": [
     "HP:0025057"
@@ -100972,6 +101459,9 @@
   ],
   "severe temper tantrums": [
     "HP:0025162"
+  ],
+  "abnormal optic chiasm morphology": [
+    "HP:0025163"
   ],
   "abnormality of optic chiasm morphology": [
     "HP:0025163"
@@ -101774,13 +102264,25 @@
   "sleep paralysis": [
     "HP:0025233"
   ],
+  "inability to move or speak": [
+    "HP:0025233"
+  ],
   "parasomnia": [
     "HP:0025234"
   ],
-  "non - rapid eye movement parasomnia": [
-    "HP:0025235"
+  "event that disrupt sleep": [
+    "HP:0025234"
+  ],
+  "event that disrupts sleep": [
+    "HP:0025234"
   ],
   "nrem parasomnia": [
+    "HP:0025235"
+  ],
+  "disturbance in nrem": [
+    "HP:0025235"
+  ],
+  "non - rapid eye movement parasomnia": [
     "HP:0025235"
   ],
   "somnambulism": [
@@ -101790,6 +102292,21 @@
     "HP:0025236"
   ],
   "confusional arousal": [
+    "HP:0025237"
+  ],
+  "disorient": [
+    "HP:0025237"
+  ],
+  "disoriented": [
+    "HP:0025237"
+  ],
+  "slow speech or confuse think upon wake": [
+    "HP:0025237"
+  ],
+  "slow speech or confused thinking upon waking": [
+    "HP:0025237"
+  ],
+  "unresponsive": [
     "HP:0025237"
   ],
   "foot pain": [
@@ -102593,6 +103110,9 @@
   "polycalycosis": [
     "HP:0025360"
   ],
+  "abnormal medullary pyramid morphology": [
+    "HP:0025361"
+  ],
   "abnormality of medullary pyramid morphology": [
     "HP:0025361"
   ],
@@ -103007,6 +103527,9 @@
   "elevated serum deoxycorticosterone": [
     "HP:0025436"
   ],
+  "macrozoospermia": [
+    "HP:0025437"
+  ],
   "macrocephalic sperm head": [
     "HP:0025437"
   ],
@@ -103033,6 +103556,9 @@
   ],
   "decrease in amygdala volume": [
     "HP:0025444"
+  ],
+  "abnormal papillary muscle morphology": [
+    "HP:0025445"
   ],
   "morphological abnormality of the papillary muscle": [
     "HP:0025445"
@@ -103270,6 +103796,9 @@
   ],
   "fused labia majora": [
     "HP:0025486"
+  ],
+  "abnormal bladder morphology": [
+    "HP:0025487"
   ],
   "abnormality of bladder morphology": [
     "HP:0025487"
@@ -104222,7 +104751,7 @@
   "abnormal placental pentration beyond the uterine wall": [
     "HP:0025653"
   ],
-  "placenta acreta": [
+  "placenta accreta": [
     "HP:0025654"
   ],
   "placenta increta": [
@@ -104327,7 +104856,34 @@
   "fetal pda narrowing - closure": [
     "HP:0025675"
   ],
+  "foetal arterial duct narrow - closure": [
+    "HP:0025675"
+  ],
+  "foetal arterial duct narrowing - closure": [
+    "HP:0025675"
+  ],
+  "foetal ductus arteriosus narrow - closure": [
+    "HP:0025675"
+  ],
+  "foetal ductus arteriosus narrowing - closure": [
+    "HP:0025675"
+  ],
+  "foetal pad narrow - closure": [
+    "HP:0025675"
+  ],
+  "foetal pad narrowing - closure": [
+    "HP:0025675"
+  ],
+  "foetal pda narrow - closure": [
+    "HP:0025675"
+  ],
+  "foetal pda narrowing - closure": [
+    "HP:0025675"
+  ],
   "idiopathic constriction of the fetal ductus arteriosus": [
+    "HP:0025675"
+  ],
+  "idiopathic constriction of the foetal ductus arteriosus": [
     "HP:0025675"
   ],
   "fetal pleural effusion": [
@@ -104397,6 +104953,9 @@
     "HP:0025690"
   ],
   "fetal umbilical vein dilatation": [
+    "HP:0025690"
+  ],
+  "foetal umbilical vein dilatation": [
     "HP:0025690"
   ],
   "impaired fasting glucose": [
@@ -104504,6 +105063,9 @@
   "absence of fetal nasal bone": [
     "HP:0025706"
   ],
+  "absence of foetal nasal bone": [
+    "HP:0025706"
+  ],
   "unossified nasal bone": [
     "HP:0025706"
   ],
@@ -104601,6 +105163,9 @@
     "HP:0025730"
   ],
   "fetal atrial septal dilatation": [
+    "HP:0025730"
+  ],
+  "foetal atrial septal dilatation": [
     "HP:0025730"
   ],
   "redundant septum primum flap": [
@@ -104976,6 +105541,21 @@
     "HP:0030049"
   ],
   "narcolepsy": [
+    "HP:0030050"
+  ],
+  "african sleeping sickness": [
+    "HP:0030050"
+  ],
+  "catalepsy": [
+    "HP:0030050"
+  ],
+  "encephalitis": [
+    "HP:0030050"
+  ],
+  "encephalitis lethargica": [
+    "HP:0030050"
+  ],
+  "trypanosomiasis": [
     "HP:0030050"
   ],
   "tip - toe gait": [
@@ -106055,9 +106635,6 @@
   "hypersexuality": [
     "HP:0030214"
   ],
-  "sex addiction": [
-    "HP:0030214"
-  ],
   "inappropriate cry": [
     "HP:0030215"
   ],
@@ -106097,10 +106674,7 @@
   "visual agnosia": [
     "HP:0030222"
   ],
-  "manifestation of perseverative thought or action": [
-    "HP:0030223"
-  ],
-  "manifestations of perseverative thought or action": [
+  "perseverative thought": [
     "HP:0030223"
   ],
   "perseveration": [
@@ -106454,10 +107028,10 @@
   "increased serum insulin - like growth factor 1": [
     "HP:0030269"
   ],
-  "elevate red cell adenosine deaminase level": [
+  "elevate red cell adenosine deaminase activity": [
     "HP:0030270"
   ],
-  "elevated red cell adenosine deaminase level": [
+  "elevated red cell adenosine deaminase activity": [
     "HP:0030270"
   ],
   "reduce erythrocyte 2,3 - diphosphoglycerate concentration": [
@@ -108602,6 +109176,9 @@
   "ash - leaf spot": [
     "HP:0030679"
   ],
+  "abnormal cardiovascular system morphology": [
+    "HP:0030680"
+  ],
   "abnormality of cardiovascular system morphology": [
     "HP:0030680"
   ],
@@ -110114,6 +110691,9 @@
   "oral erythroplasia": [
     "HP:0030934"
   ],
+  "abnormal intestinal smooth muscle morphology": [
+    "HP:0030935"
+  ],
   "abnormality of intestinal smooth muscle morphology": [
     "HP:0030935"
   ],
@@ -110245,6 +110825,12 @@
   ],
   "conjunctival vascular congestion": [
     "HP:0030953"
+  ],
+  "addictive alcohol use": [
+    "HP:0030955"
+  ],
+  "alcohol addiction": [
+    "HP:0030955"
   ],
   "alcoholism": [
     "HP:0030955"
@@ -110594,6 +111180,9 @@
   "bone marrow hypercellularity": [
     "HP:0031020"
   ],
+  "myeloid hyperplasia": [
+    "HP:0031020"
+  ],
   "squamous papilloma": [
     "HP:0031021"
   ],
@@ -110723,11 +111312,20 @@
   "meiotic maturation arrest of spermatogenesis": [
     "HP:0031038"
   ],
-  "early spermatogenesis maturation arrest": [
+  "spermatocyte maturation arrest": [
+    "HP:0031039"
+  ],
+  "spermatocyte arrest": [
+    "HP:0031039"
+  ],
+  "spermatocyte meiotic arrest": [
     "HP:0031039"
   ],
   "spermatocytic arrest": [
     "HP:0031039"
+  ],
+  "round spermatid arrest": [
+    "HP:0031040"
   ],
   "late spermatogenesis maturation arrest": [
     "HP:0031040"
@@ -112001,6 +112599,9 @@
   "delirium": [
     "HP:0031258"
   ],
+  "altered consciousness or cognition": [
+    "HP:0031258"
+  ],
   "oophoritis": [
     "HP:0031259"
   ],
@@ -112472,7 +113073,31 @@
   "difficulty falling asleep": [
     "HP:0031354"
   ],
+  "increase sleep latency": [
+    "HP:0031354"
+  ],
+  "increased sleep latency": [
+    "HP:0031354"
+  ],
+  "insomnia early": [
+    "HP:0031354"
+  ],
+  "insomnia initial": [
+    "HP:0031354"
+  ],
+  "trouble fall asleep": [
+    "HP:0031354"
+  ],
+  "trouble falling asleep": [
+    "HP:0031354"
+  ],
   "maintenance insomnia": [
+    "HP:0031355"
+  ],
+  "insomnia middle": [
+    "HP:0031355"
+  ],
+  "middle insomnia": [
     "HP:0031355"
   ],
   "wake up several time during the night": [
@@ -112484,6 +113109,9 @@
   "terminal insomnia": [
     "HP:0031356"
   ],
+  "early morning awakening": [
+    "HP:0031356"
+  ],
   "late insomnia": [
     "HP:0031356"
   ],
@@ -112491,6 +113119,9 @@
     "HP:0031357"
   ],
   "vegetative state": [
+    "HP:0031358"
+  ],
+  "unresponsive wakefulness": [
     "HP:0031358"
   ],
   "cutaneous sclerotic plaque": [
@@ -113063,16 +113694,16 @@
   "oligoclonal t cell expansion": [
     "HP:0031430"
   ],
-  "persistent repetition of word or sound": [
+  "persistent repetition of sound": [
     "HP:0031431"
   ],
-  "persistent repetition of words or sounds": [
+  "persistent repetition of sounds": [
     "HP:0031431"
   ],
-  "atypical repetitive behavior": [
+  "restrict or repetitive behavior or interest": [
     "HP:0031432"
   ],
-  "atypical repetitive behaviors": [
+  "restricted or repetitive behaviors or interests": [
     "HP:0031432"
   ],
   "alexithymia": [
@@ -113090,7 +113721,19 @@
   "monotonic speech": [
     "HP:0031435"
   ],
+  "flat speech": [
+    "HP:0031435"
+  ],
   "singsong intonation": [
+    "HP:0031436"
+  ],
+  "melodic speech": [
+    "HP:0031436"
+  ],
+  "sing song intonation": [
+    "HP:0031436"
+  ],
+  "sing - song intonation": [
     "HP:0031436"
   ],
   "pregnancy exposure": [
@@ -113204,19 +113847,28 @@
   "negative affectivity": [
     "HP:0031467"
   ],
+  "negative affect": [
+    "HP:0031467"
+  ],
+  "neuroticism": [
+    "HP:0031467"
+  ],
   "separation insecurity": [
     "HP:0031468"
   ],
-  "low self esteem": [
+  "low self - esteem": [
     "HP:0031469"
   ],
-  "risk take": [
-    "HP:0031472"
+  "worthlessness": [
+    "HP:0031469"
   ],
-  "risk taking": [
+  "risky behavior": [
     "HP:0031472"
   ],
   "hostility": [
+    "HP:0031473"
+  ],
+  "hostile": [
     "HP:0031473"
   ],
   "pulmonary chondroma": [
@@ -113858,6 +114510,9 @@
   "suicidal ideation": [
     "HP:0031589"
   ],
+  "suicidal perseveration": [
+    "HP:0031589"
+  ],
   "suicidality": [
     "HP:0031589"
   ],
@@ -114270,6 +114925,9 @@
     "HP:0031684"
   ],
   "abnormal stool composition": [
+    "HP:0031685"
+  ],
+  "abnormal faecal test result": [
     "HP:0031685"
   ],
   "abnormal faeces composition": [
@@ -115154,6 +115812,9 @@
   "euphoria": [
     "HP:0031844"
   ],
+  "euphoric mood": [
+    "HP:0031844"
+  ],
   "abnormal libido": [
     "HP:0031845"
   ],
@@ -115179,6 +115840,15 @@
     "HP:0031849"
   ],
   "inverted sleep - wake cycle": [
+    "HP:0031849"
+  ],
+  "reverse sleep - wake cycle": [
+    "HP:0031849"
+  ],
+  "reversed sleep - wake cycle": [
+    "HP:0031849"
+  ],
+  "sleep rhythm inversion": [
     "HP:0031849"
   ],
   "abnormal hematocrit": [
@@ -115307,10 +115977,19 @@
   "early chronotype": [
     "HP:0031873"
   ],
+  "advanced sleep onset": [
+    "HP:0031873"
+  ],
   "early sleep onset": [
     "HP:0031873"
   ],
   "late chronotype": [
+    "HP:0031874"
+  ],
+  "delay sleep onset": [
+    "HP:0031874"
+  ],
+  "delayed sleep onset": [
     "HP:0031874"
   ],
   "late sleep onset": [
@@ -116220,6 +116899,12 @@
     "HP:0032044"
   ],
   "decreased vigilance": [
+    "HP:0032044"
+  ],
+  "decrease alertness": [
+    "HP:0032044"
+  ],
+  "decreased alertness": [
     "HP:0032044"
   ],
   "hypoplastic carotid canal": [
@@ -118127,10 +118812,10 @@
   "obsolete abnormal csf amino acid level": [
     "HP:0032364"
   ],
-  "exacerbate by aspirin ingestion": [
+  "exacerbate by aspirin exposure": [
     "HP:0032365"
   ],
-  "exacerbated by aspirin ingestion": [
+  "exacerbated by aspirin exposure": [
     "HP:0032365"
   ],
   "positive direct antiglobulin test": [
@@ -118901,10 +119586,10 @@
   "smoking or tobacco use exacerbates symptoms": [
     "HP:0032500"
   ],
-  "exacerbate by contraceptive medication": [
+  "exacerbate by contraceptive medication exposure": [
     "HP:0032501"
   ],
-  "exacerbated by contraceptive medication": [
+  "exacerbated by contraceptive medication exposure": [
     "HP:0032501"
   ],
   "contraceptive pill aggravate symptom": [
@@ -118913,10 +119598,10 @@
   "contraceptive pills aggravate symptoms": [
     "HP:0032501"
   ],
-  "exacerbate by barbiturate medication": [
+  "exacerbate by barbiturate exposure": [
     "HP:0032502"
   ],
-  "exacerbated by barbiturate medication": [
+  "exacerbated by barbiturate exposure": [
     "HP:0032502"
   ],
   "barbiturate produce worsen": [
@@ -119045,10 +119730,10 @@
   "long thumb": [
     "HP:0032524"
   ],
-  "aggravate by acetylcholinesterase inhibitor": [
+  "exacerbate by acetylcholinesterase inhibitor exposure": [
     "HP:0032525"
   ],
-  "aggravated by acetylcholinesterase inhibitor": [
+  "exacerbated by acetylcholinesterase inhibitor exposure": [
     "HP:0032525"
   ],
   "ameliorate by acetylcholinesterase inhibitor": [
@@ -121442,10 +122127,10 @@
   "re - experiencing symptom": [
     "HP:0032936"
   ],
-  "recurrent , involuntary and intrusive distressing memory": [
+  "recurrent , involuntary , and intrusive distressing memory": [
     "HP:0032937"
   ],
-  "recurrent , involuntary and intrusive distressing memories": [
+  "recurrent , involuntary , and intrusive distressing memories": [
     "HP:0032937"
   ],
   "recurrent trauma - related distressing dream": [
@@ -121459,6 +122144,9 @@
   ],
   "physiological reactivity to cues": [
     "HP:0032939"
+  ],
+  "dissociation": [
+    "HP:0032940"
   ],
   "dissociative reaction": [
     "HP:0032940"
@@ -122204,7 +122892,16 @@
   "impaired executive functioning": [
     "HP:0033051"
   ],
+  "non - epileptic seizure": [
+    "HP:0033052"
+  ],
+  "functional seizure": [
+    "HP:0033052"
+  ],
   "psychogenic non - epileptic seizure": [
+    "HP:0033052"
+  ],
+  "psychosomatic seizure": [
     "HP:0033052"
   ],
   "pseudoseizure": [
@@ -122276,10 +122973,10 @@
   "abnormal factor ix activity": [
     "HP:0033062"
   ],
-  "shorten sleep cycle": [
+  "shorten sleep phase": [
     "HP:0033063"
   ],
-  "shortened sleep cycle": [
+  "shortened sleep phase": [
     "HP:0033063"
   ],
   "short sleep": [
@@ -124166,10 +124863,22 @@
   "elevated circulating stearoylcarnitine concentration": [
     "HP:0033381"
   ],
+  "elevate circulate c18:0 acylcarnitine concentration": [
+    "HP:0033381"
+  ],
+  "elevated circulating c18:0 acylcarnitine concentration": [
+    "HP:0033381"
+  ],
   "elevate circulate palmitoylcarnitine concentration": [
     "HP:0033382"
   ],
   "elevated circulating palmitoylcarnitine concentration": [
+    "HP:0033382"
+  ],
+  "elevate circulate 16:0 acylcarnitine concentration": [
+    "HP:0033382"
+  ],
+  "elevated circulating 16:0 acylcarnitine concentration": [
     "HP:0033382"
   ],
   "decrease compound muscle action potential amplitude": [
@@ -124493,6 +125202,12 @@
   "elevated circulating decenoylcarnitine concentration": [
     "HP:0033439"
   ],
+  "elevate circulate c10:1 acylcarnitine concentration": [
+    "HP:0033439"
+  ],
+  "elevated circulating c10:1 acylcarnitine concentration": [
+    "HP:0033439"
+  ],
   "elevate circulate o - decenoylcarnitine concentration": [
     "HP:0033439"
   ],
@@ -124509,6 +125224,12 @@
     "HP:0033440"
   ],
   "elevated circulating octenoylcarnitine concentration": [
+    "HP:0033440"
+  ],
+  "elevate circulate c8:1 acylcarnitine concentration": [
+    "HP:0033440"
+  ],
+  "elevated circulating c8:1 acylcarnitine concentration": [
     "HP:0033440"
   ],
   "elevate circulate o - octenoylcarnitine concentration": [
@@ -124529,6 +125250,12 @@
   "elevated circulating hexanoylcarnitine concentration": [
     "HP:0033441"
   ],
+  "elevate circulate c6:0 acylcarnitine concentration": [
+    "HP:0033441"
+  ],
+  "elevated circulating c6:0 acylcarnitine concentration": [
+    "HP:0033441"
+  ],
   "elevate circulate o - hexanoylcarnitine concentration": [
     "HP:0033441"
   ],
@@ -124547,6 +125274,12 @@
   "elevated circulating glutarylcarnitine concentration": [
     "HP:0033442"
   ],
+  "elevate circulate c5 - dc acylcarnitine concentration": [
+    "HP:0033442"
+  ],
+  "elevated circulating c5 - dc acylcarnitine concentration": [
+    "HP:0033442"
+  ],
   "elevate circulate o - glutarylcarnitine concentration": [
     "HP:0033442"
   ],
@@ -124563,6 +125296,12 @@
     "HP:0033443"
   ],
   "elevated circulating propionylcarnitine concentration": [
+    "HP:0033443"
+  ],
+  "elevate c3 acylcarnitine": [
+    "HP:0033443"
+  ],
+  "elevated c3 acylcarnitine": [
     "HP:0033443"
   ],
   "elevate circulate dodecanoylcarnitine concentration": [
@@ -124715,6 +125454,12 @@
   "elevated circulating oleylcarnitine concentration": [
     "HP:0033462"
   ],
+  "elevate circulate c18:1 acylcarnitine concentration": [
+    "HP:0033462"
+  ],
+  "elevated circulating c18:1 acylcarnitine concentration": [
+    "HP:0033462"
+  ],
   "elevate plasma oleylcarnitine , c18:1": [
     "HP:0033462"
   ],
@@ -124836,6 +125581,12 @@
     "HP:0033484"
   ],
   "elevated circulating linoleylcarnitine concentration": [
+    "HP:0033484"
+  ],
+  "elevate circulate c18:2 acylcarnitine concentration": [
+    "HP:0033484"
+  ],
+  "elevated circulating c18:2 acylcarnitine concentration": [
     "HP:0033484"
   ],
   "elevate plasma linoleylcarnitine , c18:2": [
@@ -124991,8 +125742,17 @@
   "cornu cutaneum": [
     "HP:0033510"
   ],
+  "addictive substance use": [
+    "HP:0033511"
+  ],
+  "addictive drug use": [
+    "HP:0033511"
+  ],
   "drug addiction": [
     "HP:0033511"
+  ],
+  "addictive stimulant use": [
+    "HP:0033512"
   ],
   "stimulant addiction": [
     "HP:0033512"
@@ -125000,11 +125760,17 @@
   "stimulant dependence": [
     "HP:0033512"
   ],
+  "addictive cocaine use": [
+    "HP:0033513"
+  ],
   "cocaine addiction": [
     "HP:0033513"
   ],
   "cocaine dependence": [
     "HP:0033513"
+  ],
+  "addictive amphetamine use": [
+    "HP:0033514"
   ],
   "amphetamine addiction": [
     "HP:0033514"
@@ -125018,17 +125784,23 @@
   "dextroamphetamine dependence": [
     "HP:0033514"
   ],
+  "addictive opioid use": [
+    "HP:0033515"
+  ],
   "opioid addiction": [
     "HP:0033515"
   ],
   "opioid dependence": [
     "HP:0033515"
   ],
-  "benzodiazepine addiction": [
+  "addictive benzodiazepine use": [
     "HP:0033516"
   ],
   "benzodiazepine dependence": [
     "HP:0033516"
+  ],
+  "addictive heroin use": [
+    "HP:0033517"
   ],
   "heroin addiction": [
     "HP:0033517"
@@ -125036,11 +125808,17 @@
   "heroin dependence": [
     "HP:0033517"
   ],
+  "addictive methylphenidate use": [
+    "HP:0033518"
+  ],
   "methylphenidate addiction": [
     "HP:0033518"
   ],
   "methylphenidate dependence": [
     "HP:0033518"
+  ],
+  "addictive methamphetamine use": [
+    "HP:0033519"
   ],
   "methamphetamine addiction": [
     "HP:0033519"
@@ -125189,7 +125967,7 @@
   "peribronchial thickening": [
     "HP:0033542"
   ],
-  "nicotine addiction": [
+  "addictive nicotine use": [
     "HP:0033543"
   ],
   "nicotine dependence": [
@@ -126050,9 +126828,6 @@
   "phantosmia": [
     "HP:0033693"
   ],
-  "olfactory hallucination": [
-    "HP:0033693"
-  ],
   "phantom odor": [
     "HP:0033693"
   ],
@@ -126108,6 +126883,12 @@
     "HP:0033704"
   ],
   "tearfulness": [
+    "HP:0033705"
+  ],
+  "cry episode": [
+    "HP:0033705"
+  ],
+  "crying episodes": [
     "HP:0033705"
   ],
   "progressive massive fibrosis": [
@@ -126860,6 +127641,9 @@
   "dysphoria": [
     "HP:0033838"
   ],
+  "dysphoric mood": [
+    "HP:0033838"
+  ],
   "testicular pain": [
     "HP:0033839"
   ],
@@ -127073,6 +127857,12 @@
   "medullary peritubular capillary lumen organized thrombi": [
     "HP:0033871"
   ],
+  "organise thrombus within the medullary peritubular capillary lumen": [
+    "HP:0033871"
+  ],
+  "organised thrombi within the medullary peritubular capillary lumen": [
+    "HP:0033871"
+  ],
   "organize thrombus within the medullary peritubular capillary lumen": [
     "HP:0033871"
   ],
@@ -127136,6 +127926,12 @@
   "arcuate vein lumen organized thrombi": [
     "HP:0033878"
   ],
+  "organise thrombus within arcuate vein lumen": [
+    "HP:0033878"
+  ],
+  "organised thrombi within arcuate vein lumen": [
+    "HP:0033878"
+  ],
   "organize thrombus within arcuate vein lumen": [
     "HP:0033878"
   ],
@@ -127155,6 +127951,12 @@
     "HP:0033880"
   ],
   "intimal mucoid edema within arcuate veins": [
+    "HP:0033880"
+  ],
+  "intimal mucoid oedema within arcuate vein": [
+    "HP:0033880"
+  ],
+  "intimal mucoid oedema within arcuate veins": [
     "HP:0033880"
   ],
   "arcuate vein intimal / medial myxomatous degeneration": [
@@ -127308,6 +128110,12 @@
     "HP:0033899"
   ],
   "arcuate artery lumen organized thrombi": [
+    "HP:0033899"
+  ],
+  "organise thrombus within arcuate arterial lumen": [
+    "HP:0033899"
+  ],
+  "organised thrombi within arcuate arterial lumen": [
     "HP:0033899"
   ],
   "organize thrombus within arcuate arterial lumen": [
@@ -127778,6 +128586,12 @@
   "cortical radial artery intraluminal organized thrombi": [
     "HP:0033951"
   ],
+  "organise thrombus within interlobular arterial lumen": [
+    "HP:0033951"
+  ],
+  "organised thrombi within interlobular arterial lumen": [
+    "HP:0033951"
+  ],
   "organize thrombus within interlobular arterial lumen": [
     "HP:0033951"
   ],
@@ -127865,6 +128679,12 @@
   "intimal mucoid edema within interlobular arterial intima / media": [
     "HP:0033960"
   ],
+  "intimal mucoid oedema within interlobular arterial intima / medium": [
+    "HP:0033960"
+  ],
+  "intimal mucoid oedema within interlobular arterial intima / media": [
+    "HP:0033960"
+  ],
   "cortical radial artery intima / medium multilamellation": [
     "HP:0033961"
   ],
@@ -127911,6 +128731,12 @@
     "HP:0033965"
   ],
   "intimal mucoid edema within interlobular veins": [
+    "HP:0033965"
+  ],
+  "intimal mucoid oedema within interlobular vein": [
+    "HP:0033965"
+  ],
+  "intimal mucoid oedema within interlobular veins": [
     "HP:0033965"
   ],
   "interlobular vein intima / medium amyloidosis": [
@@ -128040,6 +128866,9 @@
     "HP:0033978"
   ],
   "reduced beta - hexosaminidase activity": [
+    "HP:0033978"
+  ],
+  "hexosaminidase b low in blood": [
     "HP:0033978"
   ],
   "excessive dynamic airway collapse": [
@@ -128432,6 +129261,12 @@
   "angular muscle fibers": [
     "HP:0034045"
   ],
+  "angular muscle fibre": [
+    "HP:0034045"
+  ],
+  "angular muscle fibres": [
+    "HP:0034045"
+  ],
   "mandibular osteolysis": [
     "HP:0034046"
   ],
@@ -128507,10 +129342,16 @@
   "structural fetal anomaly": [
     "HP:0034058"
   ],
+  "structural foetal anomaly": [
+    "HP:0034058"
+  ],
   "abnormal fetal physiology": [
     "HP:0034059"
   ],
   "functional fetal anomaly": [
+    "HP:0034059"
+  ],
+  "functional foetal anomaly": [
     "HP:0034059"
   ],
   "trigger by fava bean ingestion": [
@@ -129257,6 +130098,9 @@
   "early fetal onset": [
     "HP:0034199"
   ],
+  "early foetal onset": [
+    "HP:0034199"
+  ],
   "abnormal csf homovanillic acid concentration": [
     "HP:0034200"
   ],
@@ -129290,6 +130134,9 @@
   "abnormal fetal cns morphology": [
     "HP:0034206"
   ],
+  "abnormal foetal cns morphology": [
+    "HP:0034206"
+  ],
   "abnormal fetal gastrointestinal system morphology": [
     "HP:0034207"
   ],
@@ -129300,6 +130147,9 @@
     "HP:0034209"
   ],
   "grade i fetal intracranial hemorrhage": [
+    "HP:0034209"
+  ],
+  "grade i foetal intracranial haemorrhage": [
     "HP:0034209"
   ],
   "fetal intraventricular hemorrhage": [
@@ -129320,6 +130170,9 @@
   "grade ii fetal intracranial hemorrhage": [
     "HP:0034214"
   ],
+  "grade ii foetal intracranial haemorrhage": [
+    "HP:0034214"
+  ],
   "fetal cerebellar hemisphere hemorrhage": [
     "HP:0034215"
   ],
@@ -129335,10 +130188,16 @@
   "grade iii fetal intracranial hemorrhage": [
     "HP:0034218"
   ],
+  "grade iii foetal intracranial haemorrhage": [
+    "HP:0034218"
+  ],
   "fetal intraventricular hemorrhage with periventricular hemorrhage": [
     "HP:0034219"
   ],
   "grade iv fetal intracranial hemorrhage": [
+    "HP:0034219"
+  ],
+  "grade iv foetal intracranial haemorrhage": [
     "HP:0034219"
   ],
   "temporal lobe megalencephaly": [
@@ -129650,10 +130509,19 @@
   "multinucleated erythroblast": [
     "HP:0034278"
   ],
+  "binucleated erythroblast": [
+    "HP:0034278"
+  ],
   "bone marrow : multinucleated erythroblast": [
     "HP:0034278"
   ],
   "bone marrow : multinucleated erythroblasts": [
+    "HP:0034278"
+  ],
+  "double - nucleate erythroblast": [
+    "HP:0034278"
+  ],
+  "double - nucleated erythroblast": [
     "HP:0034278"
   ],
   "multinucleate erythroblast": [
@@ -129923,6 +130791,12 @@
   "elevated circulating guanidinoacetic acid concentration": [
     "HP:0034321"
   ],
+  "increase circulate guanidinoacetic acid concentration": [
+    "HP:0034321"
+  ],
+  "increased circulating guanidinoacetic acid concentration": [
+    "HP:0034321"
+  ],
   "reduced galactocerebrosidase activity": [
     "HP:0034322"
   ],
@@ -129957,6 +130831,12 @@
     "HP:0034327"
   ],
   "punctiform multicolored opacities in the posterior corneal stroma": [
+    "HP:0034327"
+  ],
+  "punctiform multicoloured opacity in the posterior corneal stroma": [
+    "HP:0034327"
+  ],
+  "punctiform multicoloured opacities in the posterior corneal stroma": [
     "HP:0034327"
   ],
   "fibro - obliterative bile - duct lesion": [
@@ -129994,6 +130874,9 @@
   ],
   "hypoxanthine high in blood": [
     "HP:0034333"
+  ],
+  "inheritance qualifier": [
+    "HP:0034335"
   ],
   "inheritance modifier": [
     "HP:0034335"
@@ -130187,10 +131070,10 @@
   "fracture blister": [
     "HP:0034366"
   ],
-  "decrease beta - mannosidase activity": [
+  "decrease circulate beta - mannosidase activity": [
     "HP:0034367"
   ],
-  "decreased beta - mannosidase activity": [
+  "decreased circulating beta - mannosidase activity": [
     "HP:0034367"
   ],
   "urolithiasis": [
@@ -130286,6 +131169,9 @@
   "hilar lymph node enlargement": [
     "HP:0034388"
   ],
+  "hilar adenopathy": [
+    "HP:0034388"
+  ],
   "hilar lymphadenopathy": [
     "HP:0034388"
   ],
@@ -130355,6 +131241,9 @@
   "malignant rhabdoid tumor of the kidney": [
     "HP:0034402"
   ],
+  "malignant rhabdoid tumour of the kidney": [
+    "HP:0034402"
+  ],
   "subcutaneous panniculitis - like t - cell lymphoma": [
     "HP:0034403"
   ],
@@ -130383,6 +131272,12 @@
     "HP:0034406"
   ],
   "angiotensin - converting enzyme ( ace ) high in csf": [
+    "HP:0034406"
+  ],
+  "angiotensin - convert enzyme high in csf": [
+    "HP:0034406"
+  ],
+  "angiotensin - converting enzyme high in csf": [
     "HP:0034406"
   ],
   "reduce circulate 3 - ketoacyl - coa thiolase concentration": [
@@ -130488,6 +131383,12 @@
     "HP:0034425"
   ],
   "hair sulfur content reduced": [
+    "HP:0034425"
+  ],
+  "hair sulphur content reduce": [
+    "HP:0034425"
+  ],
+  "hair sulphur content reduced": [
     "HP:0034425"
   ],
   "chromhidrosis": [
@@ -130799,6 +131700,12 @@
   "chloride high in stool": [
     "HP:0034470"
   ],
+  "elevation in faecal chloride concentration": [
+    "HP:0034470"
+  ],
+  "elevations in faecal chloride concentration": [
+    "HP:0034470"
+  ],
   "elevation in fecal chloride concentration": [
     "HP:0034470"
   ],
@@ -130809,6 +131716,9 @@
     "HP:0034471"
   ],
   "coproporphyrin isomer iii / i ratio high in stool": [
+    "HP:0034471"
+  ],
+  "increased faecal ciii : ci ratio": [
     "HP:0034471"
   ],
   "increased fecal ciii : ci ratio": [
@@ -131090,13 +132000,19 @@
   "muscle biopsy : fingerprint bodies at periphery of muscle fibers": [
     "HP:0034508"
   ],
+  "muscle biopsy : fingerprint body at periphery of muscle fibre": [
+    "HP:0034508"
+  ],
+  "muscle biopsy : fingerprint bodies at periphery of muscle fibres": [
+    "HP:0034508"
+  ],
   "spheroid body": [
     "HP:0034509"
   ],
   "spheroid bodies": [
     "HP:0034509"
   ],
-  "abnormal muscle tissue enzyme activity": [
+  "abnormal muscle tissue enzyme activity or level": [
     "HP:0034510"
   ],
   "reduce muscle aconitase activity": [
@@ -132440,10 +133356,10 @@
   "peripheral axonal distension": [
     "HP:0034711"
   ],
-  "decrease alpha - mannosidase activity": [
+  "decrease circulate alpha - mannosidase activity": [
     "HP:0034712"
   ],
-  "decreased alpha - mannosidase activity": [
+  "decreased circulating alpha - mannosidase activity": [
     "HP:0034712"
   ],
   "abnormal hepatocyte morphology": [
@@ -132464,16 +133380,22 @@
   "reduced heme oxygenase activity": [
     "HP:0034716"
   ],
-  "cerebral cortex swell achromatic neuron": [
+  "swell achromatic neuron in the cerebral cortex": [
     "HP:0034717"
   ],
-  "cerebral cortex swollen achromatic neurons": [
+  "swollen achromatic neurons in the cerebral cortex": [
     "HP:0034717"
   ],
   "cerebral cortex pick cell": [
     "HP:0034717"
   ],
   "cerebral cortex pick cells": [
+    "HP:0034717"
+  ],
+  "cerebral cortex swell achromatic neuron": [
+    "HP:0034717"
+  ],
+  "cerebral cortex swollen achromatic neurons": [
     "HP:0034717"
   ],
   "vacuolated hepatocytes": [
@@ -132518,31 +133440,37 @@
   "cystine low in csf": [
     "HP:0034724"
   ],
-  "abnormal beta - mannosidase activity": [
+  "abnormal circulate beta - mannosidase activity": [
     "HP:0034725"
   ],
-  "elevate beta - mannosidase activity": [
+  "abnormal circulating beta - mannosidase activity": [
+    "HP:0034725"
+  ],
+  "elevate circulate beta - mannosidase activity": [
     "HP:0034726"
   ],
-  "elevated beta - mannosidase activity": [
+  "elevated circulating beta - mannosidase activity": [
     "HP:0034726"
   ],
   "beta - mannosidase high in blood": [
     "HP:0034726"
   ],
-  "reduce alpha - l - fucosidase activity": [
+  "reduce circulate alpha - l - fucosidase activity": [
     "HP:0034727"
   ],
-  "reduced alpha - l - fucosidase activity": [
+  "reduced circulating alpha - l - fucosidase activity": [
     "HP:0034727"
   ],
-  "abnormal alpha - l - fucosidase activity": [
+  "abnormal circulate alpha - l - fucosidase activity": [
     "HP:0034728"
   ],
-  "elevate alpha - l - fucosidase activity": [
+  "abnormal circulating alpha - l - fucosidase activity": [
+    "HP:0034728"
+  ],
+  "elevate circulate alpha - l - fucosidase activity": [
     "HP:0034729"
   ],
-  "elevated alpha - l - fucosidase activity": [
+  "elevated circulating alpha - l - fucosidase activity": [
     "HP:0034729"
   ],
   "elevate circulate s - adenosyl - l - homocysteine concentration": [
@@ -132737,14 +133665,23 @@
   "ameliorated by nonsteroidal anti - inflammatory drug": [
     "HP:0034755"
   ],
+  "fetal exposure history": [
+    "HP:0034756"
+  ],
+  "fetal medication or drug exposure": [
+    "HP:0034756"
+  ],
   "maternal exposure history": [
     "HP:0034756"
   ],
-  "maternal barbiturate exposure": [
+  "fetal barbiturate exposure": [
     "HP:0034757"
   ],
   "maternal barbiturate use": [
     "HP:0034757"
+  ],
+  "fetal narcotic exposure": [
+    "HP:0034758"
   ],
   "maternal narcotic exposure": [
     "HP:0034758"
@@ -132895,6 +133832,1434 @@
   ],
   "purulent stensen duct drainage": [
     "HP:0034781"
+  ],
+  "obstipation": [
+    "HP:0034782"
+  ],
+  "lack of flatulence": [
+    "HP:0034782"
+  ],
+  "no gas passage": [
+    "HP:0034782"
+  ],
+  "tympanic distend abdomen": [
+    "HP:0034782"
+  ],
+  "tympanic distended abdomen": [
+    "HP:0034782"
+  ],
+  "posttussive emesis": [
+    "HP:0034783"
+  ],
+  "vasculitis by anatomical site": [
+    "HP:0034784"
+  ],
+  "vasculitis by histology": [
+    "HP:0034785"
+  ],
+  "leukocytoclastic vasculitis": [
+    "HP:0034786"
+  ],
+  "accumulation of lipid droplet in small - bowel enterocytes": [
+    "HP:0034787"
+  ],
+  "accumulation of lipid droplets in small - bowel enterocytes": [
+    "HP:0034787"
+  ],
+  "pericardial friction rub": [
+    "HP:0034788"
+  ],
+  "cardiac rub": [
+    "HP:0034788"
+  ],
+  "muscular vasculitis": [
+    "HP:0034789"
+  ],
+  "skeletal muscle vasculitis": [
+    "HP:0034789"
+  ],
+  "abnormal muscle succinate dehydrogenase stain": [
+    "HP:0034790"
+  ],
+  "abnormal muscle succinate dehydrogenase staining": [
+    "HP:0034790"
+  ],
+  "increase muscle succinate dehydrogenase stain": [
+    "HP:0034791"
+  ],
+  "increased muscle succinate dehydrogenase staining": [
+    "HP:0034791"
+  ],
+  "decreased muscle succinate dehydrogenase stain": [
+    "HP:0034792"
+  ],
+  "decreased muscle succinate dehydrogenase staining": [
+    "HP:0034792"
+  ],
+  "small intestinal hamartoma": [
+    "HP:0034793"
+  ],
+  "pyriform sperm head": [
+    "HP:0034794"
+  ],
+  "pyriform head": [
+    "HP:0034794"
+  ],
+  "excess residual spermatozoal cytoplasm": [
+    "HP:0034795"
+  ],
+  "cardiomyocyte hyaline body": [
+    "HP:0034796"
+  ],
+  "cardiomyocyte hyaline bodies": [
+    "HP:0034796"
+  ],
+  "hepatic hemophagocytosis": [
+    "HP:0034797"
+  ],
+  "csf hemophagocytosis": [
+    "HP:0034798"
+  ],
+  "hemophagocytosis in csf": [
+    "HP:0034798"
+  ],
+  "splenic hemophagocytosis": [
+    "HP:0034799"
+  ],
+  "spleen hemophagocytosis": [
+    "HP:0034799"
+  ],
+  "urinary bladder granulomatosis": [
+    "HP:0034800"
+  ],
+  "urinary bladder granuloma": [
+    "HP:0034800"
+  ],
+  "urinary bladder granulomas": [
+    "HP:0034800"
+  ],
+  "epidermal necrosis": [
+    "HP:0034801"
+  ],
+  "exacerbate by flexion": [
+    "HP:0034802"
+  ],
+  "exacerbated by flexion": [
+    "HP:0034802"
+  ],
+  "hemolacria": [
+    "HP:0034803"
+  ],
+  "bloody epiphora": [
+    "HP:0034803"
+  ],
+  "bloody tear": [
+    "HP:0034803"
+  ],
+  "bloody tears": [
+    "HP:0034803"
+  ],
+  "red tear": [
+    "HP:0034803"
+  ],
+  "red tears": [
+    "HP:0034803"
+  ],
+  "corneal foreign body sensation": [
+    "HP:0034804"
+  ],
+  "buttock pain": [
+    "HP:0034805"
+  ],
+  "vaginal foreign body sensation": [
+    "HP:0034806"
+  ],
+  "paroxysmal nocturnal dyspnea": [
+    "HP:0034807"
+  ],
+  "paroxysmal nocturnal dyspnoea": [
+    "HP:0034807"
+  ],
+  "eyelid pain": [
+    "HP:0034808"
+  ],
+  "abnormal sperm physiology": [
+    "HP:0034809"
+  ],
+  "small acrosomal area": [
+    "HP:0034810"
+  ],
+  "bent sperm flagellum": [
+    "HP:0034811"
+  ],
+  "bent sperm flagella": [
+    "HP:0034811"
+  ],
+  "spermiation failure": [
+    "HP:0034812"
+  ],
+  "hypospermatogenesis": [
+    "HP:0034813"
+  ],
+  "conjunctival membrane": [
+    "HP:0034814"
+  ],
+  "extreme oligozoospermia": [
+    "HP:0034815"
+  ],
+  "mild oligozoospermia": [
+    "HP:0034816"
+  ],
+  "moderate oligozoospermia": [
+    "HP:0034817"
+  ],
+  "severe oligozoospermia": [
+    "HP:0034818"
+  ],
+  "iris nodule": [
+    "HP:0034819"
+  ],
+  "koeppe nodule": [
+    "HP:0034820"
+  ],
+  "koeppe nodules": [
+    "HP:0034820"
+  ],
+  "koeppe iris nodule": [
+    "HP:0034820"
+  ],
+  "koeppe iris nodules": [
+    "HP:0034820"
+  ],
+  "koeppe 's nodule": [
+    "HP:0034820"
+  ],
+  "koeppe 's nodules": [
+    "HP:0034820"
+  ],
+  "bussaca nodule": [
+    "HP:0034821"
+  ],
+  "bussaca nodules": [
+    "HP:0034821"
+  ],
+  "abnormal csf ion concentration": [
+    "HP:0034822"
+  ],
+  "decrease csf copper concentration": [
+    "HP:0034823"
+  ],
+  "decreased csf copper concentration": [
+    "HP:0034823"
+  ],
+  "copper low in cerebrospinal fluid": [
+    "HP:0034823"
+  ],
+  "diffuse pulmonary lymphoid hyperplasia": [
+    "HP:0034824"
+  ],
+  "ameliorate by steroid medication": [
+    "HP:0034825"
+  ],
+  "ameliorated by steroid medication": [
+    "HP:0034825"
+  ],
+  "trigger by medication exposure": [
+    "HP:0034826"
+  ],
+  "triggered by medication exposure": [
+    "HP:0034826"
+  ],
+  "trigger by levothyroxin exposure": [
+    "HP:0034827"
+  ],
+  "triggered by levothyroxin exposure": [
+    "HP:0034827"
+  ],
+  "reduce muscle laminin alpha - 2 chain staining": [
+    "HP:0034828"
+  ],
+  "reduced muscle laminin alpha - 2 chain staining": [
+    "HP:0034828"
+  ],
+  "adrenal cortical sclerosis": [
+    "HP:0034829"
+  ],
+  "reduce hepatic fructose - 1,6 - phosphate aldolase activity": [
+    "HP:0034830"
+  ],
+  "reduced hepatic fructose - 1,6 - phosphate aldolase activity": [
+    "HP:0034830"
+  ],
+  "pancreatic hamartoma": [
+    "HP:0034831"
+  ],
+  "liver angiomyolipoma": [
+    "HP:0034832"
+  ],
+  "hepatic angiomyolipoma": [
+    "HP:0034832"
+  ],
+  "cardiac lipoma": [
+    "HP:0034833"
+  ],
+  "peripheral nerve polyglucosan inclusion body": [
+    "HP:0034834"
+  ],
+  "peripheral nerve polyglucosan inclusion bodies": [
+    "HP:0034834"
+  ],
+  "cardiac polyglucosan accumulation": [
+    "HP:0034835"
+  ],
+  "cystic nephroma": [
+    "HP:0034836"
+  ],
+  "bbenign multilocular cystic nephroma": [
+    "HP:0034836"
+  ],
+  "multicystic nephroma": [
+    "HP:0034836"
+  ],
+  "multilocular cystic renal tumor": [
+    "HP:0034836"
+  ],
+  "polycystic nephroblastoma": [
+    "HP:0034836"
+  ],
+  "absent dermal elastic fiber": [
+    "HP:0034837"
+  ],
+  "absent dermal elastic fibers": [
+    "HP:0034837"
+  ],
+  "cleavage at junction of stratum corneum and stratum granulosum": [
+    "HP:0034838"
+  ],
+  "lymphoid hyperplasia": [
+    "HP:0034839"
+  ],
+  "absence of epidermal lamellar body": [
+    "HP:0034840"
+  ],
+  "absence of epidermal lamellar bodies": [
+    "HP:0034840"
+  ],
+  "gastrointestinal granulomatosis": [
+    "HP:0034841"
+  ],
+  "enlarge sperm head vacuole": [
+    "HP:0034842"
+  ],
+  "enlarged sperm head vacuole": [
+    "HP:0034842"
+  ],
+  "ureteral hamartoma": [
+    "HP:0034843"
+  ],
+  "fetal methimazole exposure": [
+    "HP:0034844"
+  ],
+  "maternal methimazole exposure": [
+    "HP:0034844"
+  ],
+  "methimazole exposure during gestation": [
+    "HP:0034844"
+  ],
+  "fetal procarbazine exposure": [
+    "HP:0034845"
+  ],
+  "maternal procarbazine exposure": [
+    "HP:0034845"
+  ],
+  "procarbazine exposure during gestation": [
+    "HP:0034845"
+  ],
+  "fetal fluorouracil exposure": [
+    "HP:0034846"
+  ],
+  "fluorouracil exposure during gestation": [
+    "HP:0034846"
+  ],
+  "maternal fluorouracil exposure": [
+    "HP:0034846"
+  ],
+  "fetal cytarabine exposure": [
+    "HP:0034847"
+  ],
+  "cytarabine exposure during gestation": [
+    "HP:0034847"
+  ],
+  "maternal cytarabine exposure": [
+    "HP:0034847"
+  ],
+  "fetal tetracycline exposure": [
+    "HP:0034848"
+  ],
+  "maternal tetracycline exposure": [
+    "HP:0034848"
+  ],
+  "tetracycline exposure during gestation": [
+    "HP:0034848"
+  ],
+  "fetal quinine exposure": [
+    "HP:0034849"
+  ],
+  "maternal quinine exposure": [
+    "HP:0034849"
+  ],
+  "quinine exposure during gestation": [
+    "HP:0034849"
+  ],
+  "fetal cyclophosphamide exposure": [
+    "HP:0034850"
+  ],
+  "cyclophosphamide exposure during gestation": [
+    "HP:0034850"
+  ],
+  "maternal cyclophosphamide exposure": [
+    "HP:0034850"
+  ],
+  "fetal metronidazole exposure": [
+    "HP:0034851"
+  ],
+  "maternal metronidazole exposure": [
+    "HP:0034851"
+  ],
+  "metronidazole exposure during gestation": [
+    "HP:0034851"
+  ],
+  "fetal phenobarbital exposure": [
+    "HP:0034852"
+  ],
+  "maternal phenobarbital exposure": [
+    "HP:0034852"
+  ],
+  "phenobarbital exposure during gestation": [
+    "HP:0034852"
+  ],
+  "fetal phenytoin exposure": [
+    "HP:0034853"
+  ],
+  "maternal phenytoin exposure": [
+    "HP:0034853"
+  ],
+  "phenytoin exposure during gestation": [
+    "HP:0034853"
+  ],
+  "periumbilical": [
+    "HP:0034854"
+  ],
+  "maternal obesity during pregnancy": [
+    "HP:0034855"
+  ],
+  "maternal amniocentesis": [
+    "HP:0034856"
+  ],
+  "typify by highly variable age of onset": [
+    "HP:0034857"
+  ],
+  "typified by highly variable age of onset": [
+    "HP:0034857"
+  ],
+  "abnormal leukocyte enzyme concentration or activity": [
+    "HP:0034858"
+  ],
+  "reduce leukocyte beta - glucuronidase activity": [
+    "HP:0034859"
+  ],
+  "reduced leukocyte beta - glucuronidase activity": [
+    "HP:0034859"
+  ],
+  "beta - glucuronidase low in leukocyte": [
+    "HP:0034859"
+  ],
+  "beta - glucuronidase low in leukocytes": [
+    "HP:0034859"
+  ],
+  "reduce leukocyte alpha - l - fucosidase activity": [
+    "HP:0034860"
+  ],
+  "reduced leukocyte alpha - l - fucosidase activity": [
+    "HP:0034860"
+  ],
+  "reduce leukocyte arylsulfatase b activity": [
+    "HP:0034861"
+  ],
+  "reduced leukocyte arylsulfatase b activity": [
+    "HP:0034861"
+  ],
+  "reduce leukocyte steroid sulfatase activity": [
+    "HP:0034862"
+  ],
+  "reduced leukocyte steroid sulfatase activity": [
+    "HP:0034862"
+  ],
+  "reduce leukocyte arylsulfatase c activity": [
+    "HP:0034862"
+  ],
+  "reduced leukocyte arylsulfatase c activity": [
+    "HP:0034862"
+  ],
+  "reduce leukocyte arylsulfatase a activity": [
+    "HP:0034863"
+  ],
+  "reduced leukocyte arylsulfatase a activity": [
+    "HP:0034863"
+  ],
+  "decrease alpha - galactosidase a activity": [
+    "HP:0034864"
+  ],
+  "decreased alpha - galactosidase a activity": [
+    "HP:0034864"
+  ],
+  "positive fecal parasite test": [
+    "HP:0034865"
+  ],
+  "positive stool parasite test": [
+    "HP:0034865"
+  ],
+  "positive stool infectious agent test": [
+    "HP:0034866"
+  ],
+  "positive stool giardia antigen": [
+    "HP:0034867"
+  ],
+  "entamoeba histolytica antibody positive in stool": [
+    "HP:0034868"
+  ],
+  "reduce erythrocyte free porphyrin concentration": [
+    "HP:0034869"
+  ],
+  "reduced erythrocyte free porphyrin concentration": [
+    "HP:0034869"
+  ],
+  "reduce circulate urocanic acid concentration": [
+    "HP:0034870"
+  ],
+  "reduced circulating urocanic acid concentration": [
+    "HP:0034870"
+  ],
+  "urocanic acid low in blood": [
+    "HP:0034870"
+  ],
+  "decrease urinary epinephrine level": [
+    "HP:0034871"
+  ],
+  "decreased urinary epinephrine level": [
+    "HP:0034871"
+  ],
+  "decrease csf epinephrine concentration": [
+    "HP:0034872"
+  ],
+  "decreased csf epinephrine concentration": [
+    "HP:0034872"
+  ],
+  "decrease circulate epinephrine concentration": [
+    "HP:0034873"
+  ],
+  "decreased circulating epinephrine concentration": [
+    "HP:0034873"
+  ],
+  "decrease circulate norepinephrine concentration": [
+    "HP:0034874"
+  ],
+  "decreased circulating norepinephrine concentration": [
+    "HP:0034874"
+  ],
+  "decrease urinary norepinephrine level": [
+    "HP:0034875"
+  ],
+  "decreased urinary norepinephrine level": [
+    "HP:0034875"
+  ],
+  "decrease urinary metaepinephrine level": [
+    "HP:0034876"
+  ],
+  "decreased urinary metaepinephrine level": [
+    "HP:0034876"
+  ],
+  "decrease csf metanephrine concentration": [
+    "HP:0034877"
+  ],
+  "decreased csf metanephrine concentration": [
+    "HP:0034877"
+  ],
+  "decrease circulate metanephrine concentration": [
+    "HP:0034878"
+  ],
+  "decreased circulating metanephrine concentration": [
+    "HP:0034878"
+  ],
+  "ovarian mass": [
+    "HP:0034879"
+  ],
+  "adrenal mass": [
+    "HP:0034880"
+  ],
+  "uterine mass": [
+    "HP:0034881"
+  ],
+  "prostatic calculus": [
+    "HP:0034882"
+  ],
+  "prostatic calcul": [
+    "HP:0034882"
+  ],
+  "decrease portal vein velocity": [
+    "HP:0034883"
+  ],
+  "decreased portal vein velocity": [
+    "HP:0034883"
+  ],
+  "reduce portal venous flow": [
+    "HP:0034883"
+  ],
+  "reduced portal venous flow": [
+    "HP:0034883"
+  ],
+  "uterine cervix mass": [
+    "HP:0034884"
+  ],
+  "abnormal urinary uromodulin level": [
+    "HP:0034885"
+  ],
+  "decrease urinary uromodulin level": [
+    "HP:0034886"
+  ],
+  "decreased urinary uromodulin level": [
+    "HP:0034886"
+  ],
+  "uromodulin low in urine": [
+    "HP:0034886"
+  ],
+  "increase urine phenylacetylglutamine level": [
+    "HP:0034887"
+  ],
+  "increased urine phenylacetylglutamine level": [
+    "HP:0034887"
+  ],
+  "decrease urine guanidinoacetic acid level": [
+    "HP:0034888"
+  ],
+  "decreased urine guanidinoacetic acid level": [
+    "HP:0034888"
+  ],
+  "positive urine infectious agent nucleid acid test": [
+    "HP:0034889"
+  ],
+  "positive cmv urine nucleic acid test": [
+    "HP:0034890"
+  ],
+  "cytomegalovirus ( cmv ) pcr in urine positive": [
+    "HP:0034890"
+  ],
+  "positive cytomegalovirus urine nucleic acid test": [
+    "HP:0034890"
+  ],
+  "positive neisseria gonorrhoeae urine nucleic acid test": [
+    "HP:0034891"
+  ],
+  "neisseria gonorrhoeae pcr positive in urine": [
+    "HP:0034891"
+  ],
+  "positive enterovirus urine nucleic acid test": [
+    "HP:0034892"
+  ],
+  "enterovirus rt - pcr in urine": [
+    "HP:0034892"
+  ],
+  "elevate brain glycine level by mr": [
+    "HP:0034893"
+  ],
+  "elevated brain glycine level by mrs": [
+    "HP:0034893"
+  ],
+  "elevate brain polyol compound by mr": [
+    "HP:0034894"
+  ],
+  "elevated brain polyol compounds by mrs": [
+    "HP:0034894"
+  ],
+  "elevate brain gamma - aminobutyric acid by mr": [
+    "HP:0034895"
+  ],
+  "elevated brain gamma - aminobutyric acid by mrs": [
+    "HP:0034895"
+  ],
+  "elevate brain gaba by mr": [
+    "HP:0034895"
+  ],
+  "elevated brain gaba by mrs": [
+    "HP:0034895"
+  ],
+  "history of recent anticoagulant ingestion": [
+    "HP:0034896"
+  ],
+  "decrease circulate antidiuretic hormone concentration": [
+    "HP:0034897"
+  ],
+  "decreased circulating antidiuretic hormone concentration": [
+    "HP:0034897"
+  ],
+  "elevate circulate growth hormone - release hormone concentration": [
+    "HP:0034898"
+  ],
+  "elevated circulating growth hormone - releasing hormone concentration": [
+    "HP:0034898"
+  ],
+  "abnormal amniotic fluid protein concentration": [
+    "HP:0034899"
+  ],
+  "decrease amniotic fluid alpha - fetoprotein concentration": [
+    "HP:0034900"
+  ],
+  "decreased amniotic fluid alpha - fetoprotein concentration": [
+    "HP:0034900"
+  ],
+  "increase circulate vitamin e concentration": [
+    "HP:0034901"
+  ],
+  "increased circulating vitamin e concentration": [
+    "HP:0034901"
+  ],
+  "abnormal circulate calcitonin concentration": [
+    "HP:0034902"
+  ],
+  "abnormal circulating calcitonin concentration": [
+    "HP:0034902"
+  ],
+  "decrease circulate calcitonin concentration": [
+    "HP:0034903"
+  ],
+  "decreased circulating calcitonin concentration": [
+    "HP:0034903"
+  ],
+  "calcitonin low in blood": [
+    "HP:0034903"
+  ],
+  "decrease circulate thyrotropin release hormone concentration": [
+    "HP:0034904"
+  ],
+  "decreased circulating thyrotropin releasing hormone concentration": [
+    "HP:0034904"
+  ],
+  "decrease circulate trh concentration": [
+    "HP:0034904"
+  ],
+  "decreased circulating trh concentration": [
+    "HP:0034904"
+  ],
+  "thyrotropin release hormone ( trh ) low in blood": [
+    "HP:0034904"
+  ],
+  "thyrotropin releasing hormone ( trh ) low in blood": [
+    "HP:0034904"
+  ],
+  "elevate circulate uroporphyrin concentration": [
+    "HP:0034905"
+  ],
+  "elevated circulating uroporphyrin concentration": [
+    "HP:0034905"
+  ],
+  "increase urine pentacarboxylporphyrin level": [
+    "HP:0034906"
+  ],
+  "increased urine pentacarboxylporphyrin level": [
+    "HP:0034906"
+  ],
+  "pentacarboxylporphyrin high in urine": [
+    "HP:0034906"
+  ],
+  "increase urine hexacarboxylporphyrin level": [
+    "HP:0034907"
+  ],
+  "increased urine hexacarboxylporphyrin level": [
+    "HP:0034907"
+  ],
+  "hexacarboxylporphyrin high in urine": [
+    "HP:0034907"
+  ],
+  "increase circulate dehydroepiandrosterone concentration": [
+    "HP:0034908"
+  ],
+  "increased circulating dehydroepiandrosterone concentration": [
+    "HP:0034908"
+  ],
+  "dehydroepiandrosterone high in blood": [
+    "HP:0034908"
+  ],
+  "increase erythrocyte coproporphyrin concentration": [
+    "HP:0034909"
+  ],
+  "increased erythrocyte coproporphyrin concentration": [
+    "HP:0034909"
+  ],
+  "increase erythrocyte uroproporphyrin concentration": [
+    "HP:0034910"
+  ],
+  "increased erythrocyte uroproporphyrin concentration": [
+    "HP:0034910"
+  ],
+  "uroporphyrin high in erythrocyte": [
+    "HP:0034910"
+  ],
+  "uroporphyrin high in erythrocytes": [
+    "HP:0034910"
+  ],
+  "decrease circulate apolipoprotein e concentration": [
+    "HP:0034911"
+  ],
+  "decreased circulating apolipoprotein e concentration": [
+    "HP:0034911"
+  ],
+  "elevate circulate apolipoprotein e concentration": [
+    "HP:0034912"
+  ],
+  "elevated circulating apolipoprotein e concentration": [
+    "HP:0034912"
+  ],
+  "acrosomal hypoplasia": [
+    "HP:0034913"
+  ],
+  "oocyte maturation arrest": [
+    "HP:0034914"
+  ],
+  "abnormal anus morphology": [
+    "HP:0034915"
+  ],
+  "abnormal anus physiology": [
+    "HP:0034916"
+  ],
+  "weak anal sphincter tone": [
+    "HP:0034917"
+  ],
+  "reduce muscle 2,4 - dienoyl - coa reductase activity": [
+    "HP:0034918"
+  ],
+  "reduced muscle 2,4 - dienoyl - coa reductase activity": [
+    "HP:0034918"
+  ],
+  "muscle biopsy : 2,4 - dienoyl - coa reductase activity low": [
+    "HP:0034918"
+  ],
+  "reduce liver 2,4 - dienoyl - coa reductase activity": [
+    "HP:0034919"
+  ],
+  "reduced liver 2,4 - dienoyl - coa reductase activity": [
+    "HP:0034919"
+  ],
+  "nasal mucosa vasculitis": [
+    "HP:0034920"
+  ],
+  "pituitary blastoma": [
+    "HP:0034921"
+  ],
+  "peripheral axon spheroid formation": [
+    "HP:0034922"
+  ],
+  "reduce liver carboxylesterase 1 activity": [
+    "HP:0034923"
+  ],
+  "reduced liver carboxylesterase 1 activity": [
+    "HP:0034923"
+  ],
+  "abnormal dermis morphology": [
+    "HP:0034924"
+  ],
+  "perivascular dermis hyaline deposition": [
+    "HP:0034925"
+  ],
+  "perivascular small intestinal hyaline deposition": [
+    "HP:0034926"
+  ],
+  "large keratohyaline granule": [
+    "HP:0034927"
+  ],
+  "large keratohyaline granules": [
+    "HP:0034927"
+  ],
+  "decreased muscle lipoic acid content": [
+    "HP:0034928"
+  ],
+  "muscle biopsy : lipoic acid low": [
+    "HP:0034928"
+  ],
+  "reduce hepatic cystathionine gamma - lyase activity": [
+    "HP:0034929"
+  ],
+  "reduced hepatic cystathionine gamma - lyase activity": [
+    "HP:0034929"
+  ],
+  "reduce hepatic cystathionase activity": [
+    "HP:0034929"
+  ],
+  "reduced hepatic cystathionase activity": [
+    "HP:0034929"
+  ],
+  "digestive system neoplasm": [
+    "HP:0034930"
+  ],
+  "lumbar spondylosis": [
+    "HP:0034931"
+  ],
+  "lumbar spine osteoarthritis": [
+    "HP:0034931"
+  ],
+  "decrease circulate acid maltase activity": [
+    "HP:0034932"
+  ],
+  "decreased circulating acid maltase activity": [
+    "HP:0034932"
+  ],
+  "decrease alpha - 1,4 - glucosidase activity": [
+    "HP:0034932"
+  ],
+  "decreased alpha - 1,4 - glucosidase activity": [
+    "HP:0034932"
+  ],
+  "increase circulate ribitol concentration": [
+    "HP:0034933"
+  ],
+  "increased circulating ribitol concentration": [
+    "HP:0034933"
+  ],
+  "abnormal circulate 7 - dehydrocholesterol concentration": [
+    "HP:0034934"
+  ],
+  "abnormal circulating 7 - dehydrocholesterol concentration": [
+    "HP:0034934"
+  ],
+  "decrease circulate 7 - dehydrocholesterol concentration": [
+    "HP:0034935"
+  ],
+  "decreased circulating 7 - dehydrocholesterol concentration": [
+    "HP:0034935"
+  ],
+  "elevate circulate lathosterol concentration": [
+    "HP:0034936"
+  ],
+  "elevated circulating lathosterol concentration": [
+    "HP:0034936"
+  ],
+  "elevate circulate desmosterol concentration": [
+    "HP:0034937"
+  ],
+  "elevated circulating desmosterol concentration": [
+    "HP:0034937"
+  ],
+  "decrease circulate sialic acid concentration": [
+    "HP:0034938"
+  ],
+  "decreased circulating sialic acid concentration": [
+    "HP:0034938"
+  ],
+  "purulent synovial fluid": [
+    "HP:0034939"
+  ],
+  "muscle fiber calsequestrin 1 - contain inclusion body": [
+    "HP:0034940"
+  ],
+  "muscle fiber calsequestrin 1 - containing inclusion bodies": [
+    "HP:0034940"
+  ],
+  "palatine myxoma": [
+    "HP:0034941"
+  ],
+  "vaginal myxoma": [
+    "HP:0034942"
+  ],
+  "decrease dermal collagen": [
+    "HP:0034943"
+  ],
+  "decreased dermal collagen": [
+    "HP:0034943"
+  ],
+  "irregularly shape keratohyaline granule": [
+    "HP:0034944"
+  ],
+  "irregularly shaped keratohyaline granules": [
+    "HP:0034944"
+  ],
+  "tubular shadow": [
+    "HP:0034945"
+  ],
+  "tubular shadows": [
+    "HP:0034945"
+  ],
+  "multiple eyelid margin cyst": [
+    "HP:0034946"
+  ],
+  "multiple eyelid margin cysts": [
+    "HP:0034946"
+  ],
+  "multiple eyelid - margin apocrine hidrocystomas": [
+    "HP:0034946"
+  ],
+  "alter location of the longitudinal column in the fibrous sheath": [
+    "HP:0034947"
+  ],
+  "altered location of the longitudinal column in the fibrous sheath": [
+    "HP:0034947"
+  ],
+  "uterine myxoma": [
+    "HP:0034948"
+  ],
+  "uterine cervix myxoma": [
+    "HP:0034949"
+  ],
+  "typify by complete penetrance": [
+    "HP:0034950"
+  ],
+  "typified by complete penetrance": [
+    "HP:0034950"
+  ],
+  "osteochondromyxoma": [
+    "HP:0034951"
+  ],
+  "gangliocytoma": [
+    "HP:0034952"
+  ],
+  "duodenal gastrinoma": [
+    "HP:0034953"
+  ],
+  "thymic carcinoid tumor": [
+    "HP:0034954"
+  ],
+  "bone marrow eosinophilia": [
+    "HP:0034955"
+  ],
+  "eosinophil increase in bone marrow": [
+    "HP:0034955"
+  ],
+  "eosinophils increased in bone marrow": [
+    "HP:0034955"
+  ],
+  "exacerbate by lithium exposure": [
+    "HP:0034956"
+  ],
+  "exacerbated by lithium exposure": [
+    "HP:0034956"
+  ],
+  "reduce hepatic glycogen debrancher enzyme activity": [
+    "HP:0034957"
+  ],
+  "reduced hepatic glycogen debrancher enzyme activity": [
+    "HP:0034957"
+  ],
+  "asymmetrical insertion of the midpiece into the head": [
+    "HP:0034958"
+  ],
+  "asymmetrical insertion of sperm neck": [
+    "HP:0034958"
+  ],
+  "bent sperm neck": [
+    "HP:0034959"
+  ],
+  "elevate urine 3,6 - epoxydicarboxylic acid level": [
+    "HP:0034960"
+  ],
+  "elevated urine 3,6 - epoxydicarboxylic acid level": [
+    "HP:0034960"
+  ],
+  "gallbladder biliary sludging": [
+    "HP:0034961"
+  ],
+  "exacerbate by amiodarone exposure": [
+    "HP:0034962"
+  ],
+  "exacerbated by amiodarone exposure": [
+    "HP:0034962"
+  ],
+  "ureteral mass": [
+    "HP:0034963"
+  ],
+  "wide cavum septum pellucidum": [
+    "HP:0034964"
+  ],
+  "hypoplastic trochlear nerve": [
+    "HP:0034965"
+  ],
+  "hypoplastia of cranial nerve iv": [
+    "HP:0034965"
+  ],
+  "thymic cyst": [
+    "HP:0034966"
+  ],
+  "uterine cyst": [
+    "HP:0034967"
+  ],
+  "urinary bladder mass": [
+    "HP:0034968"
+  ],
+  "endosteal scallop": [
+    "HP:0034969"
+  ],
+  "endosteal scalloping": [
+    "HP:0034969"
+  ],
+  "urinary bladder hamartoma": [
+    "HP:0034970"
+  ],
+  "peritoneal mass": [
+    "HP:0034971"
+  ],
+  "fallopian tube mass": [
+    "HP:0034972"
+  ],
+  "aplasia of the pyramid of the medulla oblongata": [
+    "HP:0034973"
+  ],
+  "aplasia of the pyramids of the medulla oblongata": [
+    "HP:0034973"
+  ],
+  "bathrocephaly": [
+    "HP:0034974"
+  ],
+  "occipital horn": [
+    "HP:0034975"
+  ],
+  "absent pituitary stalk": [
+    "HP:0034976"
+  ],
+  "abnormal pituitary stalk morphology": [
+    "HP:0034977"
+  ],
+  "interrupt pituitary stalk": [
+    "HP:0034978"
+  ],
+  "interrupted pituitary stalk": [
+    "HP:0034978"
+  ],
+  "facial synkinesis": [
+    "HP:0034979"
+  ],
+  "synkinesis": [
+    "HP:0034980"
+  ],
+  "exposure to bird": [
+    "HP:0034981"
+  ],
+  "exposure to birds": [
+    "HP:0034981"
+  ],
+  "perianal anethesia": [
+    "HP:0034982"
+  ],
+  "phenylephrine do not induce blanching of eye redness": [
+    "HP:0034983"
+  ],
+  "phenylephrine does not induce blanching of eye redness": [
+    "HP:0034983"
+  ],
+  "fetal alcohol exposure": [
+    "HP:0034984"
+  ],
+  "reduce cellular cobalamin uptake": [
+    "HP:0034985"
+  ],
+  "reduced cellular cobalamin uptake": [
+    "HP:0034985"
+  ],
+  "focal necrotic brainstem lesion": [
+    "HP:0034986"
+  ],
+  "focal necrotic optic nerve lesion": [
+    "HP:0034987"
+  ],
+  "focal necrotic thalamus lesion": [
+    "HP:0034988"
+  ],
+  "interstitial dermal edema": [
+    "HP:0034989"
+  ],
+  "shoulder abduction contracture": [
+    "HP:0034990"
+  ],
+  "abduction contracture of the shoulder": [
+    "HP:0034990"
+  ],
+  "shoulder external rotation contracture": [
+    "HP:0034991"
+  ],
+  "external rotation contracture of the shoulder joint": [
+    "HP:0034991"
+  ],
+  "thumb adduction contracture": [
+    "HP:0034992"
+  ],
+  "hip internal rotation contracture": [
+    "HP:0034993"
+  ],
+  "elevate circulate saccharopine concentration": [
+    "HP:0034994"
+  ],
+  "elevated circulating saccharopine concentration": [
+    "HP:0034994"
+  ],
+  "reduce hepatic fructose - 1,6 - bisphosphatase activity": [
+    "HP:0034995"
+  ],
+  "reduced hepatic fructose - 1,6 - bisphosphatase activity": [
+    "HP:0034995"
+  ],
+  "reduce hepatic carbamoylphosphate synthetase activity": [
+    "HP:0034996"
+  ],
+  "reduced hepatic carbamoylphosphate synthetase activity": [
+    "HP:0034996"
+  ],
+  "reduce intraepidermal small nerve fiber density": [
+    "HP:0034997"
+  ],
+  "reduced intraepidermal small nerve fiber density": [
+    "HP:0034997"
+  ],
+  "femoral artery duplication": [
+    "HP:0034998"
+  ],
+  "intracellular accumulation of collagen vii": [
+    "HP:0034999"
+  ],
+  "reduce reticular lamina anchor fibril density": [
+    "HP:0035000"
+  ],
+  "reduced reticular lamina anchoring fibril density": [
+    "HP:0035000"
+  ],
+  "reduce lamina lucida anchor filament density": [
+    "HP:0035001"
+  ],
+  "reduced lamina lucida anchoring filament density": [
+    "HP:0035001"
+  ],
+  "reduce epidermal keratin 5 protein expression": [
+    "HP:0035002"
+  ],
+  "reduced epidermal keratin 5 protein expression": [
+    "HP:0035002"
+  ],
+  "reduce epidermal keratin 14 protein expression": [
+    "HP:0035003"
+  ],
+  "reduced epidermal keratin 14 protein expression": [
+    "HP:0035003"
+  ],
+  "reduce epidermal keratin protein expression": [
+    "HP:0035004"
+  ],
+  "reduced epidermal keratin protein expression": [
+    "HP:0035004"
+  ],
+  "reduce hepatic alanine - glyoxylate aminotransferase activity": [
+    "HP:0035005"
+  ],
+  "reduced hepatic alanine - glyoxylate aminotransferase activity": [
+    "HP:0035005"
+  ],
+  "hepatic sinusoidal dilatation": [
+    "HP:0035006"
+  ],
+  "thin spermatozoon midpiece": [
+    "HP:0035007"
+  ],
+  "thin spermatozoon neck": [
+    "HP:0035007"
+  ],
+  "thick spermatozoon midpiece insertion": [
+    "HP:0035008"
+  ],
+  "shoulder adduction contracture": [
+    "HP:0035009"
+  ],
+  "adduction contracture of the shoulder": [
+    "HP:0035009"
+  ],
+  "occupational exposure history": [
+    "HP:0035010"
+  ],
+  "occupational silver exposure": [
+    "HP:0035011"
+  ],
+  "abnormal femoral artery morphology": [
+    "HP:0035012"
+  ],
+  "abnormal extrahepatic bile duct morphology": [
+    "HP:0035013"
+  ],
+  "extrahepatic bile duct fibrosis": [
+    "HP:0035014"
+  ],
+  "elevate circulate short - chain acylcarnitine concentration": [
+    "HP:0035015"
+  ],
+  "elevated circulating short - chain acylcarnitine concentration": [
+    "HP:0035015"
+  ],
+  "elevate circulate c4 acylcarnitine concentration": [
+    "HP:0035016"
+  ],
+  "elevated circulating c4 acylcarnitine concentration": [
+    "HP:0035016"
+  ],
+  "elevate circulate medium - chain acylcarnitine concentration": [
+    "HP:0035017"
+  ],
+  "elevated circulating medium - chain acylcarnitine concentration": [
+    "HP:0035017"
+  ],
+  "elevate circulate long - chain acylcarnitine concentration": [
+    "HP:0035018"
+  ],
+  "elevated circulating long - chain acylcarnitine concentration": [
+    "HP:0035018"
+  ],
+  "elevate circulate c5 acylcarnitine concentration": [
+    "HP:0035019"
+  ],
+  "elevated circulating c5 acylcarnitine concentration": [
+    "HP:0035019"
+  ],
+  "elevate circulate c18 acylcarnitine concentration": [
+    "HP:0035020"
+  ],
+  "elevated circulating c18 acylcarnitine concentration": [
+    "HP:0035020"
+  ],
+  "elevate circulate c16 acylcarnitine concentration": [
+    "HP:0035021"
+  ],
+  "elevated circulating c16 acylcarnitine concentration": [
+    "HP:0035021"
+  ],
+  "elevate circulate very long - chain acylcarnitine concentration": [
+    "HP:0035022"
+  ],
+  "elevated circulating very long - chain acylcarnitine concentration": [
+    "HP:0035022"
+  ],
+  "elevate circulate acetylcarnitine concentration": [
+    "HP:0035023"
+  ],
+  "elevated circulating acetylcarnitine concentration": [
+    "HP:0035023"
+  ],
+  "elevate circulate c2 acylcarnitine concentration": [
+    "HP:0035023"
+  ],
+  "elevated circulating c2 acylcarnitine concentration": [
+    "HP:0035023"
+  ],
+  "elevate circulate methylmalonylcarnitine concentration": [
+    "HP:0035024"
+  ],
+  "elevated circulating methylmalonylcarnitine concentration": [
+    "HP:0035024"
+  ],
+  "elevate circulate c4 - dc acylcarnitine concentration": [
+    "HP:0035024"
+  ],
+  "elevated circulating c4 - dc acylcarnitine concentration": [
+    "HP:0035024"
+  ],
+  "methylmalonylcarnitine ( c4 - dc ) high in blood": [
+    "HP:0035024"
+  ],
+  "elevate circulate 3 - hydroxyhexadecanoylcarnitine concentration": [
+    "HP:0035025"
+  ],
+  "elevated circulating 3 - hydroxyhexadecanoylcarnitine concentration": [
+    "HP:0035025"
+  ],
+  "elevate circulate c16 - oh acylcarnitine concentration": [
+    "HP:0035025"
+  ],
+  "elevated circulating c16 - oh acylcarnitine concentration": [
+    "HP:0035025"
+  ],
+  "elevate circulate c6 acylcarnitine concentration": [
+    "HP:0035026"
+  ],
+  "elevated circulating c6 acylcarnitine concentration": [
+    "HP:0035026"
+  ],
+  "elevate circulate methylglutarylcarnitine concentration": [
+    "HP:0035027"
+  ],
+  "elevated circulating methylglutarylcarnitine concentration": [
+    "HP:0035027"
+  ],
+  "elevate circulate c6 - dc acylcarnitine concentration": [
+    "HP:0035027"
+  ],
+  "elevated circulating c6 - dc acylcarnitine concentration": [
+    "HP:0035027"
+  ],
+  "elevate circulate 3 - hydroxyisovalerylcarnitine concentration": [
+    "HP:0035028"
+  ],
+  "elevated circulating 3 - hydroxyisovalerylcarnitine concentration": [
+    "HP:0035028"
+  ],
+  "elevate circulate c5 - oh acylcarnitine concentration": [
+    "HP:0035028"
+  ],
+  "elevated circulating c5 - oh acylcarnitine concentration": [
+    "HP:0035028"
+  ],
+  "elevate circulate 3 - hydroxyhexanoylcarnitine concentration": [
+    "HP:0035029"
+  ],
+  "elevated circulating 3 - hydroxyhexanoylcarnitine concentration": [
+    "HP:0035029"
+  ],
+  "elevate circulate c6 - oh acylcarnitine concentration": [
+    "HP:0035029"
+  ],
+  "elevating circulating c6 - oh acylcarnitine concentration": [
+    "HP:0035029"
+  ],
+  "elevate circulate carnitine concentration": [
+    "HP:0035030"
+  ],
+  "elevated circulating carnitine concentration": [
+    "HP:0035030"
+  ],
+  "elevate circulate tiglylcarnitine concentration": [
+    "HP:0035031"
+  ],
+  "elevated circulating tiglylcarnitine concentration": [
+    "HP:0035031"
+  ],
+  "elevate circulate c5:1 acylcarnitine concentration": [
+    "HP:0035031"
+  ],
+  "elevated circulating c5:1 acylcarnitine concentration": [
+    "HP:0035031"
+  ],
+  "reduce circulate acetylcarnitine concentration": [
+    "HP:0035032"
+  ],
+  "reduced circulating acetylcarnitine concentration": [
+    "HP:0035032"
+  ],
+  "reduce circulate c2 acylcarnitine concentration": [
+    "HP:0035032"
+  ],
+  "reduced circulating c2 acylcarnitine concentration": [
+    "HP:0035032"
+  ],
+  "reduce circulate octadecenoylcarnitine concentration": [
+    "HP:0035033"
+  ],
+  "reduced circulating octadecenoylcarnitine concentration": [
+    "HP:0035033"
+  ],
+  "reduce circulate c18:1 acylcarnitine concentration": [
+    "HP:0035033"
+  ],
+  "reduced circulating c18:1 acylcarnitine concentration": [
+    "HP:0035033"
   ],
   "abnormality of corneal shape": [
     "HP:0040004"
@@ -133640,20 +136005,35 @@
   "osseous stenosis of the external auditory canal": [
     "HP:0040104"
   ],
-  "morphological abnormality of the lateral semicircular canal": [
+  "abnormal lateral semicircular canal morphology": [
     "HP:0040106"
   ],
   "morphological abnormality of the horizontal semicircular canal": [
     "HP:0040106"
   ],
+  "morphological abnormality of the lateral semicircular canal": [
+    "HP:0040106"
+  ],
+  "abnormal posterior semicircular canal morphology": [
+    "HP:0040107"
+  ],
   "morphological abnormality of the posterior semicircular canal": [
     "HP:0040107"
+  ],
+  "abnormal anterior semicircular canal morphology": [
+    "HP:0040108"
   ],
   "morphological abnormality of the anterior semicircular canal": [
     "HP:0040108"
   ],
+  "abnormal utricle morphology": [
+    "HP:0040109"
+  ],
   "morphological abnormality of the utricle": [
     "HP:0040109"
+  ],
+  "abnormal saccule morphology": [
+    "HP:0040110"
   ],
   "morphological abnormality of the saccule": [
     "HP:0040110"
@@ -135077,16 +137457,19 @@
   "purple urine": [
     "HP:0040322"
   ],
+  "eyelid erythema": [
+    "HP:0040323"
+  ],
+  "erythema of eyelid": [
+    "HP:0040323"
+  ],
   "erythema of the eyelid": [
     "HP:0040323"
   ],
   "erythema of the eyelids": [
     "HP:0040323"
   ],
-  "erythema of eyelid": [
-    "HP:0040323"
-  ],
-  "eyelid erythema": [
+  "red eyelid": [
     "HP:0040323"
   ],
   "heliotrope rash": [
@@ -135609,6 +137992,9 @@
     "HP:0041091"
   ],
   "emotional hypersensitivity": [
+    "HP:0041092"
+  ],
+  "emotional reacitivy": [
     "HP:0041092"
   ],
   "highly sensitive": [
@@ -137188,6 +139574,9 @@
   ],
   "third crus": [
     "HP:0100015"
+  ],
+  "abnormal mesentery morphology": [
+    "HP:0100016"
   ],
   "abnormality of mesentery morphology": [
     "HP:0100016"
@@ -141803,19 +144192,28 @@
   "vitamin d deficiency": [
     "HP:0100512"
   ],
+  "decrease circulate vitamin e concentration": [
+    "HP:0100513"
+  ],
+  "decreased circulating vitamin e concentration": [
+    "HP:0100513"
+  ],
+  "alpha - tocopherol deficiency": [
+    "HP:0100513"
+  ],
   "low level of vitamin e": [
     "HP:0100513"
   ],
   "low levels of vitamin e": [
     "HP:0100513"
   ],
-  "alpha - tocopherol deficiency": [
-    "HP:0100513"
-  ],
   "vitamin e deficiency": [
     "HP:0100513"
   ],
-  "abnormality of vitamin e metabolism": [
+  "abnormal circulate vitamin e concentration": [
+    "HP:0100514"
+  ],
+  "abnormal circulating vitamin e concentration": [
     "HP:0100514"
   ],
   "pollakisuria": [
@@ -141908,10 +144306,10 @@
   "abnormality of phosphate homeostasis": [
     "HP:0100529"
   ],
-  "abnormal calcium - phosphate regulate hormone level": [
+  "abnormal circulate calcium - phosphate regulate hormone concentration": [
     "HP:0100530"
   ],
-  "abnormal calcium - phosphate regulating hormone level": [
+  "abnormal circulating calcium - phosphate regulating hormone concentration": [
     "HP:0100530"
   ],
   "abnormal ca - phos regulate hormone level": [
@@ -142874,6 +145272,9 @@
   "mouth tumor": [
     "HP:0100649"
   ],
+  "mouth tumour": [
+    "HP:0100649"
+  ],
   "neoplasm of the mouth": [
     "HP:0100649"
   ],
@@ -143429,7 +145830,7 @@
   "parathyroid neoplasia": [
     "HP:0100733"
   ],
-  "abnormality of vertebral epiphysis morphology": [
+  "abnormal vertebral epiphysis morphology": [
     "HP:0100734"
   ],
   "abnormal shape of the end part of the vertebra bone": [
@@ -143439,6 +145840,9 @@
     "HP:0100734"
   ],
   "abnormality of the vertebral epiphyses": [
+    "HP:0100734"
+  ],
+  "abnormality of vertebral epiphysis morphology": [
     "HP:0100734"
   ],
   "hypertensive crisis": [
@@ -143574,6 +145978,12 @@
     "HP:0100753"
   ],
   "mania": [
+    "HP:0100754"
+  ],
+  "hypomania": [
+    "HP:0100754"
+  ],
+  "hypomanic": [
     "HP:0100754"
   ],
   "manic": [
@@ -143781,6 +146191,9 @@
     "HP:0100785"
   ],
   "hypersomnia": [
+    "HP:0100786"
+  ],
+  "excessive sleep": [
     "HP:0100786"
   ],
   "excessive sleepiness": [
@@ -144353,11 +146766,35 @@
   "penis tumour": [
     "HP:0100850"
   ],
-  "abnormal emotion / affect behavior": [
+  "abnormal emotion": [
+    "HP:0100851"
+  ],
+  "abnormal emotion processing": [
     "HP:0100851"
   ],
   "abnormal emotion / affect behaviour": [
     "HP:0100851"
+  ],
+  "abnormal mood / emotion / affect": [
+    "HP:0100851"
+  ],
+  "abnormal mood / emotion / affect / think": [
+    "HP:0100851"
+  ],
+  "abnormal mood / emotion / affect / thought": [
+    "HP:0100851"
+  ],
+  "emotion dysregulation": [
+    "HP:0100851"
+  ],
+  "abnormal fear - induced behavior": [
+    "HP:0100852"
+  ],
+  "abnormal fear - induce behaviour": [
+    "HP:0100852"
+  ],
+  "abnormal fear - induced behaviour": [
+    "HP:0100852"
   ],
   "abnormal fear / anxiety - related behavior": [
     "HP:0100852"
@@ -144668,10 +147105,13 @@
   "interdigital loops": [
     "HP:0100888"
   ],
-  "abnormality of the ductus choledochus": [
+  "abnormal ductus choledochus morphology": [
     "HP:0100889"
   ],
   "abnormality of the common bile duct": [
+    "HP:0100889"
+  ],
+  "abnormality of the ductus choledochus": [
     "HP:0100889"
   ],
   "cyst of the ductus choledochus": [
@@ -152945,10 +155385,10 @@
   "abnormal interest": [
     "HP:4000068"
   ],
-  "persistent preoccupation with part of object or unusual object": [
+  "persistent preoccupation with part of object": [
     "HP:4000069"
   ],
-  "persistent preoccupation with parts of objects or unusual objects": [
+  "persistent preoccupation with parts of objects": [
     "HP:4000069"
   ],
   "fixate interest in unusual object": [
@@ -153020,6 +155460,12 @@
   "fixated interest with abnormal focus": [
     "HP:4000077"
   ],
+  "unusual preoccupation": [
+    "HP:4000077"
+  ],
+  "unusual preoccupations": [
+    "HP:4000077"
+  ],
   "fixate interest with abnormal intensity": [
     "HP:4000078"
   ],
@@ -153031,12 +155477,6 @@
   ],
   "sensory seeking": [
     "HP:4000079"
-  ],
-  "reduce social initiation": [
-    "HP:4000080"
-  ],
-  "reduced social initiation": [
-    "HP:4000080"
   ],
   "reduce production of gesture": [
     "HP:4000081"
@@ -153050,10 +155490,10 @@
   "reduced collaborative play": [
     "HP:4000082"
   ],
-  "reduce interest in peer": [
+  "ignores peer": [
     "HP:4000083"
   ],
-  "reduced interest in peers": [
+  "ignores peers": [
     "HP:4000083"
   ],
   "reduce sharing of interest": [
@@ -153290,10 +155730,10 @@
   "raw egg - white ingestion": [
     "HP:4000126"
   ],
-  "aggravate by sodium channel block agent": [
+  "exacerbate by sodium channel block agent exposure": [
     "HP:4000127"
   ],
-  "aggravated by sodium channel blocking agents": [
+  "exacerbated by sodium channel blocking agent exposure": [
     "HP:4000127"
   ],
   "sodium channel block drug aggravate finding": [
@@ -153302,10 +155742,13 @@
   "sodium channel blocking drugs aggravate findings": [
     "HP:4000127"
   ],
-  "nitric oxide addiction": [
+  "addictive nitrous oxide use": [
     "HP:4000128"
   ],
   "nitrous oxide abuse": [
+    "HP:4000128"
+  ],
+  "nitrous oxide addiction": [
     "HP:4000128"
   ],
   "recent blood transfusion": [
@@ -153338,10 +155781,10 @@
   "vitamin d reduces manifestations": [
     "HP:4000131"
   ],
-  "aggravate by phenytoin": [
+  "exacerbate by phenytoin exposure": [
     "HP:4000132"
   ],
-  "aggravated by phenytoin": [
+  "exacerbated by phenytoin exposure": [
     "HP:4000132"
   ],
   "phenytoin produce worsen": [
@@ -153395,6 +155838,12 @@
   "foetal bowel dilatation": [
     "HP:4000140"
   ],
+  "prenatal ultrasound : bowel loop dilate": [
+    "HP:4000140"
+  ],
+  "prenatal ultrasound : bowel loops dilated": [
+    "HP:4000140"
+  ],
   "leave ventricular dilatation": [
     "HP:4000141"
   ],
@@ -153440,10 +155889,10 @@
   "history of recent dental procedure": [
     "HP:4000146"
   ],
-  "abnormal portal artery morphology": [
+  "abnormal hepatic artery morphology": [
     "HP:4000147"
   ],
-  "portal artery hyperplasia": [
+  "hepatic artery hyperplasia": [
     "HP:4000148"
   ],
   "lymph node necrosis": [
@@ -153455,7 +155904,7 @@
   "multinucleated neuron": [
     "HP:4000150"
   ],
-  "history of recent cotralateral injury": [
+  "history of recent contralateral injury": [
     "HP:4000151"
   ],
   "alternate laterality": [
@@ -153700,6 +156149,177 @@
   ],
   "adenosine triphosphate ( atp ) high in erythrocytes": [
     "HP:4000186"
+  ],
+  "spermatogonial maturation arrest": [
+    "HP:4000187"
+  ],
+  "spermatogonial arrest": [
+    "HP:4000187"
+  ],
+  "elevate circulate neuron - specific enolase concentration": [
+    "HP:4000189"
+  ],
+  "elevated circulating neuron - specific enolase concentration": [
+    "HP:4000189"
+  ],
+  "neuron - specific enolase high in blood": [
+    "HP:4000189"
+  ],
+  "reduce leukocyte alpha - mannosidase activity": [
+    "HP:4000190"
+  ],
+  "reduced leukocyte alpha - mannosidase activity": [
+    "HP:4000190"
+  ],
+  "increase circulate alpha - mannosidase activity": [
+    "HP:4000191"
+  ],
+  "increased circulating alpha - mannosidase activity": [
+    "HP:4000191"
+  ],
+  "reduce leukocyte cathepsin d activity": [
+    "HP:4000192"
+  ],
+  "reduced leukocyte cathepsin d activity": [
+    "HP:4000192"
+  ],
+  "reduce leukocyte n - sulfoglucosamine sulfohydrolase activity": [
+    "HP:4000193"
+  ],
+  "reduced leukocyte n - sulfoglucosamine sulfohydrolase activity": [
+    "HP:4000193"
+  ],
+  "reduce leukocyte n - sulphoglucosamine sulphohydrolase activity": [
+    "HP:4000193"
+  ],
+  "reduced leukocyte n - sulphoglucosamine sulphohydrolase activity": [
+    "HP:4000193"
+  ],
+  "pseudohyperkalemia": [
+    "HP:4000194"
+  ],
+  "abnormal enzyme activity in cultured fibroblast": [
+    "HP:4000195"
+  ],
+  "abnormal enzyme activity in cultured fibroblasts": [
+    "HP:4000195"
+  ],
+  "reduce heparan - alpha - glucosaminide n - acetyltransferase activity in cultured fibroblast": [
+    "HP:4000196"
+  ],
+  "reduced heparan - alpha - glucosaminide n - acetyltransferase activity in cultured fibroblasts": [
+    "HP:4000196"
+  ],
+  "reduce n - acetylgalactosamine - 6 - sulfate sulfatase in cultured fibroblast": [
+    "HP:4000197"
+  ],
+  "reduced n - acetylgalactosamine - 6 - sulfate sulfatase in cultured fibroblasts": [
+    "HP:4000197"
+  ],
+  "reduce acetylglucosamine - 6 - sulfate sulfatase activity in cultured fibroblast": [
+    "HP:4000198"
+  ],
+  "reduced acetylglucosamine - 6 - sulfate sulfatase activity in cultured fibroblasts": [
+    "HP:4000198"
+  ],
+  "reduce erythrocyte porphobilinogen deaminase activity": [
+    "HP:4000199"
+  ],
+  "reduced erythrocyte porphobilinogen deaminase activity": [
+    "HP:4000199"
+  ],
+  "reduce holocarboxylase synthetase activity in cultured fibroblast": [
+    "HP:4000200"
+  ],
+  "reduced holocarboxylase synthetase activity in cultured fibroblasts": [
+    "HP:4000200"
+  ],
+  "abnormal circulate alpha mannosidase activity": [
+    "HP:4000201"
+  ],
+  "abnormal circulating alpha mannosidase activity": [
+    "HP:4000201"
+  ],
+  "reduce alpha - n - acetylgalactosaminidase activity in cultured fibroblast": [
+    "HP:4000202"
+  ],
+  "reduced alpha - n - acetylgalactosaminidase activity in cultured fibroblasts": [
+    "HP:4000202"
+  ],
+  "reduce erythrocyte arginase activity": [
+    "HP:4000203"
+  ],
+  "reduced erythrocyte arginase activity": [
+    "HP:4000203"
+  ],
+  "reduce mitochondrial acetyl - coa acetyltransferase activity in cultured fibroblast": [
+    "HP:4000204"
+  ],
+  "reduced mitochondrial acetyl - coa acetyltransferase activity in cultured fibroblasts": [
+    "HP:4000204"
+  ],
+  "reduce beta - mannosidase activity in cultured fibroblast": [
+    "HP:4000205"
+  ],
+  "reduced beta - mannosidase activity in cultured fibroblasts": [
+    "HP:4000205"
+  ],
+  "reduce 3 - methylcrotonyl coa carboxylase activity in cultured fibroblast": [
+    "HP:4000206"
+  ],
+  "reduced 3 - methylcrotonyl coa carboxylase activity in cultured fibroblasts": [
+    "HP:4000206"
+  ],
+  "3 - methylcrotonyl coa carboxylase low in fibroblast": [
+    "HP:4000206"
+  ],
+  "3 - methylcrotonyl coa carboxylase low in fibroblasts": [
+    "HP:4000206"
+  ],
+  "reduce branch - chain alpha - keto acid dehydrogenase activity in cultured fibroblast": [
+    "HP:4000207"
+  ],
+  "reduced branched - chain alpha - keto acid dehydrogenase activity in cultured fibroblasts": [
+    "HP:4000207"
+  ],
+  "reduce erythrocyte galactose - 1 - phosphate uridylyltransferase activity": [
+    "HP:4000208"
+  ],
+  "reduced erythrocyte galactose - 1 - phosphate uridylyltransferase activity": [
+    "HP:4000208"
+  ],
+  "abnormal erythrocyte adenosine deaminase activity": [
+    "HP:4000209"
+  ],
+  "reduce isovaleryl coa dehydrogenase activity in cultured fibroblast": [
+    "HP:4000210"
+  ],
+  "reduced isovaleryl coa dehydrogenase activity in cultured fibroblasts": [
+    "HP:4000210"
+  ],
+  "reduce glycerol kinase activity in cultured fibroblast": [
+    "HP:4000211"
+  ],
+  "reduced glycerol kinase activity in cultured fibroblasts": [
+    "HP:4000211"
+  ],
+  "increase circulate vitamin a concentration": [
+    "HP:4000212"
+  ],
+  "increased circulating vitamin a concentration": [
+    "HP:4000212"
+  ],
+  "vitamin a high in blood": [
+    "HP:4000212"
+  ],
+  "elevate circulate hyaluronic acid concentration": [
+    "HP:4000213"
+  ],
+  "elevated circulating hyaluronic acid concentration": [
+    "HP:4000213"
+  ],
+  "hyaluronic acid high in blood": [
+    "HP:4000213"
   ],
   "anti - ak5 antibody positivity": [
     "HP:5000000"
@@ -154007,10 +156627,13 @@
   "excessive interest in others": [
     "HP:5200003"
   ],
-  "reduce interest in others": [
+  "reduce response to another 's attempt to get direct attention": [
     "HP:5200004"
   ],
-  "reduced interest in others": [
+  "reduced response to another 's attempt to get direct attention": [
+    "HP:5200004"
+  ],
+  "ignores others": [
     "HP:5200004"
   ],
   "abnormal pitch": [
@@ -154088,6 +156711,9 @@
   "reduced social insight": [
     "HP:5200021"
   ],
+  "abnormal social awareness": [
+    "HP:5200021"
+  ],
   "abnormal social understanding": [
     "HP:5200021"
   ],
@@ -154097,16 +156723,37 @@
   "abnormal relationship": [
     "HP:5200024"
   ],
-  "abnormal social awareness": [
+  "obsolete abnormal social awareness": [
     "HP:5200025"
   ],
   "abnormal social imitation": [
     "HP:5200026"
   ],
-  "abnormal social initiation": [
+  "deferred imitation of others": [
+    "HP:5200026"
+  ],
+  "reduce immediate imitation of others": [
+    "HP:5200026"
+  ],
+  "reduced immediate imitation of others": [
+    "HP:5200026"
+  ],
+  "reduce attempt to get or direct another 's attention": [
     "HP:5200027"
   ],
-  "abnormal social response": [
+  "reduced attempt to get or direct another 's attention": [
+    "HP:5200027"
+  ],
+  "reduce social initiation": [
+    "HP:5200027"
+  ],
+  "reduced social initiation": [
+    "HP:5200027"
+  ],
+  "reduce response to social cue": [
+    "HP:5200028"
+  ],
+  "reduced response to social cues": [
     "HP:5200028"
   ],
   "social disinhibition": [
@@ -154115,13 +156762,16 @@
   "diminished integration of verbal and non - verbal communicative behavior": [
     "HP:5200030"
   ],
-  "deferred imitation of others": [
+  "obsolete defer imitation of others": [
     "HP:5200031"
   ],
-  "reduce immediate imitation of others": [
+  "obsolete deferred imitation of others": [
+    "HP:5200031"
+  ],
+  "obsolete reduce immediate imitation of others": [
     "HP:5200032"
   ],
-  "reduced immediate imitation of others": [
+  "obsolete reduced immediate imitation of others": [
     "HP:5200032"
   ],
   "reduce collaborative imaginative play": [
@@ -154145,10 +156795,22 @@
   "bradylalia": [
     "HP:5200038"
   ],
+  "bradylogia": [
+    "HP:5200038"
+  ],
+  "excessively loud speech": [
+    "HP:5200039"
+  ],
   "speech too loud for context": [
     "HP:5200039"
   ],
-  "speech too soft for context": [
+  "excessively quiet voice": [
+    "HP:5200040"
+  ],
+  "excessively soft voice": [
+    "HP:5200040"
+  ],
+  "speech to soft for context": [
     "HP:5200040"
   ],
   "abnormal speech volume": [
@@ -154170,12 +156832,6 @@
     "HP:5200045"
   ],
   "impaired self - restraint": [
-    "HP:5200045"
-  ],
-  "impulse control disorder": [
-    "HP:5200045"
-  ],
-  "impulse control disorders": [
     "HP:5200045"
   ],
   "sensory behavioral abnormality": [
@@ -154310,7 +156966,7 @@
   "visual sensory seeking": [
     "HP:5200067"
   ],
-  "socially innappropriate questionning": [
+  "socially inappropriate questioning": [
     "HP:5200068"
   ],
   "spin": [
@@ -154336,6 +156992,1125 @@
   ],
   "excessive cleaning": [
     "HP:5200073"
+  ],
+  "facial expression not direct to others": [
+    "HP:5200100"
+  ],
+  "facial expressions not directed to others": [
+    "HP:5200100"
+  ],
+  "limited repertoire of gesture": [
+    "HP:5200101"
+  ],
+  "limited repertoire of gestures": [
+    "HP:5200101"
+  ],
+  "reduce social smiling": [
+    "HP:5200102"
+  ],
+  "reduced social smiling": [
+    "HP:5200102"
+  ],
+  "reduce social responsiveness": [
+    "HP:5200103"
+  ],
+  "reduced social responsiveness": [
+    "HP:5200103"
+  ],
+  "abnormal play": [
+    "HP:5200104"
+  ],
+  "reduce imaginative play skill": [
+    "HP:5200105"
+  ],
+  "reduced imaginative play skills": [
+    "HP:5200105"
+  ],
+  "nonfunctional or atypical use of object in play": [
+    "HP:5200108"
+  ],
+  "nonfunctional or atypical use of objects in play": [
+    "HP:5200108"
+  ],
+  "preferes be alone": [
+    "HP:5200110"
+  ],
+  "preferes being alone": [
+    "HP:5200110"
+  ],
+  "avoids emotional intimacy": [
+    "HP:5200111"
+  ],
+  "offer information": [
+    "HP:5200113"
+  ],
+  "offers information": [
+    "HP:5200113"
+  ],
+  "difficulty understand nonliteral meaning of conversation": [
+    "HP:5200116"
+  ],
+  "difficulty understanding nonliteral meaning of conversation": [
+    "HP:5200116"
+  ],
+  "poor recognition of injustice": [
+    "HP:5200117"
+  ],
+  "difficulty recognize another 's emotion": [
+    "HP:5200118"
+  ],
+  "difficulty recognizing another 's emotions": [
+    "HP:5200118"
+  ],
+  "difficulty understand humor": [
+    "HP:5200119"
+  ],
+  "difficulty understanding humor": [
+    "HP:5200119"
+  ],
+  "abnormality in emotional social interaction": [
+    "HP:5200120"
+  ],
+  "abnormality in emotional social interactions": [
+    "HP:5200120"
+  ],
+  "treat people like object": [
+    "HP:5200121"
+  ],
+  "treats people like objects": [
+    "HP:5200121"
+  ],
+  "difficulty communicate one emotion": [
+    "HP:5200122"
+  ],
+  "difficulty communicating ones emotions": [
+    "HP:5200122"
+  ],
+  "abnormal response to social norm": [
+    "HP:5200123"
+  ],
+  "abnormal response to social norms": [
+    "HP:5200123"
+  ],
+  "indifference to social norm": [
+    "HP:5200124"
+  ],
+  "indifference to social norms": [
+    "HP:5200124"
+  ],
+  "aggression towards others": [
+    "HP:5200125"
+  ],
+  "aggression towards caregiver": [
+    "HP:5200126"
+  ],
+  "aggression towards caregivers": [
+    "HP:5200126"
+  ],
+  "aggression toward non - caregiver": [
+    "HP:5200127"
+  ],
+  "aggression toward non - caregivers": [
+    "HP:5200127"
+  ],
+  "deficit apply language skill across context": [
+    "HP:5200128"
+  ],
+  "deficit applying language skills across context": [
+    "HP:5200128"
+  ],
+  "abnormal ritual": [
+    "HP:5200129"
+  ],
+  "abnormal rituals": [
+    "HP:5200129"
+  ],
+  "insistence on sameness": [
+    "HP:5200130"
+  ],
+  "reduce use of language for social purpose": [
+    "HP:5200131"
+  ],
+  "reduced use of language for social purposes": [
+    "HP:5200131"
+  ],
+  "atypical sensory examination of object": [
+    "HP:5200132"
+  ],
+  "atypical sensory examination of objects": [
+    "HP:5200132"
+  ],
+  "intense attachment to unusual object": [
+    "HP:5200133"
+  ],
+  "intense attachment to unusual objects": [
+    "HP:5200133"
+  ],
+  "jumping": [
+    "HP:5200134"
+  ],
+  "bounce": [
+    "HP:5200134"
+  ],
+  "bouncing": [
+    "HP:5200134"
+  ],
+  "hop": [
+    "HP:5200134"
+  ],
+  "hopping": [
+    "HP:5200134"
+  ],
+  "pogo - ing": [
+    "HP:5200134"
+  ],
+  "delay in the acquisition of play skill": [
+    "HP:5200135"
+  ],
+  "delay in the acquisition of play skills": [
+    "HP:5200135"
+  ],
+  "reduce social reciprocity with peer": [
+    "HP:5200136"
+  ],
+  "reduced social reciprocity with peers": [
+    "HP:5200136"
+  ],
+  "reduce attempt to get or direct attention of peer": [
+    "HP:5200137"
+  ],
+  "reduced attempt to get or direct attention of peers": [
+    "HP:5200137"
+  ],
+  "olfactory hallucination": [
+    "HP:5200200"
+  ],
+  "hallucination of smell": [
+    "HP:5200200"
+  ],
+  "hallucinations of smell": [
+    "HP:5200200"
+  ],
+  "smell hallucination": [
+    "HP:5200200"
+  ],
+  "gustatory hallucination": [
+    "HP:5200201"
+  ],
+  "hallucinatotions of taste": [
+    "HP:5200201"
+  ],
+  "abnormal interpretation of external stimulus": [
+    "HP:5200202"
+  ],
+  "abnormal interpretation of external stimuli": [
+    "HP:5200202"
+  ],
+  "proprioceptive hallucination": [
+    "HP:5200203"
+  ],
+  "disturbed perception with a stimulus": [
+    "HP:5200204"
+  ],
+  "illusion": [
+    "HP:5200205"
+  ],
+  "illusions": [
+    "HP:5200205"
+  ],
+  "inattentiveness illusion": [
+    "HP:5200207"
+  ],
+  "illusion due to affect": [
+    "HP:5200208"
+  ],
+  "illusions due to affect": [
+    "HP:5200208"
+  ],
+  "pareidolia": [
+    "HP:5200209"
+  ],
+  "autoscopy": [
+    "HP:5200210"
+  ],
+  "subjective eidetic image": [
+    "HP:5200211"
+  ],
+  "subjective eidetic images": [
+    "HP:5200211"
+  ],
+  "photographic memory": [
+    "HP:5200211"
+  ],
+  "increase social interaction": [
+    "HP:5200212"
+  ],
+  "increased social interactions": [
+    "HP:5200212"
+  ],
+  "amplified socializing , enhance social interaction , overattentive behavior": [
+    "HP:5200212"
+  ],
+  "amplified socializing , enhanced social interactions , overattentive behavior": [
+    "HP:5200212"
+  ],
+  "decrease emotional vulnerability": [
+    "HP:5200213"
+  ],
+  "decreased emotional vulnerability": [
+    "HP:5200213"
+  ],
+  "decrease empathy": [
+    "HP:5200213"
+  ],
+  "decreased empathy": [
+    "HP:5200213"
+  ],
+  "somatic hallucination": [
+    "HP:5200214"
+  ],
+  "hallucination of bodily sensation": [
+    "HP:5200214"
+  ],
+  "somatic bodily hallucination": [
+    "HP:5200214"
+  ],
+  "visceral hallucination": [
+    "HP:5200215"
+  ],
+  "abnormal perceptual state": [
+    "HP:5200216"
+  ],
+  "depersonalization": [
+    "HP:5200217"
+  ],
+  "derealization": [
+    "HP:5200218"
+  ],
+  "decrease facial expression reciprocity": [
+    "HP:5200220"
+  ],
+  "decreased facial expression reciprocity": [
+    "HP:5200220"
+  ],
+  "lack of facial mirroring": [
+    "HP:5200220"
+  ],
+  "decrease comfort with casual physical contact": [
+    "HP:5200221"
+  ],
+  "decreased comfort with casual physical contact": [
+    "HP:5200221"
+  ],
+  "discomfort with physical contact": [
+    "HP:5200221"
+  ],
+  "discomfort with physical touch": [
+    "HP:5200221"
+  ],
+  "touch avoidance": [
+    "HP:5200221"
+  ],
+  "thought block": [
+    "HP:5200227"
+  ],
+  "thought blocking": [
+    "HP:5200227"
+  ],
+  "think - blocking": [
+    "HP:5200227"
+  ],
+  "thought - blocking": [
+    "HP:5200227"
+  ],
+  "maladaptive fear - related cognition": [
+    "HP:5200230"
+  ],
+  "maladaptive fear - related cognitions": [
+    "HP:5200230"
+  ],
+  "abnormal fear": [
+    "HP:5200230"
+  ],
+  "abnormal fear - related cognition": [
+    "HP:5200230"
+  ],
+  "abnormal fear - related cognitions": [
+    "HP:5200230"
+  ],
+  "hypervigilance": [
+    "HP:5200231"
+  ],
+  "phobia": [
+    "HP:5200232"
+  ],
+  "anticipatory anxiety": [
+    "HP:5200233"
+  ],
+  "flight of idea": [
+    "HP:5200234"
+  ],
+  "flight of ideas": [
+    "HP:5200234"
+  ],
+  "clang association": [
+    "HP:5200234"
+  ],
+  "clang associations": [
+    "HP:5200234"
+  ],
+  "distract speech": [
+    "HP:5200234"
+  ],
+  "distracted speech": [
+    "HP:5200234"
+  ],
+  "rhyme pun": [
+    "HP:5200234"
+  ],
+  "rhyming puns": [
+    "HP:5200234"
+  ],
+  "tangential speech": [
+    "HP:5200234"
+  ],
+  "think disorder": [
+    "HP:5200235"
+  ],
+  "thought disorder": [
+    "HP:5200235"
+  ],
+  "pronunciation difficulty": [
+    "HP:5200237"
+  ],
+  "pronunciation difficulties": [
+    "HP:5200237"
+  ],
+  "vowel expressive impediment": [
+    "HP:5200238"
+  ],
+  "consonant expressive impediment": [
+    "HP:5200239"
+  ],
+  "delay spoken language comprehension": [
+    "HP:5200240"
+  ],
+  "delayed spoken language comprehension": [
+    "HP:5200240"
+  ],
+  "delay verbal comprehension": [
+    "HP:5200240"
+  ],
+  "delayed verbal comprehension": [
+    "HP:5200240"
+  ],
+  "recurrent maladaptive behavior": [
+    "HP:5200241"
+  ],
+  "cognitive distortion": [
+    "HP:5200242"
+  ],
+  "abnormal change in social behavior": [
+    "HP:5200243"
+  ],
+  "abnormal affect": [
+    "HP:5200261"
+  ],
+  "abnormally increase motivation": [
+    "HP:5200263"
+  ],
+  "abnormally increased motivation": [
+    "HP:5200263"
+  ],
+  "abnormally increase energy": [
+    "HP:5200263"
+  ],
+  "abnormally increased energy": [
+    "HP:5200263"
+  ],
+  "pressure speech": [
+    "HP:5200265"
+  ],
+  "pressured speech": [
+    "HP:5200265"
+  ],
+  "excessive speech output": [
+    "HP:5200265"
+  ],
+  "laeden paralysis": [
+    "HP:5200267"
+  ],
+  "abnormal think pattern": [
+    "HP:5200269"
+  ],
+  "abnormal thought pattern": [
+    "HP:5200269"
+  ],
+  "grandiosity": [
+    "HP:5200270"
+  ],
+  "hopelessness": [
+    "HP:5200271"
+  ],
+  "hopeless": [
+    "HP:5200271"
+  ],
+  "sadness": [
+    "HP:5200273"
+  ],
+  "sad": [
+    "HP:5200273"
+  ],
+  "abnormal motivation": [
+    "HP:5200275"
+  ],
+  "abnormal energy": [
+    "HP:5200275"
+  ],
+  "decrease need for sleep": [
+    "HP:5200276"
+  ],
+  "decreased need for sleep": [
+    "HP:5200276"
+  ],
+  "sleep - related breathing disorder": [
+    "HP:5200283"
+  ],
+  "sleep - related breathing disorders": [
+    "HP:5200283"
+  ],
+  "difficult respiration during sleep": [
+    "HP:5200283"
+  ],
+  "bruxism during sleep": [
+    "HP:5200284"
+  ],
+  "grind teeth during sleep": [
+    "HP:5200284"
+  ],
+  "grinding teeth during sleep": [
+    "HP:5200284"
+  ],
+  "nightmare": [
+    "HP:5200287"
+  ],
+  "nightmares": [
+    "HP:5200287"
+  ],
+  "disturb dream": [
+    "HP:5200287"
+  ],
+  "disturbing dream": [
+    "HP:5200287"
+  ],
+  "sleep - related eating disorder": [
+    "HP:5200288"
+  ],
+  "consume food while asleep": [
+    "HP:5200288"
+  ],
+  "consuming food while asleep": [
+    "HP:5200288"
+  ],
+  "nocturnal sleep - related eating disorder ( ns - red )": [
+    "HP:5200288"
+  ],
+  "sleep eating": [
+    "HP:5200288"
+  ],
+  "microsleep": [
+    "HP:5200289"
+  ],
+  "short duration sleep": [
+    "HP:5200289"
+  ],
+  "explode head syndrome": [
+    "HP:5200290"
+  ],
+  "exploding head syndrome": [
+    "HP:5200290"
+  ],
+  "sleep enactment": [
+    "HP:5200291"
+  ],
+  "rapid eye movement sleep behavior disorder": [
+    "HP:5200291"
+  ],
+  "rem sleep behavior disorder": [
+    "HP:5200291"
+  ],
+  "non restorative sleep": [
+    "HP:5200292"
+  ],
+  "non - refreshing sleep": [
+    "HP:5200292"
+  ],
+  "disturbance during transition between sleep and wake state": [
+    "HP:5200293"
+  ],
+  "disturbance during transitions between sleep and wake states": [
+    "HP:5200293"
+  ],
+  "sleep state switching": [
+    "HP:5200293"
+  ],
+  "sleep - wake transition disorder": [
+    "HP:5200293"
+  ],
+  "sleep - wake transition disorders": [
+    "HP:5200293"
+  ],
+  "sexsomnia": [
+    "HP:5200294"
+  ],
+  "sexual behavior during sleep": [
+    "HP:5200294"
+  ],
+  "periodic limb movement": [
+    "HP:5200295"
+  ],
+  "periodic limb movements": [
+    "HP:5200295"
+  ],
+  "rhythmic limb movement during sleep": [
+    "HP:5200295"
+  ],
+  "rhythmic limb movements during sleep": [
+    "HP:5200295"
+  ],
+  "abnormal hypnagogia": [
+    "HP:5200296"
+  ],
+  "abnormality fall asleep": [
+    "HP:5200296"
+  ],
+  "abnormality falling asleep": [
+    "HP:5200296"
+  ],
+  "abnormal hypnopompia": [
+    "HP:5200297"
+  ],
+  "abnormal waking": [
+    "HP:5200297"
+  ],
+  "abnormal sleep architecture": [
+    "HP:5200298"
+  ],
+  "sleep architecture disturbance": [
+    "HP:5200298"
+  ],
+  "sleep architecture disturbances": [
+    "HP:5200298"
+  ],
+  "sleep stage disturbance": [
+    "HP:5200298"
+  ],
+  "sleep stage disturbances": [
+    "HP:5200298"
+  ],
+  "rem parasomnia": [
+    "HP:5200299"
+  ],
+  "disturbance in rem": [
+    "HP:5200299"
+  ],
+  "rapid eye movement parasomnia": [
+    "HP:5200299"
+  ],
+  "abnormal movement during sleep": [
+    "HP:5200300"
+  ],
+  "nocturnal myoclonus syndrome": [
+    "HP:5200300"
+  ],
+  "periodic limb movement disorder": [
+    "HP:5200300"
+  ],
+  "short n1 sleep": [
+    "HP:5200304"
+  ],
+  "short light sleep of nrem": [
+    "HP:5200304"
+  ],
+  "paradoxical insomnia": [
+    "HP:5200305"
+  ],
+  "disturbance in perception relate to sleep": [
+    "HP:5200305"
+  ],
+  "disturbance in perception related to sleep": [
+    "HP:5200305"
+  ],
+  "sleep misperception": [
+    "HP:5200305"
+  ],
+  "sleep state misperception": [
+    "HP:5200305"
+  ],
+  "short n2 sleep": [
+    "HP:5200307"
+  ],
+  "short subdue state of nrem": [
+    "HP:5200307"
+  ],
+  "short subdued state of nrem": [
+    "HP:5200307"
+  ],
+  "short n3 sleep": [
+    "HP:5200309"
+  ],
+  "short slow wave sleep": [
+    "HP:5200309"
+  ],
+  "decrease social interaction": [
+    "HP:5200310"
+  ],
+  "decreased social interactions": [
+    "HP:5200310"
+  ],
+  "reduce , decline or lessen social interaction": [
+    "HP:5200310"
+  ],
+  "reduced , declined or lessened social interactions": [
+    "HP:5200310"
+  ],
+  "increase interpersonal communication": [
+    "HP:5200311"
+  ],
+  "increased interpersonal communication": [
+    "HP:5200311"
+  ],
+  "heighten , amplify social expression and social connectedness": [
+    "HP:5200311"
+  ],
+  "heightened , amplified social expression and social connectedness": [
+    "HP:5200311"
+  ],
+  "increase seek of relationship": [
+    "HP:5200315"
+  ],
+  "increased seeking of relationships": [
+    "HP:5200315"
+  ],
+  "extraversion": [
+    "HP:5200315"
+  ],
+  "decrease interpersonal communication": [
+    "HP:5200316"
+  ],
+  "decreased interpersonal communication": [
+    "HP:5200316"
+  ],
+  "a decline or reduce social expression and social connectedness": [
+    "HP:5200316"
+  ],
+  "a decline or reduced social expression and social connectedness": [
+    "HP:5200316"
+  ],
+  "decreased seek of relationship": [
+    "HP:5200320"
+  ],
+  "decreased seeking of relationships": [
+    "HP:5200320"
+  ],
+  "introversion": [
+    "HP:5200320"
+  ],
+  "self - isolation": [
+    "HP:5200320"
+  ],
+  "social isolation": [
+    "HP:5200320"
+  ],
+  "increase sexual behavior": [
+    "HP:5200321"
+  ],
+  "increased sexual behavior": [
+    "HP:5200321"
+  ],
+  "increase sexual behaviour": [
+    "HP:5200321"
+  ],
+  "increased sexual behaviour": [
+    "HP:5200321"
+  ],
+  "increase emotional expression": [
+    "HP:5200322"
+  ],
+  "increased emotional expression": [
+    "HP:5200322"
+  ],
+  "increase emotional display": [
+    "HP:5200322"
+  ],
+  "increased emotional display": [
+    "HP:5200322"
+  ],
+  "increase emotional vulnerability": [
+    "HP:5200323"
+  ],
+  "increased emotional vulnerability": [
+    "HP:5200323"
+  ],
+  "empath": [
+    "HP:5200323"
+  ],
+  "increase empathy": [
+    "HP:5200323"
+  ],
+  "increased empathy": [
+    "HP:5200323"
+  ],
+  "over - sharing": [
+    "HP:5200323"
+  ],
+  "oversharing": [
+    "HP:5200323"
+  ],
+  "increase comfort with casual physical contact": [
+    "HP:5200325"
+  ],
+  "increased comfort with casual physical contact": [
+    "HP:5200325"
+  ],
+  "physical affection": [
+    "HP:5200325"
+  ],
+  "decrease sexual behavior": [
+    "HP:5200327"
+  ],
+  "decreased sexual behavior": [
+    "HP:5200327"
+  ],
+  "decrease sexual behaviour": [
+    "HP:5200327"
+  ],
+  "decreased sexual behaviour": [
+    "HP:5200327"
+  ],
+  "hyposexuality": [
+    "HP:5200327"
+  ],
+  "decrease emotional expression": [
+    "HP:5200328"
+  ],
+  "decreased emotional expression": [
+    "HP:5200328"
+  ],
+  "decrease emotional display": [
+    "HP:5200328"
+  ],
+  "decreased emotional display": [
+    "HP:5200328"
+  ],
+  "problematic alcohol consumption": [
+    "HP:5200329"
+  ],
+  "excessive alcohol consumption": [
+    "HP:5200329"
+  ],
+  "suicide behavior": [
+    "HP:5200330"
+  ],
+  "suicide behaviors": [
+    "HP:5200330"
+  ],
+  "sucidality": [
+    "HP:5200330"
+  ],
+  "suicidal action": [
+    "HP:5200330"
+  ],
+  "suicidal actions": [
+    "HP:5200330"
+  ],
+  "addictive sedative use": [
+    "HP:5200331"
+  ],
+  "sedative addiction": [
+    "HP:5200331"
+  ],
+  "addictive non - substance behavior": [
+    "HP:5200332"
+  ],
+  "addictive non - substance behaviors": [
+    "HP:5200332"
+  ],
+  "addiction to a behavior": [
+    "HP:5200332"
+  ],
+  "addiction to an activity": [
+    "HP:5200332"
+  ],
+  "addictive activity": [
+    "HP:5200332"
+  ],
+  "addictive spending behavior": [
+    "HP:5200333"
+  ],
+  "shopaholic": [
+    "HP:5200333"
+  ],
+  "shopping addiction": [
+    "HP:5200333"
+  ],
+  "spending addiction": [
+    "HP:5200333"
+  ],
+  "addictive gamble behavior": [
+    "HP:5200334"
+  ],
+  "addictive gambling behavior": [
+    "HP:5200334"
+  ],
+  "gamble addiction": [
+    "HP:5200334"
+  ],
+  "gambling addiction": [
+    "HP:5200334"
+  ],
+  "addictive sex behavior": [
+    "HP:5200335"
+  ],
+  "sex addiction": [
+    "HP:5200335"
+  ],
+  "addictive video game use": [
+    "HP:5200336"
+  ],
+  "excessive video game playing": [
+    "HP:5200336"
+  ],
+  "video game addiction": [
+    "HP:5200336"
+  ],
+  "compulsive stealing": [
+    "HP:5200337"
+  ],
+  "kleptomania": [
+    "HP:5200337"
+  ],
+  "excessive fire setting": [
+    "HP:5200338"
+  ],
+  "pyromania": [
+    "HP:5200338"
+  ],
+  "self - cutting": [
+    "HP:5200339"
+  ],
+  "cut": [
+    "HP:5200339"
+  ],
+  "cutting": [
+    "HP:5200339"
+  ],
+  "deliberate cutting of skin": [
+    "HP:5200339"
+  ],
+  "self cut": [
+    "HP:5200339"
+  ],
+  "self cutting": [
+    "HP:5200339"
+  ],
+  "addictive cannabis use": [
+    "HP:5200341"
+  ],
+  "addictive marijuana use": [
+    "HP:5200341"
+  ],
+  "cannabis addiction": [
+    "HP:5200341"
+  ],
+  "marijuana addiction": [
+    "HP:5200341"
+  ],
+  "autophagia": [
+    "HP:5200342"
+  ],
+  "self - consumption": [
+    "HP:5200342"
+  ],
+  "hypnagogic sleep paralysis": [
+    "HP:5200352"
+  ],
+  "inability to move while fall asleep": [
+    "HP:5200352"
+  ],
+  "inability to move while falling asleep": [
+    "HP:5200352"
+  ],
+  "predormital sleep paralysis": [
+    "HP:5200352"
+  ],
+  "hypnopompic sleep paralysis": [
+    "HP:5200353"
+  ],
+  "inability to move while awaken": [
+    "HP:5200353"
+  ],
+  "inability to move while awakening": [
+    "HP:5200353"
+  ],
+  "postdormital paralysis": [
+    "HP:5200353"
+  ],
+  "postdormital sleep paralysis": [
+    "HP:5200353"
+  ],
+  "sleep onset rapid eye movement period": [
+    "HP:5200356"
+  ],
+  "sleep - onset ( rem ) period": [
+    "HP:5200356"
+  ],
+  "sleep - onset rapid eye movement ( rem ) period": [
+    "HP:5200356"
+  ],
+  "prolonged n1 sleep": [
+    "HP:5200357"
+  ],
+  "prolonged n2 sleep": [
+    "HP:5200358"
+  ],
+  "prolonged n3 sleep": [
+    "HP:5200359"
+  ],
+  "short rem sleep": [
+    "HP:5200360"
+  ],
+  "prolonged rem sleep": [
+    "HP:5200361"
+  ],
+  "short nrem sleep": [
+    "HP:5200362"
+  ],
+  "prolonged nrem sleep": [
+    "HP:5200363"
+  ],
+  "abnormal judgment": [
+    "HP:5200401"
+  ],
+  "abnormal belief": [
+    "HP:5200401"
+  ],
+  "abnormal beliefs": [
+    "HP:5200401"
+  ],
+  "overvalue idea": [
+    "HP:5200402"
+  ],
+  "overvalued idea": [
+    "HP:5200402"
+  ],
+  "time agnosia": [
+    "HP:5200403"
+  ],
+  "olfactory agnosia": [
+    "HP:5200405"
+  ],
+  "tactile agnosia": [
+    "HP:5200406"
+  ],
+  "topographical agnosia": [
+    "HP:5200407"
+  ],
+  "delusional memory": [
+    "HP:5200409"
+  ],
+  "retrospective delusion": [
+    "HP:5200409"
+  ],
+  "auditory agnosia": [
+    "HP:5200410"
+  ],
+  "gustatory agnosia": [
+    "HP:5200411"
+  ],
+  "allesthesia": [
+    "HP:5200412"
+  ],
+  "autotopagnosia": [
+    "HP:5200413"
+  ],
+  "delusion of persecution": [
+    "HP:5200415"
+  ],
+  "delusion of infidelity": [
+    "HP:5200416"
+  ],
+  "pathological jealousy": [
+    "HP:5200416"
+  ],
+  "grandiose delusion": [
+    "HP:5200417"
+  ],
+  "megalomania": [
+    "HP:5200417"
+  ],
+  "folie \u00e0 deux": [
+    "HP:5200418"
+  ],
+  "share psychosis": [
+    "HP:5200418"
+  ],
+  "shared psychosis": [
+    "HP:5200418"
+  ],
+  "delusion of control": [
+    "HP:5200419"
+  ],
+  "delusion of love": [
+    "HP:5200420"
+  ],
+  "de cl\u00e9rambault syndrome": [
+    "HP:5200420"
+  ],
+  "erotomania": [
+    "HP:5200420"
+  ],
+  "psychose passionelle": [
+    "HP:5200420"
+  ],
+  "nihilistic delusion": [
+    "HP:5200421"
+  ],
+  "cotard delusion": [
+    "HP:5200422"
+  ],
+  "cotard syndrome": [
+    "HP:5200422"
+  ],
+  "abnormal experience of reality": [
+    "HP:5200423"
+  ],
+  "delusional perception": [
+    "HP:5200424"
+  ],
+  "hypochondriac delusion": [
+    "HP:5200425"
+  ],
+  "delusion of infestation": [
+    "HP:5200426"
+  ],
+  "delusions of infestation": [
+    "HP:5200426"
+  ],
+  "ekbom 's syndrome": [
+    "HP:5200426"
+  ],
+  "delusional atmosphere": [
+    "HP:5200427"
+  ],
+  "delusional misidentification": [
+    "HP:5200428"
+  ],
+  "religious delusion": [
+    "HP:5200429"
+  ],
+  "abnormal psychotic pattern": [
+    "HP:5200430"
   ],
   "incomplete unilateral cleft lip": [
     "HP:5201000"
