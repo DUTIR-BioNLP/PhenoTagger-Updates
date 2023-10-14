@@ -26,7 +26,7 @@ PhenoTagger is a hybrid method that combines dictionary and deep learning-based 
 
 ## Dependency package
 <a name="package"></a>
-PhenoTagger have been tested using Python3.10 on CentOS and uses the following dependencies on a CPU and GPU:
+PhenoTagger has been tested using Python3.10 on CentOS and uses the following dependencies on a CPU and GPU:
 
 - [TensorFlow 2.12.0](https://www.tensorflow.org/)
 - [Transformers 4.30.1](https://huggingface.co/docs/transformers/index)
@@ -42,7 +42,7 @@ $ pip install -r requirements.txt
 ## Data and model preparation
 <a name="preparation"></a>
 
-1. To run this code, you need to create a model folder named "models_v1.2" in the PhenoTagger folder, then download the model files ( four trained models for HPO concept recognition are released, i.e., CNN, Bioformer, BioBERT, PubMedBERT) into the model folder.
+1. To run this code, you need to create a model folder named "models" in the PhenoTagger folder, then download the model files ( four trained models for HPO concept recognition are released, i.e., CNN, Bioformer, BioBERT, PubMedBERT) into the model folder.
 
 	- First download original files of the pre-trained language models (PLMs): [Bioformer](https://huggingface.co/bioformers/bioformer-8L/), [BioBERT](https://huggingface.co/dmis-lab/biobert-base-cased-v1.2), [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext)
 	- Then download the fine-tuned model files for HPO in [Here](https://huggingface.co/lingbionlp/PhenoTagger_v1.2/)
