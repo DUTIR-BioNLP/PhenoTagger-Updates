@@ -10,7 +10,7 @@ import argparse
 from nn_model import bioTag_CNN,bioTag_BERT
 from dic_ner import dic_ont
 from tagging_text import bioTag
-from model_tc import NN_TC,HUGFACE_TC
+from negbio2.negbio_run import negbio_load, negbio_main
 import os
 import time
 import json
@@ -24,7 +24,7 @@ if len(gpu) > 0:
     tf.config.experimental.set_memory_growth(gpu[0], True)
 
 
-def PubTator_Converter(infile,outfile,biotag_dic,nn_model,negation_model,para_set):
+def PubTator_Converter(infile,outfile,biotag_dic,nn_model,para_set):
 
     with open(infile, 'r',encoding='utf-8') as fin:
         with open(outfile,'w', encoding='utf8') as fout:
@@ -48,34 +48,21 @@ def PubTator_Converter(infile,outfile,biotag_dic,nn_model,negation_model,para_se
                     intext=title+' '+abstract
                     #print('..........',pmid)
                     #print(intext)
-                    tag_result=bioTag(intext,biotag_dic,nn_model,negation_model,onlyLongest=para_set['onlyLongest'], abbrRecog=para_set['abbrRecog'],Threshold=para_set['ML_Threshold'],Negation=para_set['negation'])
-                    if para_set['negation'] == True:
-                        for ele in tag_result:
-                            start = ele[0]
-                            last = ele[1]
-                            mention = intext[int(ele[0]):int(ele[1])]
-                            type='Phenotype'
-                            id=ele[2]
-                            score=ele[3]
-                            neg_label=ele[4]
-                            fout.write(pmid+"\t"+start+"\t"+last+"\t"+mention+"\t"+type+"\t"+id+"\t"+neg_label+'\t'+score+"\n")
-                        fout.write('\n')
-                        title=''
-                        abstract=''
-                    else:
-                        for ele in tag_result:
-                            start = ele[0]
-                            last = ele[1]
-                            mention = intext[int(ele[0]):int(ele[1])]
-                            type='Phenotype'
-                            id=ele[2]
-                            score=ele[3]
-                            fout.write(pmid+"\t"+start+"\t"+last+"\t"+mention+"\t"+type+"\t"+id+"\t"+score+"\n")
-                        fout.write('\n')
-                        title=''
-                        abstract=''
+                    tag_result=bioTag(intext,biotag_dic,nn_model,onlyLongest=para_set['onlyLongest'], abbrRecog=para_set['abbrRecog'],Threshold=para_set['ML_Threshold'])
+                    
+                    for ele in tag_result:
+                        start = ele[0]
+                        last = ele[1]
+                        mention = intext[int(ele[0]):int(ele[1])]
+                        type='Phenotype'
+                        id=ele[2]
+                        score=ele[3]
+                        fout.write(pmid+"\t"+start+"\t"+last+"\t"+mention+"\t"+type+"\t"+id+"\t"+score+"\n")
+                    fout.write('\n')
+                    title=''
+                    abstract=''
 
-def BioC_Converter(infile,outfile,biotag_dic,nn_model,negation_model,para_set):
+def BioC_Converter(infile,outfile,biotag_dic,nn_model,para_set):
 
     with open(infile, 'r',encoding='utf-8') as fin:
         with open(outfile,'w', encoding='utf8') as fout:
@@ -84,38 +71,105 @@ def BioC_Converter(infile,outfile,biotag_dic,nn_model,negation_model,para_set):
                 mention_num=0
                 for passage in document.passages:
                     passage_offset=passage.offset
-                    tag_result=bioTag(passage.text,biotag_dic,nn_model,negation_model,onlyLongest=para_set['onlyLongest'], abbrRecog=para_set['abbrRecog'],Threshold=para_set['ML_Threshold'],Negation=para_set['negation']) 
-                    if para_set['negation'] == True:
-                        for ele in tag_result:
-                            if ele[4] == 'NEG':# negation pass
-                                continue
-                            bioc_note = bioc.BioCAnnotation()
-                            bioc_note.id = str(mention_num)
-                            mention_num+=1
-                            bioc_note.infons['identifier'] = ele[2]
-                            bioc_note.infons['type'] = "Phenotype"
-                            bioc_note.infons['score'] = ele[3]
-                            start = int(ele[0])
-                            last = int(ele[1])
-                            loc = bioc.BioCLocation(offset=str(passage_offset+start), length= str(last-start))
-                            bioc_note.locations.append(loc)
-                            bioc_note.text = passage.text[start:last]
-                            passage.annotations.append(bioc_note)
-                    else:
-                        for ele in tag_result:
-                            bioc_note = bioc.BioCAnnotation()
-                            bioc_note.id = str(mention_num)
-                            mention_num+=1
-                            bioc_note.infons['identifier'] = ele[2]
-                            bioc_note.infons['type'] = "Phenotype"
-                            bioc_note.infons['score'] = ele[3]
-                            start = int(ele[0])
-                            last = int(ele[1])
-                            loc = bioc.BioCLocation(offset=str(passage_offset+start), length= str(last-start))
-                            bioc_note.locations.append(loc)
-                            bioc_note.text = passage.text[start:last]
-                            passage.annotations.append(bioc_note)
+                    tag_result=bioTag(passage.text,biotag_dic,nn_model,onlyLongest=para_set['onlyLongest'], abbrRecog=para_set['abbrRecog'],Threshold=para_set['ML_Threshold']) 
+                    
+                    for ele in tag_result:
+                        bioc_note = bioc.BioCAnnotation()
+                        bioc_note.id = str(mention_num)
+                        mention_num+=1
+                        bioc_note.infons['identifier'] = ele[2]
+                        bioc_note.infons['type'] = "Phenotype"
+                        bioc_note.infons['score'] = ele[3]
+                        start = int(ele[0])
+                        last = int(ele[1])
+                        loc = bioc.BioCLocation(offset=str(passage_offset+start), length= str(last-start))
+                        bioc_note.locations.append(loc)
+                        bioc_note.text = passage.text[start:last]
+                        passage.annotations.append(bioc_note)
             bioc.dump(collection, fout, pretty_print=True)
+
+def PubTator_negbio(pipeline, argv, infile, outpath):
+    
+    # pubtator convert to bioc xml
+    fin = open(infile, 'r', encoding='utf-8')
+    all_in = fin.read().strip().split('\n\n')
+    fin.close()
+    collection = bioc.BioCCollection()
+    for doc in all_in:
+        lines = doc.split('\n')
+        seg1 = lines[0].split('|t|')
+        pmid = seg1[0]
+        seg2 = lines[1].split('|a|')
+        text_in = seg1[1]+' '+seg2[1]
+
+        document = bioc.BioCDocument()
+        document.id = pmid
+    
+        passage = bioc.BioCPassage()
+        passage.offset = 0
+        passage.text = text_in.strip()
+        document.add_passage(passage)
+
+        mention_num = 0
+        for i in range(2, len(lines)):
+            ele = lines[i].split('\t')
+            bioc_node = bioc.BioCAnnotation()
+            bioc_node.id = str(mention_num)
+            bioc_node.infons['identifier'] = ele[5]
+            bioc_node.infons['type'] = "Phenotype"
+            bioc_node.infons['score'] = ele[6]
+            start = int(ele[1])
+            last = int(ele[2])
+            loc = bioc.BioCLocation(offset=str(passage.offset+start), length= str(last-start))
+            bioc_node.locations.append(loc)
+            bioc_node.text = passage.text[start:last]
+            passage.annotations.append(bioc_node)
+            mention_num += 1
+        
+        collection.add_document(document)
+    with open(outpath+'tmp.xml', 'w') as fp:
+        bioc.dump(collection, fp)
+
+    # run negbio 
+    negbio_main(pipeline, argv, outpath+'tmp.xml', outpath)
+
+    #bioc xml convert to pubtator
+    fin = open(outpath+'tmp.neg2.xml', 'r', encoding='utf-8')
+    neg2_results = {} #{pmid:{'0':'neg'}}
+    collection = bioc.load(fin)
+    fin.close()
+    for document in collection.documents:
+        pmid = document.id
+        _mention = {}
+        for passage in document.passages:
+            for men_node in passage.annotations:
+                if 'uncertainty' in men_node.infons.keys():
+                    _mention[men_node.id] = 'uncertainty'
+                elif 'negation' in men_node.infons.keys():
+                    _mention[men_node.id] = 'negation'
+                else:
+                    _mention[men_node.id] = 'positive'
+        neg2_results[pmid] = _mention
+    # print(neg2_results)
+    fin = open(infile, 'r', encoding='utf-8')
+    all_in = fin.read().strip().split('\n\n')
+    fin.close()
+    seg = infile.split('.')
+    fout = open('.'.join(seg[:-1])+'.neg2.'+seg[-1], 'w', encoding = 'utf-8')
+    for doc in all_in:
+        lines = doc.split('\n')
+        j = 0
+        fout.write(lines[0]+'\n'+lines[1]+'\n')
+
+        for i in range(2, len(lines)):
+            seg = lines[i].split('\t')
+            fout.write(lines[i]+'\t'+neg2_results[seg[0]][str(j)]+'\n')
+            j += 1
+        fout.write('\n')
+    fout.close()
+    os.remove(outpath+'tmp.xml') 
+    os.remove(outpath+'tmp.neg2.xml')  
+
 
 def phenotagger_tag(infolder,para_set,outfolder):
     
@@ -159,18 +213,8 @@ def phenotagger_tag(infolder,para_set,outfolder):
         nn_model=bioTag_BERT(vocabfiles)
         nn_model.load_model(modelfile)
 
-    #load negation model
-    if para_set['negation']==True:
-        
-        vocabfiles={'w2vfile':'../models/bio_embedding_intrinsic.d200',   
-                    'charfile':'../dict/char.vocab',
-                    'labelfile':'../dict/TC_label.vocab',
-                    }
-        negation_model=NN_TC(vocabfiles)
-        negation_model.build_model()
-        negation_model.load_model('../models/cnn-negation.h5')
-    else:
-        negation_model = None
+    if para_set['negation'] == True:
+        pipeline, argv = negbio_load()
 
     #tagging text
     print("begin tagging........")
@@ -196,9 +240,14 @@ def phenotagger_tag(infolder,para_set,outfolder):
                     format="BioC"
                     break
             if(format == "PubTator"):
-                PubTator_Converter(infolder+filename,outfolder+filename,biotag_dic,nn_model,negation_model, para_set)
+                PubTator_Converter(infolder+filename,outfolder+filename,biotag_dic,nn_model, para_set)
+                if para_set['negation'] == True:
+                    PubTator_negbio(pipeline, argv, outfolder+filename, outfolder)
             elif(format == "BioC"):
-                BioC_Converter(infolder+filename,outfolder+filename,biotag_dic,nn_model,negation_model,para_set)    
+                BioC_Converter(infolder+filename,outfolder+filename,biotag_dic,nn_model,para_set)   
+                if para_set['negation'] == True:
+                    negbio_main(pipeline, argv, outfolder+filename, outfolder)
+
 
     
     print('tag done:',time.time()-start_time)
@@ -221,7 +270,7 @@ if __name__=="__main__":
               'model_type':'bioformer', # cnn, bioformer, pubmedbert or biobert
               'onlyLongest':True, # False: return overlap concepts, True only longgest
               'abbrRecog':True,# False: don't identify abbr, True: identify abbr
-              'negation': False, #True:negation detection
+              'negation': True, #True:negation detection
               'ML_Threshold':0.95,# the Threshold of deep learning model
               }
     

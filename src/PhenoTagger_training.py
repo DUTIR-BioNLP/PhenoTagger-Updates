@@ -85,7 +85,7 @@ def CNN_training(trainfiles,vocabfiles,modelfile,EPOCH=150):
     for i in range(EPOCH):
         print('\nepoch:',i)
         cnn_model.model.fit(input_train,train_y,batch_size=128, epochs=1,verbose=2)
-        if i<20:   # after 10 epoch, begin dev evaluation
+        if i<40:   # after 10 epoch, begin dev evaluation
             continue
         #evaluation dev
         if Dev_ES==True:
