@@ -14,6 +14,9 @@ from tensorflow.keras.layers import *
 from tensorflow.keras.models import Model
 # from keras_bert import load_trained_model_from_checkpoint
 from transformers import TFAutoModel
+import tensorflow.keras.layers as layers
+from tensorflow.keras import initializers
+from tensorflow.keras import regularizers
 
 
 '''
@@ -99,8 +102,35 @@ class bioTag_CNN():
         self.model.summary()        
         print('load model done!')
 
+class EmbLayer(tf.keras.layers.Layer):
+    def __init__(self, label_size, emb_in):
+        super(EmbLayer, self).__init__()
+        self.label_size = label_size
+        # self.emb_in = tf.fill(dims=(self.label_size, 64), value=emb_in)
+        self.emb_in = tf.constant(emb_in)
+
+    def build(self,input):
+        self.w = self.add_weight(
+            "W_embeddings",
+            shape=(512, 768),
+            initializer=tf.keras.initializers.TruncatedNormal(0, 0.01),
+            # regularizer = tf.keras.regularizers.l2(0.01),
+            trainable=True)
+        # RandomNormal
+        # TruncatedNormal
+        self.b = self.add_weight(
+            'bias',
+            shape=(self.label_size,),
+            initializer=tf.keras.initializers.TruncatedNormal(0, 0.01),
+            trainable=True)
+    def call(self, inputs):
+        # print(inputs)
+        final_w = tf.matmul(self.emb_in, self.w)
+        # print(final_w)
+        return tf.einsum('ij,kj->ik', inputs, final_w) + self.b
+
 class bioTag_BERT():
-    def __init__(self, model_files):
+    def __init__(self, model_files, emb_in):
         self.model_type='bert'
         self.maxlen = 32
         
@@ -108,11 +138,8 @@ class bioTag_BERT():
         self.label_file=model_files['labelfile']
         self.lowercase=model_files['lowercase']
         self.rep = BERT_RepresentationLayer(self.checkpoint_path, self.label_file, lowercase=self.lowercase)
-       
-       
+        self.emb_in = emb_in
 
-        
-        
         plm_model = TFAutoModel.from_pretrained(self.checkpoint_path, from_pt=True)
 
         x1_in = Input(shape=(self.maxlen,),dtype=tf.int32, name='input_ids')
@@ -121,10 +148,22 @@ class bioTag_BERT():
         #x = plm_model(x1_in, token_type_ids=x2_in, attention_mask=x3_in)[1]
         #x = plm_model(x1_in, token_type_ids=x2_in, attention_mask=x3_in)[0] 
         #x = GlobalMaxPooling1D()(x)
+        # old version
+        # x = plm_model(x1_in, token_type_ids=x2_in, attention_mask=x3_in)[0][:,0,:]
+        # outputs = Dense(self.rep.label_table_size, activation='softmax')(x)
+        # self.model = Model(inputs=[x1_in,x2_in,x3_in], outputs=outputs)
+
+        # new_version_6
         x = plm_model(x1_in, token_type_ids=x2_in, attention_mask=x3_in)[0][:,0,:]
-        outputs = Dense(self.rep.label_table_size, activation='softmax')(x)
-    
-        self.model = Model(inputs=[x1_in,x2_in,x3_in], outputs=outputs)
+        y1 = EmbLayer(self.rep.label_table_size, self.emb_in)(x)
+        # y1 = ReLU()(y1)
+        y1 = Dropout(0.7)(y1)
+        y2 = tf.concat([x, y1], axis=1)
+        # print(y2)
+        # y2 = Dropout(0.7)(y2)
+        y = Dense(self.rep.label_table_size, activation='softmax', kernel_initializer=initializers.TruncatedNormal(0, 0.01))(y2)
+        # kernel_initializer=initializers.TruncatedNormal(0, 0.01)
+        self.model = Model(inputs=[x1_in,x2_in,x3_in], outputs=y)
 
     def load_model(self,model_file):
         self.model.load_weights(model_file)

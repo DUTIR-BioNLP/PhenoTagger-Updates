@@ -5,6 +5,7 @@ aboulia
 abouphalia
 abscess
 abulia
+acalculia
 acanthocyte
 acanthocytes
 acanthocytosis
@@ -43,6 +44,7 @@ adenohypophysis
 adenoiditis
 adenomyosis
 adermatoglyphia
+aerophagia
 afibrinogenemia
 agalactia
 agammaglobulinaemia
@@ -58,6 +60,7 @@ agonadism
 agoraphobia
 agranulocytosis
 agraphesthesia
+agraphia
 agyria
 ainhum
 akathisia
@@ -145,6 +148,7 @@ apnea
 apnoea
 apodia
 aposthia
+appendicitis
 apraxia
 apraxias
 aprosencephaly
@@ -199,6 +203,7 @@ autoagression
 autoamputation
 autoimmunity
 autophagia
+autophony
 autoscopy
 autotopagnosia
 azoospermia
@@ -216,6 +221,7 @@ bcgiosis
 bcgitis
 bcgosis
 bedsore
+bendopnea
 bicarbonaturia
 bilirubinuria
 birthmark
@@ -289,7 +295,6 @@ cardiomyopathy
 caries
 carnitinuria
 carnosinuria
-catalepsy
 cataplexy
 cataract
 cataracts
@@ -352,6 +357,7 @@ coccidioidomycosis
 codocytes
 coldness
 colitis
+collagenoma
 collect
 collecting
 collectionism
@@ -363,6 +369,7 @@ confusion
 conjunctivitis
 constipation
 contracture
+coprolith
 corectopia
 costiveness
 cough
@@ -404,6 +411,7 @@ cystathioninuria
 cystinuria
 cystocele
 dacrocystitis
+dacrolith
 dacryocystitis
 dacryocystocele
 dacryocytes
@@ -523,7 +531,6 @@ emesis
 empath
 emphysema
 enanthema
-encephalitis
 encephalocele
 encephalomalacia
 encephalopathy
@@ -589,6 +596,8 @@ fasciculation
 fasciculations
 fasciitis
 fatigue
+fecaloma
+fecolith
 ferropenic
 fever
 fibrofolliculoma
@@ -608,6 +617,7 @@ frailty
 freckle
 freckling
 furuncle
+galactocele
 galactorrhea
 galactorrhoea
 galactosemia
@@ -724,6 +734,7 @@ hemosiderinuria
 hemothorax
 hepatitis
 hepatoblastoma
+hepatolithiasis
 hepatomegaly
 hepatopathy
 hepatosplenomegaly
@@ -776,6 +787,7 @@ hydromyelia
 hydronephrosis
 hydrophobia
 hydrops
+hydrosalpinx
 hydroureter
 hydroxylysinemia
 hydroxylysinuria
@@ -859,7 +871,6 @@ hyperkinesis
 hyperkyphosis
 hyperlactatorachia
 hyperlacticacidemia
-hyperlaxity
 hyperleucinemia
 hyperlipidemia
 hyperlipoproteinemia
@@ -894,6 +905,7 @@ hyperphosphatasemia
 hyperphosphatasia
 hyperphosphatemia
 hyperphosphaturia
+hyperpipecolatemia
 hyperpituitarism
 hyperprolactinaemia
 hyperprolactinemia
@@ -1159,7 +1171,6 @@ lissencephaly
 lithoptysis
 livedo
 lockjaw
-loosejointedness
 lordosis
 loxia
 lumbago
@@ -1170,6 +1181,7 @@ lymphangiectasia
 lymphangiectasis
 lymphangioleiomyomatosis
 lymphangioma
+lymphangiosarcoma
 lymphedema
 lymphocytopenia
 lymphocytosis
@@ -1187,6 +1199,7 @@ macrodactyly
 macrodontia
 macroglossia
 macrogyria
+macrolunula
 macromandible
 macromastia
 macromelanosomes
@@ -1208,6 +1221,7 @@ malrotation
 mania
 manic
 mastalgia
+mastitis
 mastocytosis
 mastoiditis
 medulloblastoma
@@ -1362,6 +1376,7 @@ neuritis
 neuroblastoma
 neurocytoma
 neurodegeneration
+neurodermatitis
 neurofibroma
 neurofibromata
 neurofibromatosis
@@ -1513,6 +1528,7 @@ paraparesis
 paraphimosis
 paraplegia
 paraproteinemia
+parasitemia
 parasomnia
 pareidolia
 paresthesia
@@ -1534,6 +1550,7 @@ perseveration
 petechia
 petechiae
 phacodonesis
+phaeohyphomycosis
 phakodonesis
 phantageusia
 phantosmia
@@ -1565,6 +1582,7 @@ pineoblastoma
 pineocytoma
 pinguecula
 pituicytoma
+placidity
 plagiocephaly
 plasmacytoma
 plasmacytosis
@@ -1616,6 +1634,7 @@ presyncope
 priapism
 primapterinuria
 proboscis
+proctalgia
 prognathia
 prognathism
 prolactinoma
@@ -1637,6 +1656,7 @@ pseudoarthrosis
 pseudocroup
 pseudoepiphyses
 pseudoexfoliation
+pseudoglioma
 pseudohyperkalemia
 pseudohypertriglyceridemia
 pseudohypoaldosteronism
@@ -1777,6 +1797,7 @@ stammering
 staphyloma
 steatorrhea
 steatosis
+stercolith
 stereotype
 stereotyped
 stimming
@@ -1800,6 +1821,7 @@ symblepharon
 sympodia
 syncope
 syndactyly
+synesthesia
 synkinesis
 synophris
 synophrys
@@ -1883,7 +1905,6 @@ trimethylaminuria
 triplomyelia
 trismus
 tritanomaly
-trypanosomiasis
 tryptophanuria
 tumor
 tumour
@@ -2108,6 +2129,7 @@ abnormal vocalisation
 abnormal vocalization
 abnormal waking
 abnormal walk
+abnormalldh level
 abolish electroretinogram
 abolished electroretinogram
 abruptio placenta
@@ -2256,6 +2278,7 @@ accessory naris
 accessory nipple
 accessory nipples
 accessory nostril
+accessory puncta
 accessory scaphoid
 accessory scrotum
 accessory spleen
@@ -2350,6 +2373,7 @@ adrenocortical adenoma
 adrenocortical adenomas
 adrenocortical carcinoma
 adrenocortical cytomegaly
+adrenocortical hyperplasia
 adrenocortical hypoplasia
 adrenocortical insufficiency
 adrenogenital syndrome
@@ -2379,6 +2403,7 @@ alcohol addiction
 alkaline urine
 allantoic cyst
 allergic conjunctivitis
+allergic eczema
 allergic rhinitis
 alobar holoprosencephaly
 alopecia areata
@@ -2424,6 +2449,7 @@ amyloid cardiomyopathy
 amyloid disease
 anaemic pallor
 anagen effluvium
+anal achalasia
 anal atresia
 anal erosion
 anal fissure
@@ -2465,6 +2491,7 @@ anomic aphasia
 anoperineal fistula
 anorectal abscess
 anorectal anomaly
+anorectal pain
 anorectal stricture
 antalgic gait
 antecubital pterygium
@@ -2497,6 +2524,8 @@ anteverted nostrils
 anticipatory anxiety
 antidromic avrt
 antihelical shelf
+antimicrosomal antibodies
+antimicrosomal antibody
 antineutrophil antibodies
 antineutrophil antibody
 antinuclear antibodies
@@ -2613,6 +2642,7 @@ atoll sign
 atonic seizure
 atonic seizures
 atopic dermatitis
+atopic eczema
 atretic gallbladder
 atrial arrhythmia
 atrial cardiomyopathy
@@ -2746,6 +2776,7 @@ behavioural symptom
 behavioural symptoms
 belly bloat
 belly bloating
+bent penis
 benzodiazepine dependence
 bergmeister papilla
 bethlem phenomenon
@@ -2822,6 +2853,7 @@ bilobed gallbladder
 bilobed tongue
 bimanual synkinesia
 binasal hemianopia
+binge drinking
 binucleated erythroblast
 binucleated podocytes
 biparietal bossing
@@ -3050,6 +3082,7 @@ breast hypertrophy
 breast hypoplasia
 breast lump
 breast mass
+breast microcalcification
 breast pain
 breast tumor
 breast tumour
@@ -3148,6 +3181,7 @@ brown anomaly
 brown eyelid
 brown eyelids
 brown syndrome
+brown tumor
 bruise easily
 bruise susceptibility
 bruising susceptibility
@@ -3367,6 +3401,7 @@ cerebellopontine atrophy
 cerebral aneurysm
 cerebral atrophy
 cerebral calcification
+cerebral contusion
 cerebral degeneration
 cerebral dysmyelination
 cerebral edema
@@ -3426,6 +3461,7 @@ cervix cancer
 cfh autoantibodies
 cfh autoantibody
 chaddock reflex
+chandelier sign
 chap lip
 chapped lip
 chapped lips
@@ -3848,6 +3884,7 @@ corneal ulcerations
 corneal vascularization
 cornela disease
 corneolenticular adhesion
+corneopalpebral synechiae
 cornu cutaneum
 coronal cleft
 coronal clefts
@@ -3895,6 +3932,7 @@ cranial hyperostosis
 cranial sclerosis
 craniodiaphyseal osteosclerosis
 craniofacial asymmetry
+craniofacial cleft
 craniofacial disproportion
 craniofacial dysostosis
 craniofacial dystonia
@@ -3963,6 +4001,7 @@ cutaneous angiolipomas
 cutaneous apudoma
 cutaneous calcification
 cutaneous cyst
+cutaneous granuloma
 cutaneous hamartoma
 cutaneous horn
 cutaneous hyperpigmentation
@@ -4010,7 +4049,9 @@ dacrystic seizure
 dacrystic seizures
 dactylolysis spontanea
 dairy allergy
+dark cerumen
 dark choroid
+dark earwax
 dark eyelid
 dark eyelids
 dark urine
@@ -4018,7 +4059,6 @@ day blindness
 decerebrate posturing
 decerebrate rigidity
 decorticate rigidity
-decrease adenosylcobalamin
 decrease adocbl
 decrease aldosterone
 decrease alertness
@@ -4055,7 +4095,6 @@ decrease testosterone
 decrease vigilance
 decrease weight
 decrease whr
-decreased adenosylcobalamin
 decreased adocbl
 decreased aldosterone
 decreased alertness
@@ -4299,6 +4338,8 @@ diphtheroid membranes
 direct hyperbilirubinemia
 disc kidney
 disc pallor
+discharge sinus
+discharging sinus
 discoid atelectasis
 discoid eczema
 diseased glomeruli
@@ -4349,6 +4390,7 @@ double antitragus
 double eyebrow
 double eyelid
 double gallbladder
+double punctum
 double tooth
 double ureter
 double uterus
@@ -4485,6 +4527,7 @@ easily distracted
 easy bleeding
 easy bruisability
 easy bruising
+easy distractibility
 easy fatigability
 ebv encephalitis
 ebv meningitis
@@ -4549,6 +4592,7 @@ elevate esr
 elevate fev1
 elevate gonadotropin
 elevate hba1c
+elevate hemidiaphragm
 elevate iga
 elevate igd
 elevate iop
@@ -4564,6 +4608,7 @@ elevated esr
 elevated fev1
 elevated gonadotropins
 elevated hba1c
+elevated hemidiaphragm
 elevated iga
 elevated igd
 elevated iop
@@ -4580,6 +4625,7 @@ elongate neck
 elongate nose
 elongate philtrum
 elongate radius
+elongate telomere
 elongate uvula
 elongated clavicles
 elongated eyebrow
@@ -4588,6 +4634,7 @@ elongated neck
 elongated nose
 elongated philtrum
 elongated radius
+elongated telomeres
 elongated uvula
 embryonal neoplasia
 embryonal neoplasm
@@ -4606,7 +4653,7 @@ emotional hypersensitivity
 emotional insecurity
 emotional instability
 emotional lability
-emotional reacitivy
+emotional reactivity
 emotional seizure
 enamel abnormalities
 enamel abnormality
@@ -4618,7 +4665,6 @@ enamel hypotrophy
 enamel opacity
 enamel pearl
 enamel pearls
-encephalitis lethargica
 endobronchial telangiectasia
 endocapillary hypercellularity
 endocardial fibroelastosis
@@ -4637,6 +4683,7 @@ endplate irregularity
 endplate sclerosis
 enlarge amygdala
 enlarge antitragus
+enlarge aorta
 enlarge brain
 enlarge brainstem
 enlarge cerebellum
@@ -4650,12 +4697,14 @@ enlarge heart
 enlarge hippocampus
 enlarge kidney
 enlarge liver
+enlarge lunula
 enlarge mandible
 enlarge metaphyses
 enlarge naris
 enlarge nostril
 enlarge ovary
 enlarge penis
+enlarge peroxisomes
 enlarge premolar
 enlarge tectum
 enlarge thorax
@@ -4666,6 +4715,7 @@ enlarge uterus
 enlarge ventricle
 enlarged amygdala
 enlarged antitragus
+enlarged aorta
 enlarged brain
 enlarged brainstem
 enlarged cerebellum
@@ -4681,6 +4731,7 @@ enlarged joint
 enlarged joints
 enlarged kidney
 enlarged liver
+enlarged lunula
 enlarged mandible
 enlarged metaphyses
 enlarged nares
@@ -4688,6 +4739,7 @@ enlarged naris
 enlarged nostril
 enlarged ovaries
 enlarged penis
+enlarged peroxisomes
 enlarged premolar
 enlarged tectum
 enlarged thorax
@@ -4822,10 +4874,12 @@ esophageal carcinoma
 esophageal diverticulum
 esophageal duplication
 esophageal exudate
+esophageal fibrosis
 esophageal furrow
 esophageal furrows
 esophageal hemangioma
 esophageal leukoplakia
+esophageal mass
 esophageal neoplasm
 esophageal obstruction
 esophageal pouch
@@ -4855,9 +4909,13 @@ everted antitragus
 everted eyelid
 everted lips
 ewing sarcoma
+excessive belching
+excessive burping
 excessive cerumen
 excessive checking
 excessive cleaning
+excessive eructation
+excessive guilt
 excessive hairiness
 excessive salivation
 excessive sleep
@@ -5082,6 +5140,7 @@ fetal megacystis
 fetal overgrowth
 fetal polyuria
 fetal pyelectasis
+fetal tachycardia
 fetal trigonocephaly
 fetor hepaticus
 fiber splitting
@@ -5106,6 +5165,7 @@ fibular overgrowth
 fibular polydactyly
 fine hair
 finger agnosia
+finger aplasia
 finger clinodactyly
 finger club
 finger clubbing
@@ -5387,6 +5447,7 @@ fungus allergy
 funnel chest
 furrow tongue
 furrowed tongue
+fuse eyelid
 fuse kidney
 fuse lip
 fuse nail
@@ -5396,6 +5457,7 @@ fuse teeth
 fuse thalamus
 fuse toe
 fuse vertebra
+fused eyelid
 fused kidneys
 fused lips
 fused nails
@@ -5480,6 +5542,7 @@ gaze aversion
 gaze avoidance
 gelastic seizure
 gelastic seizures
+gelatinous ascites
 general overgrowth
 generalise aminoaciduria
 generalise amyotrophy
@@ -5725,6 +5788,7 @@ gordon sign
 gothic palate
 gottron papule
 gottron papules
+gottron sign
 gouty arthritis
 gower sign
 gowers sign
@@ -5900,6 +5964,7 @@ hematological neoplasm
 hemianopic blurring
 hemiclonic seizure
 hemiclonic seizures
+hemidiaphragm elevation
 hemifacial atrophy
 hemifacial enlargement
 hemifacial hypertrophy
@@ -5971,6 +6036,7 @@ hidden ear
 hidradenitis suppurativa
 high albumin
 high cholesterol
+high distractibility
 high esr
 high forehead
 high hypermetropia
@@ -6013,6 +6079,7 @@ hoffmann sign
 hollow cheek
 hollow cheeks
 holosystolic murmur
+holster sign
 homonymous hemianopia
 homonymous hemianopsia
 honeycomb cyst
@@ -6068,6 +6135,7 @@ hydrocele testis
 hydropic placenta
 hydrops fetalis
 hydroxyphenylpyruvic aciduria
+hygroma renale
 hyperactive behavior
 hyperactive behaviour
 hyperchloremic acidosis
@@ -6503,6 +6571,7 @@ indurated skin
 ineffective erythropoiesis
 ineffective planning
 inelastic skin
+infantile eczema
 infantile encephalopathy
 infantile glaucoma
 infantile hydrocele
@@ -6607,8 +6676,6 @@ intestinal polyposis
 intestinal polyps
 intestinal pseudoobstruction
 intimal fibrosis
-intracerebral calcification
-intracerebral calcifications
 intracerebral haemorrhage
 intracerebral hemorrhage
 intracranial aneurysm
@@ -6750,6 +6817,7 @@ joint haemorrhage
 joint hemorrhage
 joint hyperextensibility
 joint hyperflexibility
+joint hyperlaxity
 joint hypermobility
 joint inflammation
 joint instability
@@ -6815,6 +6883,7 @@ koenen tumour
 koeppe nodule
 koeppe nodules
 kommerell diverticulum
+kussmaul pulse
 l5 sacralization
 labial abscess
 labial adhesion
@@ -6837,6 +6906,7 @@ laboured breathing
 labyrinthine aplasia
 lack initiative
 lacks initiative
+lacrimal calculus
 lacrimation abnormality
 lactase deficiency
 lactation incapacity
@@ -6949,6 +7019,7 @@ late insomnia
 latent hypermetropia
 latent hyperopia
 latent myopia
+lateral thrust
 latex allergy
 lax joint
 lax joints
@@ -7348,6 +7419,7 @@ meconium xenobiotic
 medial degeneration
 mediastinal lymphadenopathy
 mediastinal mass
+mediastinal shift
 mediastinal teratoma
 mediastinal widening
 medication crystalluria
@@ -7832,6 +7904,7 @@ nasal elongation
 nasal flare
 nasal flaring
 nasal haemorrhage
+nasal hamartoma
 nasal hemorrhage
 nasal hyperplasia
 nasal hypertrophy
@@ -7873,6 +7946,7 @@ necrotizing encephalopathy
 necrotizing enterocolitis
 necrotizing ileitis
 necrotizing myopathy
+necrotizing vasculitis
 negative affect
 negative affectivity
 negative chorea
@@ -8043,6 +8117,7 @@ occipital plagiocephaly
 occlusion anomaly
 occult hematuria
 occupational disability
+ochronotic arthritis
 ocular absence
 ocular albinism
 ocular coloboma
@@ -8076,9 +8151,8 @@ odontogenic tumour
 odontoid hypoplasia
 oesophagus ulcer
 oesophagus ulceration
-offer information
-offers information
 ogival palate
+olecranon fracture
 olfactory agnosia
 olfactory aura
 olfactory auras
@@ -8223,6 +8297,7 @@ p pulmonale
 paediatric glaucoma
 pain insensitivity
 painful breast
+painful defecation
 painful menstruation
 painful swallowing
 painful tongue
@@ -8293,6 +8368,7 @@ pancreas divisum
 pancreatic abscess
 pancreatic adenocarcinoma
 pancreatic aplasia
+pancreatic atrophy
 pancreatic calcification
 pancreatic calcifications
 pancreatic cancer
@@ -8324,6 +8400,7 @@ paradoxical breathing
 paradoxical embolism
 paradoxical insomnia
 paradoxical myotonia
+paradoxical pulse
 paradoxical respiration
 parafoveal fixation
 parafoveal telangiectasia
@@ -8445,10 +8522,15 @@ pelvic pain
 pendular nystagmus
 penile candidiasis
 penile duplication
+penile edema
 penile freckle
 penile freckling
 penile hypospadias
 penile melanosis
+penile oedema
+penile pain
+penile swell
+penile swelling
 penile thrush
 penis aplasia
 penis tumor
@@ -8493,6 +8575,7 @@ perifoveal hypoautofluorescence
 periglomerular fibrosis
 perihepatic adhesion
 perihepatic adhesions
+perihepatic enhancement
 perilobar nephroblastomatosis
 perineal fistula
 perineal hemangioma
@@ -8528,6 +8611,7 @@ periosteal reaction
 peripapillary atrophy
 peripapillary exudate
 peripapillary exudation
+peripelvic lymphangiectasia
 peripheral amyelination
 peripheral cyanosis
 peripheral demyelination
@@ -8566,6 +8650,7 @@ periventricular heterotopia
 periventricular leukomalacia
 periventricular pseudocyst
 peroneal atrophy
+peroxisomal enlargement
 perseverative behavior
 perseverative behaviour
 perseverative thought
@@ -8598,6 +8683,8 @@ phantom taste
 pharyngeal edema
 pharyngeal exudate
 pharyngeal fluid
+pharyngeal mass
+pharyngeal myxoma
 pharyngeal neoplasm
 pharyngeal oedema
 phenylpyruvic acidemia
@@ -8615,6 +8702,7 @@ physical aggression
 physical urticaria
 pig bronchus
 pigeon chest
+pigment cerumen
 pigment gallstone
 pigment gallstones
 pigment gum
@@ -8625,6 +8713,7 @@ pigmentary change
 pigmentary changes
 pigmentary retinopathy
 pigmentation anomaly
+pigmented cerumen
 pigmented gums
 pigmented naevi
 pigmented nevi
@@ -8666,6 +8755,8 @@ pituitary thyrotropinoma
 placenta accreta
 placenta increta
 placenta percreta
+placenta praevia
+placenta previa
 placental abruption
 placental calcification
 placental enlargement
@@ -9001,8 +9092,10 @@ proximal scleroderma
 proximal symphalangism
 proximal tubulopathy
 prune belly
+prurigo besnier
 pruritus vulva
 pruritus vulvae
+pseudobulbar affect
 pseudobulbar palsy
 pseudobulbar paralysis
 pseudobulbar sign
@@ -9023,9 +9116,6 @@ psychomotor degeneration
 psychomotor delay
 psychomotor deterioration
 psychomotor regression
-psychomotor retardation
-psychomotor slow
-psychomotor slowing
 psychose passionelle
 psychosomatic seizure
 psychotic episode
@@ -9112,11 +9202,14 @@ pulp denticles
 pulp obliteration
 pulp stone
 pulp stones
+pulsatile liver
 pulsatile tinnitus
+pulsus paradoxus
 pulverulent cataract
 punctal stenosis
 punctate cataract
 punctate keratitis
+punctum reduplication
 pupillary abnormalities
 pupillary abnormality
 pupillary constriction
@@ -9315,6 +9408,8 @@ renal hamartoma
 renal hypophosphatemia
 renal hypoplasia
 renal insufficiency
+renal lymphangiectasia
+renal lymphangiomatosis
 renal malformation
 renal malrotation
 renal necrosis
@@ -9332,6 +9427,7 @@ renal tumor
 renal tumors
 renal tumour
 renal tumours
+renal vasculitis
 renotubular dysgenesis
 renovascular hypertension
 repeat pneumothoraces
@@ -9344,6 +9440,7 @@ repetitive behavior
 repetitive behaviour
 repetitive movement
 repetitive movements
+resistant hypertension
 respiratory abnormality
 respiratory acidosis
 respiratory alkalosis
@@ -9623,6 +9720,7 @@ scintillate scotoma
 scintillating scotoma
 scissor gait
 scissor walk
+scissoring gait
 scissors bite
 scissors gait
 scleral icterus
@@ -9872,6 +9970,7 @@ single trichilemmoma
 single ventricle
 singsong intonation
 sink eye
+sink fontanelle
 sinoatrial block
 sinus bradycardia
 sinus disease
@@ -10100,6 +10199,7 @@ snore symptom
 snores loudly
 snoring symptoms
 snout reflex
+social anxiety
 social disinhibition
 social isolation
 soft calvaria
@@ -10217,10 +10317,13 @@ splenic hemophagocytosis
 splenic infarct
 splenic infarction
 splenic lesion
+splenic necrosis
 splenic rupture
 splenic xanthomatosis
 splenogonadal fusion
 splenopancreatic fusion
+splinter hemorrhage
+splinter hemorrhages
 split foot
 split hand
 split nail
@@ -10439,6 +10542,7 @@ sunken cheek
 sunken cheeks
 sunken eye
 sunken eyes
+sunken fontanelle
 sunsetting eye
 superficial thrombophlebitis
 supernumary dentition
@@ -10453,6 +10557,7 @@ supernumerary nipple
 supernumerary nipples
 supernumerary nostril
 supernumerary nostrils
+supernumerary punctum
 supernumerary rib
 supernumerary ribs
 supernumerary spleen
@@ -10568,6 +10673,7 @@ tarsal synostosis
 tarsometatarsal synostosis
 taste hallucination
 taste hallucinations
+tear stone
 teeth grind
 teeth grinding
 telogen effluvium
@@ -10592,6 +10698,7 @@ terminal symphalangism
 terminal tremor
 tertiary hyperparathyroidism
 tertiary hypothyroidism
+tessier cleft
 testicular abscess
 testicular atrophy
 testicular azoospermia
@@ -10712,6 +10819,7 @@ thoracic hypertrichosis
 thoracic hypoplasia
 thoracic kyphoscoliosis
 thoracic kyphosis
+thoracic lordosis
 thoracic pain
 thoracic platyspondyly
 thoracic scoliosis
@@ -11194,6 +11302,8 @@ uveal ectropion
 uveal melanoma
 uvula aplasia
 uvula bifida
+uvular swell
+uvular swelling
 vacuolated hepatocytes
 vacuolated keratinocytes
 vacuolated lymphocyte
@@ -11209,6 +11319,7 @@ vaginal hernia
 vaginal hydrocele
 vaginal lymphocele
 vaginal malformation
+vaginal mass
 vaginal myxoma
 vaginal neoplasia
 vaginal neoplasm
@@ -11226,6 +11337,7 @@ vanishing testis
 varicose eczema
 varicose vein
 varicose veins
+varus thrust
 vas previa
 vasa previa
 vascular abnormalities
@@ -11264,7 +11376,6 @@ ventricular couplet
 ventricular dilatation
 ventricular diverticulum
 ventricular ectopics
-ventricular ectopy
 ventricular extrasystole
 ventricular extrasystoles
 ventricular fibrillation
@@ -11557,6 +11668,7 @@ abdominal reflex absent
 abdominal situs ambiguus
 abdominal situs inversus
 abdominal wall defect
+abdominal wall mass
 abducens nerve palsy
 abducens nerve paralysis
 abducens nerve paresis
@@ -11570,6 +11682,7 @@ abnormal acetylcarnitine profile
 abnormal adiponectin level
 abnormal adrenal morphology
 abnormal albumin level
+abnormal alcohol consumption
 abnormal aldolase level
 abnormal alpha granule
 abnormal alpha granules
@@ -11671,6 +11784,7 @@ abnormal circulate aldosterone
 abnormal circulating aldosterone
 abnormal circulating renin
 abnormal clavicle morphology
+abnormal clitoris morphology
 abnormal cns myelination
 abnormal coccyx morphology
 abnormal cochlea morphology
@@ -11876,6 +11990,7 @@ abnormal labium morphology
 abnormal language feature
 abnormal larynx morphology
 abnormal larynx physiology
+abnormal ldh level
 abnormal ldlc concentration
 abnormal lens morphology
 abnormal leukocyte count
@@ -11963,6 +12078,7 @@ abnormal neuronal migration
 abnormal neuronal morphology
 abnormal neutrophil count
 abnormal neutrophil morphology
+abnormal nipple discharge
 abnormal nipple morphology
 abnormal nk cell
 abnormal nk cells
@@ -12000,6 +12116,7 @@ abnormal pec muscle
 abnormal pec muscles
 abnormal peer relationship
 abnormal peer relationships
+abnormal penile discharge
 abnormal penis morphology
 abnormal perceptual state
 abnormal pericardium morphology
@@ -12089,6 +12206,7 @@ abnormal scalp morphology
 abnormal scapula morphology
 abnormal sclera morphology
 abnormal scrotal rugation
+abnormal scrotum morphology
 abnormal scrotum position
 abnormal serum dhea
 abnormal serum estradiol
@@ -12198,6 +12316,7 @@ abnormal u wave
 abnormal umbilicus morphology
 abnormal ureter morphology
 abnormal ureter physiology
+abnormal urethral discharge
 abnormal urinary color
 abnormal urinary colour
 abnormal urinary odor
@@ -12481,6 +12600,8 @@ absent ocular muscle
 absent ocular muscles
 absent optic nerve
 absent optic tract
+absent otoacoustic emission
+absent otoacoustic emissions
 absent p wave
 absent palatine uvula
 absent palm line
@@ -12520,6 +12641,8 @@ absent speech development
 absent sperm flagella
 absent sperm flagellum
 absent spinal cord
+absent stapedius reflex
+absent stapedius reflexes
 absent stapes head
 absent stensen duct
 absent sternal mineralization
@@ -12657,6 +12780,7 @@ addictive sex behavior
 addictive spending behavior
 addictive stimulant use
 addictive substance use
+addictive tobacco use
 addison 's disease
 adductor longus contracture
 adductor longus contractures
@@ -12685,7 +12809,6 @@ adverse drug reaction
 adverse drug response
 adversive status epilepticus
 affective epileptic aura
-african sleeping sickness
 age facial appearance
 age leonine appearance
 aged facial appearance
@@ -12711,6 +12834,8 @@ agyrophilic inclusion bodies
 agyrophilic inclusion body
 air crescent sign
 airborn particle hypersensitivity
+airway mucosal thicken
+airway mucosal thickening
 alanine aminotransferase increase
 alanine aminotransferase increased
 alar cartilage hypoplasia
@@ -12784,6 +12909,7 @@ angulate forearm bone
 angulated forearm bones
 angulated muscle fiber
 angulated muscle fibers
+angulation of penis
 anhidrotic ectodermal dysplasia
 animal dander allergy
 animal protein allergy
@@ -12819,6 +12945,8 @@ anterior chamber rbcs
 anterior chamber synechiae
 anterior cortical cataract
 anterior mediastinal mass
+anterior neck swell
+anterior neck swelling
 anterior open bite
 anterior pituitary agenesis
 anterior pituitary dysgenesis
@@ -12856,6 +12984,7 @@ anti znt8 autoantibody
 anticentromere antibody positivity
 antigliadin antibody positivity
 antilactoferrin antibody positivity
+antimicrosomal antibody positivity
 antimitochondrial antibody positivity
 antimongoloid eye slant
 antineutrophil antibody positivity
@@ -12864,7 +12993,9 @@ antinuclear antibody positivity
 antiphospholipid antibody positivity
 antiplatelet antibodies present
 antiplatelet antibody present
+antisperm antibody positivity
 antithrombin iii deficiency
+antithyroid antibody positivity
 aortic annular calcification
 aortic annulus calcification
 aortic arch aneurysm
@@ -12998,6 +13129,7 @@ atrium septal defect
 atrophic corpus callosum
 atrophic muscularis propria
 atrophic pituitary gland
+atrophic vaginal mucosa
 atrophied masseter muscle
 atrophy masseter muscle
 atrophy of fat
@@ -13265,7 +13397,6 @@ bone cervical vertebra
 bone clavicle bone
 bone cuboid bone
 bone distal phalanx
-bone elbow joint
 bone facial bone
 bone fuse sacrum
 bone fused sacrum
@@ -13278,6 +13409,7 @@ bone manual digit
 bone marrow disease
 bone marrow eosinophilia
 bone marrow failure
+bone marrow granuloma
 bone marrow hypercellularity
 bone marrow hypocellularity
 bone marrow hypoplasia
@@ -13324,6 +13456,7 @@ branchial cleft sinus
 break metatarsal bone
 breakdown of bone
 breast bone aplasia
+breast intraductal papilloma
 breathlessness at rest
 breus ' mole
 bridge palm line
@@ -13609,12 +13742,15 @@ cerebral ventricular adhesion
 cerebral ventricular adhesions
 cerebral ventricular dilatation
 cerebral visual impairment
+cerebrospinal fluid erythrocyte
+cerebrospinal fluid erythrocytes
 cerebrospinal fluid pleocytosis
 cerebrospinal fluid rhinorrhoea
 cervical aortic arch
 cervical cord compression
 cervical ectopia cordis
 cervical intraepithelial neoplasia
+cervical motion tenderness
 cervical segmentation defect
 cervical spina bifida
 cervical spine abnormalities
@@ -14052,6 +14188,8 @@ costal cartilage calcification
 costochondral joint sclerosis
 costochondral juctions abnormal
 costochondral junction pain
+costovertebral angle pain
+costovertebral angle tenderness
 cotton wool plaque
 cotton wool plaques
 cough up blood
@@ -14119,6 +14257,7 @@ csf infectious agent
 csf lymphocytic pleiocytosis
 csf polymorphonuclear pleocytosis
 ct halo sign
+cubital tunnel syndrome
 cuboid vertebral bodies
 cuboid vertebral body
 cup radial metaphyses
@@ -14200,6 +14339,7 @@ decrease blood phenylalanine
 decrease body height
 decrease body weight
 decrease bowel sound
+decrease breath sound
 decrease calvarial ossification
 decrease cardiac index
 decrease cardiac output
@@ -14368,6 +14508,7 @@ decreased blood phenylalanine
 decreased body height
 decreased body weight
 decreased bowel sounds
+decreased breath sounds
 decreased calvarial ossification
 decreased cardiac index
 decreased cardiac output
@@ -14741,6 +14882,8 @@ depressed supraorbital ridge
 depressed tendon reflex
 depressed tendon reflexes
 depressed zygomatic bone
+dermal flame figure
+dermal flame figures
 dermal sinus tract
 dermatitis , atopic
 dermatoglyphic ridge abnormal
@@ -14812,6 +14955,7 @@ diffuse alveolar haemorrhage
 diffuse alveolar hemorrhage
 diffuse axonal swelling
 diffuse brain atrophy
+diffuse breast nodularity
 diffuse cerebellar atrophy
 diffuse cerebral atrophy
 diffuse cerebral calcification
@@ -14857,8 +15001,10 @@ dilated semicircular canal
 dilated third ventricle
 dilated vas deferens
 dilated vestibular aqueduct
+diminish breath sound
 diminish diaphragmatic motion
 diminish mental health
+diminished breath sounds
 diminished diaphragmatic motion
 diminished mental health
 diminished physical functioning
@@ -14942,6 +15088,7 @@ distal clavicular thinning
 distal femoral bowing
 distal foot symphalangism
 distal ileal atresia
+distal joint hypermobility
 distal joint laxity
 distal limb weakness
 distal motor neuropathy
@@ -15034,7 +15181,6 @@ duplex collecting system
 duplicate calf bone
 duplicate collecting system
 duplicate first metatarsal
-duplicate lacrimal punctum
 duplicate odontoid process
 duplicate pancreatic duct
 duplicate sella turcica
@@ -15042,7 +15188,6 @@ duplicate toe bone
 duplicated calf bone
 duplicated collecting system
 duplicated first metatarsals
-duplicated lacrimal punctum
 duplicated odontoid process
 duplicated pancreatic duct
 duplicated sella turcica
@@ -15144,6 +15289,7 @@ elevate circulate threonine
 elevate circulating blast
 elevate circulating erythropoietin
 elevate creatine kinase
+elevate csf cholestanol
 elevate csf protein
 elevate diastolic bp
 elevate fsh level
@@ -15207,6 +15353,8 @@ elevate urinary dpd
 elevate urinary hydroxyproline
 elevate urine glycolate
 elevate urine mevalonate
+elevate urine osmolality
+elevate urine osmolarity
 elevate urine pyrophosphate
 elevated adohcy concentration
 elevated aldolase level
@@ -15226,6 +15374,7 @@ elevated circulating erythropoietin
 elevated circulating succinate
 elevated circulating threonine
 elevated creatine kinase
+elevated csf cholestanol
 elevated csf protein
 elevated diastolic bp
 elevated faecal osmolality
@@ -15295,6 +15444,8 @@ elevated urinary dpd
 elevated urinary hydroxyproline
 elevated urine glycolate
 elevated urine mevalonate
+elevated urine osmolality
+elevated urine osmolarity
 elevated urine pyrophosphate
 elongate femoral neck
 elongate sella turcica
@@ -15316,6 +15467,7 @@ endolymphatic sac tumor
 endolymphatic sac tumour
 enlarge adrenal gland
 enlarge alveolar ridge
+enlarge aortic root
 enlarge basal cistern
 enlarge cisterna magna
 enlarge cochlear aqueduct
@@ -15325,6 +15477,7 @@ enlarge first metatarsal
 enlarge foramen magnum
 enlarge fossa interpeduncularis
 enlarge fourth ventricle
+enlarge gastric fold
 enlarge interhemispheric fissure
 enlarge interpeduncular cistern
 enlarge interphalangeal joint
@@ -15353,6 +15506,7 @@ enlarge ventricular system
 enlarge vestibular aqueduct
 enlarged adrenal glands
 enlarged alveolar ridge
+enlarged aortic root
 enlarged basal cistern
 enlarged cerebral ventricle
 enlarged cerebral ventricles
@@ -15366,6 +15520,7 @@ enlarged first metatarsal
 enlarged foramen magnum
 enlarged fossa interpeduncularis
 enlarged fourth ventricle
+enlarged gastric folds
 enlarged hinge joint
 enlarged hinge joints
 enlarged humeral metaphyses
@@ -15546,6 +15701,7 @@ extrafoveal choroidal neovascularization
 extrahepatic portal hypertension
 extraocular muscle palsy
 extraocular muscle paralysis
+extrapulmonary lobar sequestration
 extrapyramidal muscular rigidity
 extrapyramidal tract sign
 extrapyramidal tract signs
@@ -15643,6 +15799,7 @@ fetal cystic hygroma
 fetal head anomaly
 fetal intracranial hemorrhage
 fetal intraventricular hemorrhage
+fetal lung hyperechogenicity
 fetal neck anomaly
 fetal neck mass
 fetal nuchal edema
@@ -15669,6 +15826,7 @@ fifth finger camptodactyly
 fifth finger clinodactyly
 fifth finger symphalangism
 fifth metacarpal hypoplasia
+filum terminale lipoma
 fine hair shaft
 fine hair texture
 fine motor disability
@@ -15854,7 +16012,6 @@ fracture carpal bone
 fracture clavicle bone
 fracture cuboid bone
 fracture distal phalanx
-fracture elbow joint
 fracture facial bone
 fracture forearm bone
 fracture fuse sacrum
@@ -15876,7 +16033,6 @@ fractured cervical vertebra
 fractured clavicle bone
 fractured cuboid bone
 fractured distal phalanx
-fractured elbow joint
 fractured facial bone
 fractured forearm bones
 fractured fused sacrum
@@ -16012,6 +16168,7 @@ gaps between teeth
 gastric arteriovenous malformation
 gastric duplication cyst
 gastric fluid xenobiotic
+gastric intraepithelial lymphocytosis
 gastroesophageal reflux disease
 gastrointestinal arteriovenous malformation
 gastrointestinal hamartomatous polyp
@@ -16111,6 +16268,7 @@ generalize dental spacing
 generalize epileptic myoclonus
 generalize gum disease
 generalize hypertonic seizure
+generalize joint hypermobility
 generalize joint laxity
 generalize keratosis follicularis
 generalize morning stiffness
@@ -16146,6 +16304,7 @@ generalized dental spacing
 generalized epileptic myoclonus
 generalized gum disease
 generalized hypertonic seizure
+generalized joint hypermobility
 generalized joint laxity
 generalized keratosis follicularis
 generalized morning stiffness
@@ -16192,6 +16351,8 @@ giant cell hepatitis
 giant conjunctival papilla
 giant conjunctival papillae
 giant eustachian valve
+giant gastric fold
+giant gastric folds
 giant hypertrophic gastritis
 giant neutrophil granule
 giant neutrophil granules
@@ -16297,11 +16458,12 @@ hair follicle neoplasm
 hairy elbow syndrome
 hallucination of smell
 hallucination of sound
+hallucination of taste
 hallucination while awake
 hallucinations of smell
 hallucinations of sound
+hallucinations of taste
 hallucinations while awaking
-hallucinatotions of taste
 hamartoma of tongue
 hamartomatous stomach polyp
 hamartomatous stomach polyps
@@ -16320,6 +16482,7 @@ has loud snoring
 hashimoto 's thyroiditis
 have loud snore
 have loud snoring
+hazardous alcohol use
 head - banging
 head stop grow
 head stopped growing
@@ -16375,6 +16538,7 @@ herpetiform corneal ulcer
 herpetiform corneal ulceration
 herpetiform corneal ulcers
 heteropic thyroid gland
+heterotopic dermal ossification
 hidrotic ectodermal dysplasia
 high anterior hairline
 high arch eyebrow
@@ -16480,6 +16644,7 @@ hyperconvex thumb nail
 hyperconvex thumb nails
 hyperdense pulmonary mass
 hyperechogenic fetal bowel
+hyperechogenic foetal bowel
 hyperelastic chest skin
 hyperelastic face skin
 hyperextensibility at elbow
@@ -16813,6 +16978,7 @@ impaired distal proprioception
 impaired executive functioning
 impaired fasting glucose
 impaired feeding ability
+impaired folate absorption
 impaired galactose metabolism
 impaired glucose tolerance
 impaired leukocyte adhesion
@@ -17415,6 +17581,7 @@ intraluminal meconium calcification
 intramyocardial fat infiltration
 intranuclear cardiomyocyte mitochondria
 intranuclear cardiomyocyte mitochondrion
+intrapulmonary lobar sequestration
 intrathoracic cystic hygroma
 intratubular bilirubin cast
 intratubular bilirubin casts
@@ -17608,6 +17775,7 @@ lacrimal pump failure
 lacrimal puncta aplasia
 lacrimal punctal atresia
 lacrimal punctum stenosis
+lactation duct obstruction
 lacunar retinal depigmentation
 ladder nail sign
 lambdoid suture craniosynostosis
@@ -17650,6 +17818,7 @@ large intestine tumor
 large intestine tumour
 large joint dislocation
 large joint dislocations
+large joint hypermobilty
 large keratohyaline granule
 large keratohyaline granules
 large low jaw
@@ -17685,6 +17854,7 @@ lateral clavicle hook
 lateral eyebrow flare
 lateral facial cleft
 lateral femoral bowing
+lateral neck mass
 lateral spinal meningocele
 lateral venous anomaly
 lateral ventricle dilatation
@@ -17710,6 +17880,7 @@ leave posterior hemiblock
 leave unicoronal synostosis
 leave unilambdoid synostosis
 leave ventricular abnormality
+leave ventricular aneurysm
 leave ventricular dilatation
 leave ventricular dysfunction
 leave ventricular failure
@@ -17717,6 +17888,7 @@ leave ventricular hypertrophy
 leave ventricular hypoplasia
 leave ventricular impairment
 leave ventricular noncompaction
+leave ventricular thrombus
 leber optic atrophy
 leber optic degeneration
 left anterior hemiblock
@@ -17729,6 +17901,7 @@ left posterior hemiblock
 left unicoronal synostosis
 left unilambdoid synostosis
 left ventricular abnormality
+left ventricular aneurysm
 left ventricular dilatation
 left ventricular dysfunction
 left ventricular failure
@@ -17736,6 +17909,7 @@ left ventricular hypertrophy
 left ventricular hypoplasia
 left ventricular impairment
 left ventricular noncompaction
+left ventricular thrombus
 leg length discrepancy
 leg muscle stiffness
 lentigo maligna melanoma
@@ -17910,6 +18084,7 @@ long rib cage
 long second metacarpal
 long slender finger
 long slender fingers
+long telomere length
 long tract sign
 long tract signs
 long umbilical cord
@@ -17944,6 +18119,7 @@ low apgar score
 low back pain
 low birth weight
 low blood albumin
+low blood homocysteine
 low blood phenylalanine
 low blood pressure
 low blood sugar
@@ -18011,6 +18187,7 @@ low plasma citrulline
 low platelet count
 low posterior hairline
 low pulse pressure
+low semen volume
 low serum calcidiol
 low serum calcifediol
 low serum calcitriol
@@ -18022,6 +18199,7 @@ low sperm count
 low thoracic kyphosis
 low voltage eeg
 lower back pain
+lower blood homocysteine
 lower extremity akinesia
 lower extremity fracture
 lower extremity hypokinesia
@@ -18128,6 +18306,8 @@ malposition of incisor
 malposition of incisors
 malposition of teeth
 malrotation of colon
+mammary block duct
+mammary blocked duct
 mammary duct ectasia
 mammary gland aplasia
 mandibular condyle aplasia
@@ -18151,7 +18331,6 @@ medially deviate hallux
 medially deviated halluces
 medially flare eyebrow
 medially flared eyebrows
-median cleft lip
 median cleft palate
 median nail dystrophy
 median pseudocleft lip
@@ -18673,6 +18852,7 @@ neutrophilic urticarial dermatosis
 nevus flammeus nucha
 nevus flammeus nuchae
 nevus fuscoceruleus ophthalmomaxillaris
+nevus of ito
 nevus of ota
 newborn gammaglobulin deficiency
 newborn respiratory distress
@@ -18694,7 +18874,6 @@ nocturnal under breathing
 nodular corneal dystrophy
 nodular inflammatory vasculitis
 non - ambulatory
-non restorative sleep
 nonarteriosclerotic cerebral calcification
 nonbullous congenital ichthyosis
 noncancerous fatty lump
@@ -18862,6 +19041,7 @@ osgood schlatter disease
 osseous finger syndactyly
 ossification of pinna
 ossification of pinnae
+osteitis fibrosa cystica
 osteoarthritis of hip
 osteolysis of patella
 osteolysis of patellae
@@ -18917,6 +19097,7 @@ ovoid vertebral body
 p wave inversion
 pain in extremities
 pain in extremity
+pain in penis
 pain in stomach
 pain in testicle
 pain in testicles
@@ -18941,8 +19122,10 @@ pancreatic fatty infiltration
 pancreatic fatty replacement
 pancreatic lipomatous pseudohypertrophy
 pancreatitis , acute
+papillary dermal edema
 papillary thyroid carcinoma
 parachute mitral valve
+paradoxical pulse volume
 paramedian cleft palate
 paramedian facial cleft
 paramedian labial pit
@@ -19106,7 +19289,6 @@ periventricular ribbonlike heterotopia
 permanent atrial fibrillation
 peroneal muscle atrophy
 peroneal muscle weakness
-persistant truncus arteriosus
 persistence of fingerpads
 persistence of hbf
 persistent anterior fontanelle
@@ -19128,6 +19310,7 @@ persistent primary dentition
 persistent primary teeth
 persistent pupillary membrane
 persistent stapedial artery
+persistent truncus arteriosus
 persistent vegetative state
 persistent wide fontanel
 pervasive developmental disorder
@@ -19151,6 +19334,7 @@ photosensitive skin rash
 photosensitive skin rashes
 pick inclusion bodies
 pick inclusion body
+piebald skin depigmentation
 pierre robin sequence
 piezogenic pedal papule
 piezogenic pedal papules
@@ -19295,6 +19479,7 @@ positional foot deformity
 positional frontal plagiocephaly
 positive babinski sign
 positive fecl3 test
+positive filipin test
 positive gower sign
 positive gowers sign
 positive murphy sign
@@ -20106,7 +20291,7 @@ renal na wasting
 renal na+ wasting
 renal neutrophilic tubulitis
 renal papillary necrosis
-renal parenchymal abcess
+renal parenchymal abscess
 renal parenchymal necrosis
 renal pelvic carcinoma
 renal pelvic diverticulum
@@ -20370,6 +20555,7 @@ self - harm
 self - isolation
 self - mutilation
 self - neglect
+seminal vesicle cyst
 sense of doom
 sensitivity to noise
 sensitivity to sunlight
@@ -20763,6 +20949,7 @@ small intestinal stenosis
 small intestine carcinoid
 small intestine tumor
 small intestine tumour
+small joint hypermobilty
 small labia majora
 small labium majora
 small low eyelid
@@ -20894,6 +21081,7 @@ spinal cord calcification
 spinal cord calcifications
 spinal cord compression
 spinal cord disease
+spinal cord granuloma
 spinal cord lesion
 spinal cord pathology
 spinal cord tumor
@@ -20910,10 +21098,11 @@ spinal muscular atrophy
 spinal neurenteric cyst
 spinocerebellar tract degeneration
 splanchnic vein thrombosis
+splenic foamy cell
+splenic foamy cells
 split - foot
 split - hand
 spock 's ear
-spondyloepiphyseal dysplasia tarda
 spontaneous chorioamniotic separation
 spontaneous collapse lung
 spontaneous collapsed lung
@@ -21011,8 +21200,10 @@ stye of eyelid
 subcapsular lenticular cataract
 subcapsular lenticular cataracts
 subchorionic septal cyst
+subclavian artery stenosis
 subcortical band heterotopia
 subcortical cerebral atrophy
+subcutaneous arteriolar thrombosis
 subependymal germinolytic cyst
 subependymal neuronal heterotopia
 subepithelial corneal opacities
@@ -21023,6 +21214,7 @@ subjective eidetic images
 subluxation of patella
 submucosal cleft palate
 submucous cleft lip
+submucous cleft palate
 submucous cleft velum
 submucous labial cleft
 subperiosteal bone formation
@@ -21071,6 +21263,7 @@ supernumary hair swirls
 supernumary hair whorl
 supernumerary carpal bone
 supernumerary carpal bones
+supernumerary lacrimal punctum
 supernumerary maxillary incisor
 supernumerary metacarpal bone
 supernumerary metacarpal bones
@@ -21078,6 +21271,7 @@ supernumerary oral frenulum
 supernumerary oral frenum
 supernumerary pulmonary fissure
 supernumerary tracheal bronchus
+supracondylar elbow fracture
 supranuclear downgaze palsy
 supranuclear gaze palsy
 supranuclear gaze paralysis
@@ -21123,6 +21317,8 @@ synostosis involve digit
 synostosis involving digits
 synostosis of joint
 synostosis of joints
+synovial fluid crystal
+synovial fluid crystals
 synovial lining hyperplasia
 syphilitic primary incisor
 systemic artery abnormality
@@ -21227,12 +21423,14 @@ thicken cranial vault
 thicken interventricular septum
 thicken nuchal skin
 thicken skull cap
+thicken tympanic membrane
 thickened achilles tendon
 thickened alveolar ridges
 thickened cranial vault
 thickened interventricular septum
 thickened nuchal skin
 thickened skull cap
+thickened tympanic membrane
 thigh muscle atrophy
 thin body habitus
 thin bony cortex
@@ -21458,6 +21656,8 @@ two underdeveloped breasts
 two vessel cord
 tympanic distend abdomen
 tympanic distended abdomen
+tympanic membrane bulging
+tympanic membrane hypermobility
 tympanic nerve tumor
 tympanic nerve tumors
 tympanic nerve tumour
@@ -22013,6 +22213,7 @@ wrist flexion deformity
 writer 's cramp
 xanthelasma of eyelid
 xanthine dehydrogenase deficiency
+xanthine oxidase low
 xanthoma of bone
 xanthoma of eyelid
 xanthoma palmare striatum
@@ -22030,6 +22231,7 @@ zygotic cleavage failure
 2 - hydroxyadipic aciduria
 2 - hydroxyglutarate aciduria
 2 - methylbutyryl glycinuria
+2 - oxoadipic aciduria
 2 vessel umbilical cord
 2,8 - dihydroxyadenine crystalluria
 3 - hydroxydicarboxylic aciduria
@@ -22037,6 +22239,7 @@ zygotic cleavage failure
 3 - methylglutaconic aciduria
 3 - methylglutaric aciduria
 4 - hydroxyphenylacetic aciduria
+4 - hydroxyphenyllactic aciduria
 4 - hydroxyphenylpyruvic aciduria
 4 - layer lissencephaly
 4 - layered lissencephaly
@@ -22066,6 +22269,7 @@ abnormal adrenal gland position
 abnormal alpha granule content
 abnormal alpha granule distribution
 abnormal alveolar macrophage morphology
+abnormal alveolar ridge morphology
 abnormal amsler grid test
 abnormal anterior chamber morphology
 abnormal anterior segment morphology
@@ -22084,6 +22288,7 @@ abnormal ascending aorta morphology
 abnormal atrial septum morphology
 abnormal atrioventricular valve morphology
 abnormal atrioventricular valve physiology
+abnormal auditory canal morphology
 abnormal auditory evoke potential
 abnormal auditory evoked potentials
 abnormal axial muscle morphology
@@ -22129,6 +22334,7 @@ abnormal bronchial artery morphology
 abnormal buccal mucosa morphology
 abnormal bulbus cordis morphology
 abnormal c peptide level
+abnormal calf musculature morphology
 abnormal cardiac atrial physiology
 abnormal cardiac atrium morphology
 abnormal cardiac biomarker test
@@ -22233,6 +22439,7 @@ abnormal circulate insulin concentration
 abnormal circulate interferon concentration
 abnormal circulate interleukin concentration
 abnormal circulate isoleucine concentration
+abnormal circulate ldh concentration
 abnormal circulate leptin concentration
 abnormal circulate leucine concentration
 abnormal circulate lipid concentration
@@ -22270,6 +22477,7 @@ abnormal circulate t4 level
 abnormal circulate testosterone concentration
 abnormal circulate threonine concentration
 abnormal circulate thromboxane concentration
+abnormal circulate thyroglobulin concentration
 abnormal circulate thyroglobulin level
 abnormal circulate thyrotropin concentration
 abnormal circulate thyroxine level
@@ -22348,6 +22556,7 @@ abnormal circulating insulin concentration
 abnormal circulating interferon concentration
 abnormal circulating interleukin concentration
 abnormal circulating isoleucine concentration
+abnormal circulating ldh concentration
 abnormal circulating leptin concentration
 abnormal circulating leucine concentration
 abnormal circulating lipid concentration
@@ -22385,6 +22594,7 @@ abnormal circulating t4 level
 abnormal circulating testosterone concentration
 abnormal circulating threonine concentration
 abnormal circulating thromboxane concentration
+abnormal circulating thyroglobulin concentration
 abnormal circulating thyroglobulin level
 abnormal circulating thyrotropin concentration
 abnormal circulating thyroxine level
@@ -22849,6 +23059,7 @@ abnormal second heart sound
 abnormal second toe morphology
 abnormal sella turcica morphology
 abnormal semicircular canal morphology
+abnormal seminal vesicle morphology
 abnormal sense of smell
 abnormal septum pellucidum morphology
 abnormal serum androstenolone level
@@ -22867,6 +23078,7 @@ abnormal serum iron concentration
 abnormal serum methylfolate level
 abnormal serum selenium concentration
 abnormal serum testosterone level
+abnormal seventh cranial physiology
 abnormal shape of brain
 abnormal shape of brainstem
 abnormal shape of cartilage
@@ -22927,6 +23139,7 @@ abnormal thoracic duct morphology
 abnormal thoracic spine morphology
 abnormal thyroid hormone level
 abnormal tibial metaphysis morphology
+abnormal tissue enzyme activity
 abnormal tissue metabolite concentration
 abnormal toe epiphysis morphology
 abnormal toe phalanx morphology
@@ -22938,6 +23151,7 @@ abnormal triceps skinfold thickness
 abnormal tricuspid valve morphology
 abnormal tricuspid valve physiology
 abnormal trigeminal nerve morphology
+abnormal tympanic membrane morphology
 abnormal type ii collagen
 abnormal ulnar epiphysis morphology
 abnormal ulnar metaphysis morphology
@@ -22948,6 +23162,9 @@ abnormal upper lip morphology
 abnormal urinary acylglycine profile
 abnormal urinary copper concentration
 abnormal urinary electrolyte concentration
+abnormal urinary guanosine level
+abnormal urinary hypoxanthine level
+abnormal urinary inosine level
 abnormal urinary isobutyrylglycine level
 abnormal urinary isobutyrylglycine levels
 abnormal urinary mineral level
@@ -23625,6 +23842,7 @@ abnormality of vomer bone
 abnormality of zinc homeostasis
 abnormality of zygapophyseal joint
 abnormality of zygapophysial joint
+abnormality thigh musculature morphology
 abnormally broad great toe
 abnormally broad great toes
 abnormally indent hip socket
@@ -24021,6 +24239,7 @@ acute middle ear infection
 acute respiratory distress syndrome
 acute respiratory tract infection
 addiction to a behavior
+addiction to a behaviour
 addiction to an activity
 addictive nitrous oxide use
 addictive video game use
@@ -24262,6 +24481,7 @@ anti - smith autoantibody
 anti - sox1 antibody
 anti - ta antibody
 anti - tg3 antibody
+anti - thsd7a antibody
 anti - trim46 antibody
 anticardiolipin igg antibody positivity
 anticardiolipin igm antibody positivity
@@ -24366,6 +24586,7 @@ aqueduct of sylvius stenosis
 arabitol high in urine
 arachnocytosis of the myocardium
 archibald 's metacarpal sign
+architectural distortion of breast
 arcuate artery endoarterial hypercellularity
 arcuate artery intraluminal thrombi
 arcuate artery intraluminal thrombus
@@ -24617,6 +24838,8 @@ bone phalanx of pe
 bone phalanx of pes
 bone upper limb segment
 bony carotid canal agenesis
+boot shape cardiac silhouette
+boot shaped cardiac silhouette
 bossing of parietal bone
 both side cleft lip
 both sided cleft lip
@@ -24693,7 +24916,10 @@ bulla of oral mucosa
 bullae of oral mucosa
 bullous congenital ichthyosiform erythroderma
 bundle - branch block
+c - anca antibodies
+c - anca antibody
 c1 - c2 subluxation
+c1s low in blood
 c2 - c3 subluxation
 c3 nephritic factor positivity
 c4 nephritic factor positivity
@@ -24781,6 +25007,7 @@ cerebral white matter abnormality
 cerebral white matter agenesis
 cerebral white matter atrophy
 cerebral white matter hypoplasia
+cerebriform connective tissue nevus
 cerebrospinal fluid protein increase
 cerebrospinal fluid protein increased
 cervical clear cell adenocarcinoma
@@ -24821,15 +25048,15 @@ chronic cerebrospinal fluid lymphocytosis
 chronic decrease circulate igd
 chronic decrease circulate ige
 chronic decrease circulate igg1
+chronic decrease circulate igg2
 chronic decrease circulate igg3
 chronic decrease circulate igg4
-chronic decrease cirulating igg2
 chronic decreased circulating igd
 chronic decreased circulating ige
 chronic decreased circulating igg1
+chronic decreased circulating igg2
 chronic decreased circulating igg3
 chronic decreased circulating igg4
-chronic decreased cirulating igg2
 chronic disseminate intravascular coagulation
 chronic disseminated intravascular coagulation
 chronic middle ear infection
@@ -25120,6 +25347,8 @@ cystic adenomatoid lung disease
 cystic angiomatosis of bone
 cystine low in csf
 cytoplasmic antineutrophil antibody positivity
+cytoplasmic antineutrophil cytoplasmic antibodies
+cytoplasmic antineutrophil cytoplasmic antibody
 dagger shape pulp denticle
 dagger shape pulp stone
 dagger shaped pulp denticles
@@ -25172,6 +25401,7 @@ decrease breadth of face
 decrease breadth of philtrum
 decrease carpal joint angle
 decrease circulate acth concentration
+decrease circulate adenosylcobalamin concentration
 decrease circulate aldosterone level
 decrease circulate amylase level
 decrease circulate androgen concentration
@@ -25185,6 +25415,7 @@ decrease circulate c1q concentration
 decrease circulate calcifediol concentration
 decrease circulate calcitonin concentration
 decrease circulate carnitine concentration
+decrease circulate carnosine concentration
 decrease circulate cd46 concentration
 decrease circulate ceruloplasmin concentration
 decrease circulate chenodiol concentration
@@ -25215,6 +25446,7 @@ decrease circulate igg2 level
 decrease circulate igg3 level
 decrease circulate igg4 level
 decrease circulate metanephrine concentration
+decrease circulate methylcobalamin concentration
 decrease circulate norepinephrine concentration
 decrease circulate osteocalcin level
 decrease circulate plasmalogen concentration
@@ -25228,6 +25460,8 @@ decrease circulate t4 level
 decrease circulate taurine level
 decrease circulate tg level
 decrease circulate threonine level
+decrease circulate thrombopoietin concentration
+decrease circulate thyroglobulin concentration
 decrease circulate thyroxine level
 decrease circulate total iga
 decrease circulate total igg
@@ -25363,15 +25597,19 @@ decrease tryptophan in blood
 decrease tyrosine in blood
 decrease upper labial height
 decrease upper labial length
+decrease urinary biopterin level
 decrease urinary catecholamine concentration
 decrease urinary copper concentration
 decrease urinary epinephrine level
 decrease urinary guanosine level
+decrease urinary hypoxanthine level
 decrease urinary metaepinephrine level
+decrease urinary neopterin level
 decrease urinary norepinephrine level
 decrease urinary uromodulin level
 decrease urine bicarbonate concentration
 decrease urine citrate concentration
+decrease urine creatinine level
 decrease urine hco3 concentration
 decrease vldl cholesterol concentration
 decrease von willebrand factor
@@ -25414,6 +25652,7 @@ decreased calcification of skull
 decreased carpal joint angles
 decreased cervical spine mobility
 decreased circulating acth concentration
+decreased circulating adenosylcobalamin concentration
 decreased circulating aldosterone level
 decreased circulating amylase level
 decreased circulating androgen concentration
@@ -25427,6 +25666,7 @@ decreased circulating c1q concentration
 decreased circulating calcifediol concentration
 decreased circulating calcitonin concentration
 decreased circulating carnitine concentration
+decreased circulating carnosine concentration
 decreased circulating cd46 concentration
 decreased circulating ceruloplasmin concentration
 decreased circulating chenodiol concentration
@@ -25457,6 +25697,7 @@ decreased circulating igg2 level
 decreased circulating igg3 level
 decreased circulating igg4 level
 decreased circulating metanephrine concentration
+decreased circulating methylcobalamin concentration
 decreased circulating norepinephrine concentration
 decreased circulating osteocalcin level
 decreased circulating plasmalogen concentration
@@ -25470,6 +25711,8 @@ decreased circulating t4 level
 decreased circulating taurine levels
 decreased circulating tg levels
 decreased circulating threonine levels
+decreased circulating thrombopoietin concentration
+decreased circulating thyroglobulin concentration
 decreased circulating thyroxine level
 decreased circulating total iga
 decreased circulating total igg
@@ -25652,15 +25895,19 @@ decreased tryptophan in blood
 decreased tyrosine in blood
 decreased upper labial height
 decreased upper labial length
+decreased urinary biopterin level
 decreased urinary catecholamine concentration
 decreased urinary copper concentration
 decreased urinary epinephrine level
 decreased urinary guanosine level
+decreased urinary hypoxanthine level
 decreased urinary metaepinephrine level
+decreased urinary neopterin level
 decreased urinary norepinephrine level
 decreased urinary uromodulin level
 decreased urine bicarbonate concentration
 decreased urine citrate concentration
+decreased urine creatinine level
 decreased urine hco3 concentration
 decreased vldl cholesterol concentration
 decreased volume of lip
@@ -25791,6 +26038,7 @@ delayed humeral epiphyseal ossification
 delayed myocardial gadolinium enhancement
 delayed nerve conduction velocity
 delayed oxidation of acetaldehyde
+delayed passage of meconium
 delayed phalangeal epiphyseal ossification
 delayed primary teeth eruption
 delayed pubic bone ossification
@@ -25806,6 +26054,7 @@ dense metaphyseal band sign
 dense posterior cortical cataract
 denude tubular basement membrane
 denuded tubular basement membrane
+deoxyuridine high in urine
 dependence on diaphragmatic breathing
 dependency on intravenous nutrition
 dependency on iv nutrition
@@ -25814,6 +26063,8 @@ depressed bridge of nose
 depressed dorsum of nose
 depressed tip of nose
 dermal immune complex deposition
+dermal multinucleated giant cell
+dermal multinucleated giant cells
 dermal papillary iga deposition
 dermolipoma of the conjunctiva
 descend thoracic aorta aneurysm
@@ -25872,7 +26123,11 @@ diffuse subcortical band heterotopia
 diffuse white matter abnormalities
 diffuse white matter abnormality
 dihydrothymine high in blood
+dihydrothymine high in csf
+dihydrothymine in urine high
 dihydrouracil high in blood
+dihydrouracil high in csf
+dihydrouracil high in urine
 dilatated internal auditory canal
 dilatation of ascend aorta
 dilatation of ascending aorta
@@ -26005,6 +26260,8 @@ downturned corners of mouth
 downward slant palpebral fissure
 downward slanted palpebral fissures
 downward slanting palpebral fissures
+drain tract in skin
+draining tract in skin
 drug - induce anaphylaxis
 drug - induce reaction
 drug - induce response
@@ -26140,6 +26397,7 @@ elevate circulate chi3l1 level
 elevate circulate creatine concentration
 elevate circulate creatine phosphokinase
 elevate circulate creatinine concentration
+elevate circulate decanoylcarnitine concentration
 elevate circulate decenoylcarnitine concentration
 elevate circulate deoxypyridinoline concentration
 elevate circulate deoxyuridine concentration
@@ -26149,6 +26407,7 @@ elevate circulate dihydrouracil concentration
 elevate circulate dodecanoylcarnitine concentration
 elevate circulate dodecenoylcarnitine concentration
 elevate circulate dopa concentration
+elevate circulate dopac concentration
 elevate circulate erythritol concentration
 elevate circulate erythropoietin concentration
 elevate circulate fumarate concentration
@@ -26156,6 +26415,7 @@ elevate circulate globotriaosylceramide concentration
 elevate circulate glutarylcarnitine concentration
 elevate circulate glutathione concentration
 elevate circulate glycolate concentration
+elevate circulate glycylproline concentration
 elevate circulate hepcidin concentration
 elevate circulate hexanoylcarnitine concentration
 elevate circulate histamine concentration
@@ -26169,6 +26429,7 @@ elevate circulate methylglutarylcarnitine concentration
 elevate circulate methylmalonylcarnitine concentration
 elevate circulate myoglobin concentration
 elevate circulate myristoylcarnitine concentration
+elevate circulate octanoylcarnitine concentration
 elevate circulate octenoylcarnitine concentration
 elevate circulate oleylcarnitine concentration
 elevate circulate osteopontin level
@@ -26203,6 +26464,9 @@ elevate csf amyloid concentration
 elevate csf amyloid level
 elevate csf aspartylglucosamine concentration
 elevate csf biopterin level
+elevate csf cholestanol concentration
+elevate csf dihydrothymine concentration
+elevate csf dihydrouracil concentration
 elevate csf dopa concentration
 elevate csf dopamine concentration
 elevate csf fumarate concentration
@@ -26210,7 +26474,9 @@ elevate csf ghb level
 elevate csf hydroxyproline concentration
 elevate csf neopterin level
 elevate csf proline concentration
+elevate csf saccharopine concentration
 elevate csf sarcosine concentration
+elevate csf thymine concentration
 elevate csf urate concentration
 elevate d - dimer
 elevate dermal desmosine content
@@ -26245,6 +26511,7 @@ elevate serum alanine aminotransferase
 elevate serum anion gap
 elevate serum aspartate aminotransferase
 elevate serum bicarbonate concentration
+elevate serum cobalamin level
 elevate serum creatine kinase
 elevate serum creatine phosphokinase
 elevate serum drug concentration
@@ -26264,12 +26531,24 @@ elevate urinary aminoisobutyric acid
 elevate urinary carboxylic acid
 elevate urinary catecholamine level
 elevate urinary creatine level
+elevate urinary dado level
+elevate urinary deoxyuridine level
+elevate urinary dihydrothymine level
+elevate urinary dihydrouracil level
+elevate urinary dolichol level
 elevate urinary dopamine level
 elevate urinary epinephrine level
+elevate urinary glutarylglycine level
+elevate urinary guanosine level
 elevate urinary homogentisic acid
 elevate urinary homovanillic acid
+elevate urinary indican level
+elevate urinary inosine level
 elevate urinary norepinephrine level
 elevate urinary pge2 level
+elevate urinary succinyladenosine level
+elevate urinary sulfatide level
+elevate urinary thymidine level
 elevate urinary uridine level
 elevate urinary uromodulin level
 elevate urinary vanillylmandelic acid
@@ -26316,6 +26595,7 @@ elevated circulating chi3l1 level
 elevated circulating creatine concentration
 elevated circulating creatine phosphokinase
 elevated circulating creatinine concentration
+elevated circulating decanoylcarnitine concentration
 elevated circulating decenoylcarnitine concentration
 elevated circulating deoxypyridinoline concentration
 elevated circulating deoxyuridine concentration
@@ -26325,6 +26605,7 @@ elevated circulating dihydrouracil concentration
 elevated circulating dodecanoylcarnitine concentration
 elevated circulating dodecenoylcarnitine concentration
 elevated circulating dopa concentration
+elevated circulating dopac concentration
 elevated circulating erythritol concentration
 elevated circulating erythropoietin concentration
 elevated circulating fumarate concentration
@@ -26332,6 +26613,7 @@ elevated circulating globotriaosylceramide concentration
 elevated circulating glutarylcarnitine concentration
 elevated circulating glutathione concentration
 elevated circulating glycolate concentration
+elevated circulating glycylproline concentration
 elevated circulating hepcidin concentration
 elevated circulating hexanoylcarnitine concentration
 elevated circulating histamine concentration
@@ -26345,6 +26627,7 @@ elevated circulating methylglutarylcarnitine concentration
 elevated circulating methylmalonylcarnitine concentration
 elevated circulating myoglobin concentration
 elevated circulating myristoylcarnitine concentration
+elevated circulating octanoylcarnitine concentration
 elevated circulating octenoylcarnitine concentration
 elevated circulating oleylcarnitine concentration
 elevated circulating osteopontin level
@@ -26379,6 +26662,9 @@ elevated csf amyloid concentration
 elevated csf amyloid level
 elevated csf aspartylglucosamine concentration
 elevated csf biopterin level
+elevated csf cholestanol concentration
+elevated csf dihydrothymine concentration
+elevated csf dihydrouracil concentration
 elevated csf dopa concentration
 elevated csf dopamine concentration
 elevated csf fumarate concentration
@@ -26386,7 +26672,9 @@ elevated csf ghb levels
 elevated csf hydroxyproline concentration
 elevated csf neopterin level
 elevated csf proline concentration
+elevated csf saccharopine concentration
 elevated csf sarcosine concentration
+elevated csf thymine concentration
 elevated csf urate concentration
 elevated d - dimers
 elevated dermal desmosine content
@@ -26427,6 +26715,7 @@ elevated serum alanine aminotransferase
 elevated serum anion gap
 elevated serum aspartate aminotransferase
 elevated serum bicarbonate concentration
+elevated serum cobalamin level
 elevated serum creatine kinase
 elevated serum creatine phosphokinase
 elevated serum drug concentrations
@@ -26449,12 +26738,24 @@ elevated urinary aminoisobutyric acid
 elevated urinary carboxylic acid
 elevated urinary catecholamine level
 elevated urinary creatine level
+elevated urinary dado level
+elevated urinary deoxyuridine level
+elevated urinary dihydrothymine level
+elevated urinary dihydrouracil level
+elevated urinary dolichol level
 elevated urinary dopamine level
 elevated urinary epinephrine level
+elevated urinary glutarylglycine level
+elevated urinary guanosine level
 elevated urinary homogentisic acid
 elevated urinary homovanillic acid
+elevated urinary indican level
+elevated urinary inosine level
 elevated urinary norepinephrine level
 elevated urinary pge2 level
+elevated urinary succinyladenosine level
+elevated urinary sulfatide level
+elevated urinary thymidine level
 elevated urinary uridine level
 elevated urinary uromodulin level
 elevated urinary vanillylmandelic acid
@@ -26474,6 +26775,7 @@ elevated white blood count
 elongate superior cerebellar peduncle
 elongated superior cerebellar peduncle
 elongated superior cerebellar peduncles
+elongated temporal styloid process
 elongation of rete ridge
 elongation of rete ridges
 elongation of upper lip
@@ -27039,6 +27341,7 @@ glutathione high in urine
 glycine low in csf
 gm1 - ganglioside accumulation
 gm2 - ganglioside accumulation
+gmcsf high in blood
 gonadal dysgenesis , male
 gout of big toe
 grade i vesicoureteral reflux
@@ -27149,6 +27452,8 @@ high - grade hypermetropia
 high - pitch cry
 high - pitched cry
 high - pitched voice
+high - set nipple
+high - set nipples
 high blood albumin level
 high blood albumin levels
 high blood ammonia level
@@ -27273,6 +27578,7 @@ hilar lymph node enlargement
 hip girdle muscle weakness
 hip internal rotation contracture
 histamine high in blood
+hockey - stick crease
 hole in parietal bone
 holes in parietal bones
 homoarginine high in blood
@@ -27641,8 +27947,8 @@ increase beta - lipoprotein
 increase blood arginine concentration
 increase blood asparagine concentration
 increase blood aspartic acid
-increase blood carnosine concenrtation
-increase blood cystine concentraions
+increase blood carnosine concentration
+increase blood cystine concentration
 increase blood drug concentration
 increase blood folate concentration
 increase blood glutamate concentration
@@ -27674,6 +27980,7 @@ increase circulate antibody level
 increase circulate apolipoprotein circulation
 increase circulate arachidonate level
 increase circulate argininosuccinic acid
+increase circulate carnosine concentration
 increase circulate ceruloplasmin concentration
 increase circulate chylomicron concentration
 increase circulate chylomicron level
@@ -27703,6 +28010,8 @@ increase circulate igg3 level
 increase circulate igg4 level
 increase circulate igm level
 increase circulate inosine concentration
+increase circulate lactate concentration
+increase circulate ldh concentration
 increase circulate ldl level
 increase circulate metamyelocyte count
 increase circulate myelocyte count
@@ -27725,6 +28034,7 @@ increase circulate selenium concentration
 increase circulate t4 concentration
 increase circulate t4 level
 increase circulate tg level
+increase circulate thyroglobulin concentration
 increase circulate thyroglobulin level
 increase circulate thyroxine level
 increase circulate xanthine concentration
@@ -27749,6 +28059,8 @@ increase csf methionine concentration
 increase csf ornithine concentration
 increase csf phenylalanine concentration
 increase csf protein concentration
+increase csf ribitol concentration
+increase csf ribose concentration
 increase csf serine concentration
 increase csf taurine concentration
 increase csf threonine concentration
@@ -27757,6 +28069,7 @@ increase csf tyrosine concentration
 increase csf uracil concentration
 increase csf urate concentration
 increase csf valine concentration
+increase csf xylitol concentration
 increase cup disc ratio
 increase cystatin c level
 increase deep tendon reflex
@@ -27830,6 +28143,7 @@ increase muscle glycogen content
 increase muscle lipid content
 increase muscle lipid droplet
 increase myocardial glycogen content
+increase myocardial pyrophosphate uptake
 increase neuronal autofluorescent lipopigment
 increase neutrophil nuclear projection
 increase nuchal fold thickness
@@ -27914,6 +28228,7 @@ increase urinary galactosylated oligosaccharide
 increase urinary homovanillic acid
 increase urinary hypoxanthine level
 increase urinary phosphoserine level
+increase urinary sialic acid
 increase urinary sulfite level
 increase urinary vanillylmandelic acid
 increase urinary zinc level
@@ -27960,8 +28275,8 @@ increased beta - lipoproteins
 increased blood arginine concentration
 increased blood asparagine concentration
 increased blood aspartic acid
-increased blood carnosine concenrtation
-increased blood cystine concentraions
+increased blood carnosine concentration
+increased blood cystine concentration
 increased blood drug concentration
 increased blood folate concentration
 increased blood glutamate concentration
@@ -27994,6 +28309,7 @@ increased circulating antibody level
 increased circulating apolipoprotein circulation
 increased circulating arachidonate level
 increased circulating argininosuccinic acid
+increased circulating carnosine concentration
 increased circulating ceruloplasmin concentration
 increased circulating chylomicron concentration
 increased circulating chylomicron levels
@@ -28024,6 +28340,8 @@ increased circulating igg3 level
 increased circulating igg4 level
 increased circulating igm level
 increased circulating inosine concentration
+increased circulating lactate concentration
+increased circulating ldh concentration
 increased circulating ldl level
 increased circulating metamyelocyte count
 increased circulating myelocyte count
@@ -28046,6 +28364,7 @@ increased circulating selenium concentration
 increased circulating t4 concentration
 increased circulating t4 level
 increased circulating tg levels
+increased circulating thyroglobulin concentration
 increased circulating thyroglobulin level
 increased circulating thyroxine level
 increased circulating xanthine concentration
@@ -28069,6 +28388,8 @@ increased csf methionine concentration
 increased csf ornithine concentration
 increased csf phenylalanine concentration
 increased csf protein concentration
+increased csf ribitol concentration
+increased csf ribose concentration
 increased csf serine concentration
 increased csf taurine concentration
 increased csf threonine concentration
@@ -28077,6 +28398,7 @@ increased csf tyrosine concentration
 increased csf uracil concentration
 increased csf urate concentration
 increased csf valine concentration
+increased csf xylitol concentration
 increased cup disc ratio
 increased cystatin c level
 increased deep tendon reflexes
@@ -28177,6 +28499,7 @@ increased muscle glycogen content
 increased muscle lipid content
 increased muscle lipid droplets
 increased myocardial glycogen content
+increased myocardial pyrophosphate uptake
 increased neuronal autofluorescent lipopigment
 increased neutrophil nuclear projections
 increased nuchal fold thickness
@@ -28266,6 +28589,7 @@ increased urinary galactosylated oligosaccharide
 increased urinary homovanillic acid
 increased urinary hypoxanthine level
 increased urinary phosphoserine level
+increased urinary sialic acid
 increased urinary sulfite level
 increased urinary vanillylmandelic acid
 increased urinary zinc level
@@ -28375,6 +28699,7 @@ intermittent painful muscle spasms
 intermittent yellowing of skin
 internal - clock disorder
 internal - clock disorders
+internal anal sphincter achalasia
 internal carotid artery calcification
 internal carotid artery dissection
 internal carotid artery hypoplasia
@@ -28571,6 +28896,8 @@ leave ventricular systolic dysfunction
 leave ventricular wall hypertrophy
 leber optic atrophy feature
 leber optic atrophy features
+left - right confusion
+left - right disorientation
 left - side isomerism
 left - sided isomerism
 left anterior fascicular block
@@ -28924,6 +29251,7 @@ medially slop radial metaphysis
 medially sloping radial epiphyses
 medially sloping radial metaphysis
 median arcuate ligament syndrome
+median cleft upper lip
 median prosencephalic arteriovenous fistula
 medium chain dicarboxylic aciduria
 medullary sponge kidney disease
@@ -28954,6 +29282,8 @@ metacarpal / metaphyseal cupping
 metacarpal aplasia / hypoplasia
 metacarpal diaphyseal endosteal sclerosis
 metacarpophalangeal thumb joint contracture
+metachromatic intraneuronal lipid deposit
+metachromatic intraneuronal lipid deposits
 metallic taste in mouth
 metaphyseal chondromatosis of femur
 metaphyseal chondromatosis of humerus
@@ -28967,8 +29297,10 @@ methionine high in urine
 methionine low in csf
 methionine synthase activity decrease
 methionine synthase activity decreased
+methylmalonic semialdehyde dehydrogenase deficiency
 michaelis - gutmann bodies
 michaelis - gutmann body
+microcalcifications of the breast
 microcephaly present at birth
 microcolon on contrast enema
 microdontia of deciduous teeth
@@ -29115,6 +29447,7 @@ multi - tailed spermatozoa
 multicentric femoral head ossification
 multifocal neonatal sequential seizure
 multilocular cystic renal tumor
+multilocular cystic renal tumour
 multinucleated visceral epithelial cell
 multinucleated visceral epithelial cells
 multiple , subcutaneous nodule
@@ -29242,7 +29575,9 @@ myoinositol low in blood
 myotonia of the face
 myotonia of the jaw
 myxomatous mitral valve degeneration
+nail : lunula enlarge
 nail aplasia / hypoplasia
+nails : lunulae enlarged
 nappy scalp hair texture
 narrow base of nose
 narrow bridge of nose
@@ -29392,6 +29727,8 @@ neovascularization of the iris
 neuro - degenerative disease
 neurofibroma by anatomical location
 neurologic deterioration , progressive
+neuronal intranuclear inclusion bodies
+neuronal intranuclear inclusion body
 neuronal loss in cns
 night blindness , congenital
 night blindness , stationary
@@ -29416,6 +29753,7 @@ non - necrotizing granuloma
 non - obstructive azoospermia
 non - pruritic urticaria
 non - refreshing sleep
+non - restorative sleep
 non - spinning vertigo
 non cirrhotic portal fibrosis
 nonbullous congenital ichthyosiform erythroderma
@@ -29644,6 +29982,7 @@ pentacarboxylporphyrin high in urine
 perforation of the colon
 peri - hepatic adhesion
 peri - hepatic adhesions
+peri - hepatic enhancement
 pericardial late gadolinium enhancement
 perifascicular muscle fiber atrophy
 perifascicular muscle fibre atrophy
@@ -29800,6 +30139,8 @@ positive direct antiglobulin test
 positive fecal parasite test
 positive ferric chloride test
 positive hair barbiturate test
+positive hydrogen breath test
+positive infectious agent test
 positive lupus band test
 positive meconium barbiturate test
 positive meconium methadone test
@@ -30248,6 +30589,7 @@ reduce heart rate variability
 reduce heme oxygenase activity
 reduce hemolytic complement activity
 reduce hepatic cystathionase activity
+reduce hepatic dihydropyrimidinase activity
 reduce hepatic urocanase activity
 reduce imaginative play skill
 reduce intraabdominal adipose tissue
@@ -30363,6 +30705,7 @@ reduced heart rate variability
 reduced heme oxygenase activity
 reduced hemolytic complement activity
 reduced hepatic cystathionase activity
+reduced hepatic dihydropyrimidinase activity
 reduced hepatic urocanase activity
 reduced imaginative play skills
 reduced intraabdominal adipose tissue
@@ -30429,6 +30772,7 @@ regression of motor skills
 relative afferent pupil defect
 relative afferent pupillary defect
 rem sleep behavior disorder
+rem sleep behaviour disorder
 renal agenesis / hypoplasia
 renal aplasia / hypoplasia
 renal arteriolar intraluminal thrombi
@@ -30541,6 +30885,10 @@ reversed splitting of s2
 rheumatoid arthritis , juvenile
 ridging of frontal suture
 ridging of metopic suture
+right - leave confusion
+right - leave disorientation
+right - left confusion
+right - left disorientation
 right - side isomerism
 right - sided isomerism
 right bundle branch block
@@ -30577,6 +30925,7 @@ s - shape kidney
 s - shaped eye
 s - shaped eyes
 s - shaped kidney
+saccharopine present in csf
 saccular abdominal aortic aneurysm
 saccular aortic arch aneurysm
 saddle shape nasal dorsum
@@ -30585,6 +30934,7 @@ sagging , redundant skin
 saggy upper eyelid skin
 sagittal clefting of vertebra
 sagittal clefting of vertebrae
+salivary basal cell adenoma
 salt and pepper retinopathy
 sarcosine high in csf
 scale skin on fingertip
@@ -30667,6 +31017,7 @@ severely reduced contrast sensitivity
 severely reduced ejection fraction
 severely reduced visual acuity
 sexual behavior during sleep
+sexual behaviour during sleep
 short - limb dwarfism
 short - limbed dwarfism
 short - trunked dwarfism
@@ -30765,6 +31116,7 @@ single fibre emg abnormality
 single maxillary central incisor
 single median maxillary incisor
 single midline maxillary incisor
+single second heart sound
 single transverse palmar crease
 single transverse palmar creases
 sinus of valsalva aneurysm
@@ -30818,6 +31170,7 @@ small flat posterior fossa
 small for gestational age
 small internal carotid artery
 small intestinal bacterial overgrowth
+small intestinal intraepithelial lymphocytosis
 small intestinal lymphoplasmacytic infiltrate
 small male external genitalia
 small maxillary lateral incisor
@@ -30897,6 +31250,7 @@ spontaneous cerebrospinal fluid leak
 spontaneous closure of eyelid
 spontaneous conjunctival filter bleb
 spontaneous conjunctival filtering bleb
+spontaneous lens capsule rupture
 spoon - shape nail
 spoon - shaped nails
 spot on the lung
@@ -30974,6 +31328,7 @@ superior rectus muscle underaction
 superior rectus muscle weakness
 superior vena cava obstruction
 superior vena cava syndrome
+supernumerary finger flexion crease
 supernumerary vertebral ossification center
 supernumerary vertebral ossification centers
 supernumerary vertebral ossification centre
@@ -31065,6 +31420,8 @@ teleangiectasia of the skin
 temporal gray pigmentary crescent
 temporal grey pigmentary crescent
 temporal optic disc pallor
+temporal styloid process elongate
+temporal styloid process elongated
 temporally uniform pulmonary inflammation
 temporomandibular joint click sound
 temporomandibular joint clicking sound
@@ -31151,6 +31508,7 @@ three rows of eyelashes
 thrombopoietin high in blood
 thumb aplasia / hypoplasia
 thymic hypoplasia or aplasia
+thymine high in csf
 thyroid c cell hyperplasia
 thyroid cancer , nonmedullary
 thyroid hormone receptor defect
@@ -31162,6 +31520,7 @@ tibial bowing at ankle
 tibial deviation of toe
 tibial deviation of toes
 tibialis anterior muscle atrophy
+tibiofibular interosseous membrane calcification
 tiger - tail banding
 tightly curve thumb nail
 tightly curved thumb nail
@@ -31617,6 +31976,7 @@ zonule of zinn abnormality
 1 - 4 toe syndactyly
 1 - 5 finger syndactyly
 1 - 5 toe syndactyly
+2 - - hydroxyphenylacetic aciduria
 2 - 3 finger syndactyly
 2 - 3 toe syndactyly
 2 - 3 toes syndactyly
@@ -31717,17 +32077,21 @@ abnormal circulate interleukin 23 concentration
 abnormal circulate interleukin 27 concentration
 abnormal circulate interleukin 9 concentration
 abnormal circulate keto acid concentration
+abnormal circulate lactate dehydrogenase concentration
 abnormal circulate lipoprotein lipase concentration
 abnormal circulate luteinizing hormone concentration
 abnormal circulate luteinizing hormone level
 abnormal circulate monocarboxylic acid concentration
 abnormal circulate nitrogen compound concentration
+abnormal circulate organic compound concentration
 abnormal circulate phytanic acid concentration
 abnormal circulate phytanic acid level
 abnormal circulate sex hormone concentration
 abnormal circulate sex steroid concentration
 abnormal circulate thyroid hormone concentration
 abnormal circulate vitamin a concentration
+abnormal circulate vitamin b12 concentration
+abnormal circulate vitamin b6 concentration
 abnormal circulate vitamin b6 level
 abnormal circulate vitamin e concentration
 abnormal circulating alpha mannosidase activity
@@ -31758,17 +32122,21 @@ abnormal circulating interleukin 23 concentration
 abnormal circulating interleukin 27 concentration
 abnormal circulating interleukin 9 concentration
 abnormal circulating keto acid concentration
+abnormal circulating lactate dehydrogenase concentration
 abnormal circulating lipoprotein lipase concentration
 abnormal circulating luteinizing hormone concentration
 abnormal circulating luteinizing hormone level
 abnormal circulating monocarboxylic acid concentration
 abnormal circulating nitrogen compound concentration
+abnormal circulating organic compound concentration
 abnormal circulating phytanic acid concentration
 abnormal circulating phytanic acid level
 abnormal circulating sex hormone concentration
 abnormal circulating sex steroid concentration
 abnormal circulating thyroid hormone concentration
 abnormal circulating vitamin a concentration
+abnormal circulating vitamin b12 concentration
+abnormal circulating vitamin b6 concentration
 abnormal circulating vitamin b6 level
 abnormal circulating vitamin e concentration
 abnormal co2 level in blood
@@ -31820,6 +32188,7 @@ abnormal fear - induced behavior
 abnormal fear - induced behaviour
 abnormal fear - related cognition
 abnormal fear - related cognitions
+abnormal female external genitalia morphology
 abnormal female genital system physiology
 abnormal female reproductive system physiology
 abnormal fetal gastrointestinal system morphology
@@ -31866,6 +32235,7 @@ abnormal igd level in blood
 abnormal ige level in blood
 abnormal igg level in blood
 abnormal igm level in blood
+abnormal immune serum protein physiology
 abnormal inferior alveolar artery morphology
 abnormal inferior oblique muscle physiology
 abnormal inferior rectus muscle physiology
@@ -31921,6 +32291,7 @@ abnormal lower limb epiphysis morphology
 abnormal lower motor neuron morphology
 abnormal lymph node cell composition
 abnormal lymphocyte surface marker expression
+abnormal male external genitalia morphology
 abnormal male genital system physiology
 abnormal male germ cell morphology
 abnormal male internal genitalia morphology
@@ -32041,6 +32412,8 @@ abnormal proportion of cd4+cd29+ cell
 abnormal proportion of cd4+cd29+ cells
 abnormal proportion of cd4+cd45ra+ cell
 abnormal proportion of cd4+cd45ra+ cells
+abnormal proximal convolute tubule morphology
+abnormal proximal convoluted tubule morphology
 abnormal proximal ulnar epiphysis morphology
 abnormal pulmonary alveolar system development
 abnormal pulmonary alveolar system morphology
@@ -32138,10 +32511,12 @@ abnormal upper limb bone morphology
 abnormal upper limb epiphysis morphology
 abnormal upper limb metaphysis morphology
 abnormal upper motor neuron morphology
+abnormal urinary nitrogen compound level
 abnormal urine carboxylic acid level
 abnormal urine citric acid concentration
 abnormal urine cl - concentration
 abnormal urine decanedioic acid concentration
+abnormal urine guanidinoacetic acid level
 abnormal urine sebacic acid concentration
 abnormal ventriculo - arterial connection
 abnormal vertebral segmentation and fusion
@@ -32425,7 +32800,6 @@ abnormality of the bregma suture
 abnormality of the bregma sutures
 abnormality of the calcaneal tendon
 abnormality of the calf bone
-abnormality of the calf musculature
 abnormality of the calvarium suture
 abnormality of the calvarium sutures
 abnormality of the capitate bone
@@ -32990,6 +33364,8 @@ absent bone of the extremity
 absent bone of the toe
 absent bones of the extremities
 absent bones of the toes
+absent circulate immunoglobulin kappa chain
+absent circulating immunoglobulin kappa chain
 absent cutis congenita of vertex
 absent end part of bone
 absent end part of finger
@@ -33267,6 +33643,7 @@ anti - ago2 antibody positivity
 anti - ak5 antibody positivity
 anti - ampar antibody positivity
 anti - aqp4 antibody positivity
+anti - arbovirus antibody positivity
 anti - at1r antibody positivity
 anti - b23 antibody positivity
 anti - bicd2 antibody positivity
@@ -33281,6 +33658,9 @@ anti - ccp antibody positivity
 anti - centromere antibody positivity
 anti - cn1a antibody positivity
 anti - cntn1 antibody positivity
+anti - coccidioidal antibody positivity
+anti - cryptococcal antibody positivity
+anti - cytomegalovirus antibody positivity
 anti - d2 r antibody
 anti - dsdna antibody positivity
 anti - ej antibody positivity
@@ -33331,16 +33711,21 @@ anti - ma antibody positivity
 anti - ma1 antibody positivity
 anti - ma2 antibody positivity
 anti - mda5 antibody positivity
+anti - measles antibody positivity
 anti - mi2 antibody positivity
+anti - microfilaria antibody positivity
 anti - mit3 antibody positivity
 anti - mog antibody positivity
 anti - mpo antibody positivity
 anti - mullerian hormone low
+anti - mycoplasma antibody positivity
 anti - myeloperoxidase antibody positivity
 anti - nf155 antibody positivity
 anti - nf186 antibody positivity
 anti - nor90 antibody positivity
 anti - oj antibody positivity
+anti - opg antibody positivity
+anti - osteoprotegerin antibody positivity
 anti - p53 antibody positivity
 anti - p62 antibody positivity
 anti - pbp antibody positivity
@@ -33352,12 +33737,16 @@ anti - pr3 antibody positivity
 anti - psp antibody positivity
 anti - ptpa antibody positivity
 anti - reticulin antibody positivity
+anti - rickettsial antibody positivity
 anti - rnp - antibodies
 anti - rnp - antibody
 anti - ro52 antibody positivity
 anti - ro60 antibody positivity
+anti - rubella antibody positivity
 anti - ryanodine receptor antibody
 anti - sae antibody positivity
+anti - schistosoma antibody positivity
+anti - sla / lp
 anti - sm antibody positivity
 anti - sp1 antibody positivity
 anti - sp100 antibody positivity
@@ -33366,6 +33755,7 @@ anti - srp antibody positivity
 anti - su antibody positivity
 anti - thrombin iii deficiency
 anti - thyroglobulin antibody positivity
+anti - thyroid antibody positivity
 anti - thyrotropin receptor antibody
 anti - titin antibody positivity
 anti - tpo antibody positivity
@@ -33456,6 +33846,8 @@ aplastic / hypoplastic nasopharyngeal adenoid
 aplastic / hypoplastic nasopharyngeal adenoids
 aplastic / hypoplastic toe phalanges
 aplastic / hypoplastic toe phalanx
+apolipoprotein b high in csf
+aqueous humor viral dna positivity
 arc - shape blind spot
 arc - shaped blind spot
 architectural distortion of the lung
@@ -33598,6 +33990,7 @@ bone navicular bone of pe
 bone navicular bone of pes
 bone proximal phalanx of manus
 bone sternal end of clavicle
+boot - shaped cardiac silhouette
 bow and upward slanting eyebrow
 bowed and upward slanting eyebrows
 bowing of the distal tibia
@@ -33703,6 +34096,7 @@ cancer of early nerve cells
 cancer of skin pigment cell
 cancer of skin pigment cells
 capillary malformation of the lip
+carcinoid tumor of the pancreas
 cardiac biopsy : myocyte disarray
 cardiac click sound on auscultation
 caseous vernix - like desquamation
@@ -33812,6 +34206,8 @@ clubbing of fingers and toes
 clumping of the keratin tonofilaments
 coat hanger sign of rib
 coat hanger sign of ribs
+coccidioidal antibodies present in blood
+coccidioidal antibody present in blood
 cold - induced hand cramp
 cold - induced hand cramps
 cold - induced muscle cramp
@@ -34035,6 +34431,7 @@ decrease circulate complement c8 concentration
 decrease circulate complement c9 concentration
 decrease circulate creatine kinase concentration
 decrease circulate fetuin a concentration
+decrease circulate ficolin 3 concentration
 decrease circulate free t4 concentration
 decrease circulate free t4 level
 decrease circulate heparan sulfate level
@@ -34046,7 +34443,15 @@ decrease circulate luteinizing hormone level
 decrease circulate parathyroid hormone level
 decrease circulate sialic acid concentration
 decrease circulate transcobalamin ii concentration
+decrease circulate vitamin b1 concentration
+decrease circulate vitamin b12 concentration
+decrease circulate vitamin b2 concentration
+decrease circulate vitamin b5 concentration
+decrease circulate vitamin b8 concentration
+decrease circulate vitamin c concentration
+decrease circulate vitamin d concentration
 decrease circulate vitamin e concentration
+decrease circulate vitamin k concentration
 decrease cirrculating antimullerian hormone circulation
 decrease csf 5 - hiaa
 decrease csf homovanillic acid concentration
@@ -34083,6 +34488,7 @@ decrease mean corpuscular hemoglobin concentration
 decrease methylmalonyl coa mutase activity
 decrease motor nerve conduction velocity
 decrease or absent ankle reflex
+decrease pancreatic acinar cell density
 decrease platelet thromboxane a2 receptor
 decrease postbronchodilator force vital capacity
 decrease prebronchodilator force vital capacity
@@ -34113,6 +34519,7 @@ decrease touch sensation in extremity
 decrease urinary 1 - methylhistidine
 decrease urinary 2 - oxoglutarate
 decrease urinary 3 - methylhistidine
+decrease urinary bile acid level
 decrease urine guanidinoacetic acid level
 decrease vibration sense at ankle
 decrease vibration sense in foot
@@ -34175,6 +34582,7 @@ decreased circulating complement c8 concentration
 decreased circulating complement c9 concentration
 decreased circulating creatine kinase concentration
 decreased circulating fetuin a concentration
+decreased circulating ficolin 3 concentration
 decreased circulating free t4 concentration
 decreased circulating free t4 level
 decreased circulating heparan sulfate level
@@ -34186,7 +34594,15 @@ decreased circulating luteinizing hormone level
 decreased circulating parathyroid hormone level
 decreased circulating sialic acid concentration
 decreased circulating transcobalamin ii concentration
+decreased circulating vitamin b1 concentration
+decreased circulating vitamin b12 concentration
+decreased circulating vitamin b2 concentration
+decreased circulating vitamin b5 concentration
+decreased circulating vitamin b8 concentration
+decreased circulating vitamin c concentration
+decreased circulating vitamin d concentration
 decreased circulating vitamin e concentration
+decreased circulating vitamin k concentration
 decreased cirrculating antimullerian hormone circulation
 decreased csf 5 - hiaa
 decreased csf homovanillic acid concentration
@@ -34247,6 +34663,7 @@ decreased number of scalp follicles
 decreased number of sweat gland
 decreased number of sweat glands
 decreased or absent ankle reflexes
+decreased pancreatic acinar cell density
 decreased platelet thromboxane a2 receptor
 decreased pneumatization of frontal sinus
 decreased pneumatization of paranasal sinus
@@ -34337,6 +34754,7 @@ decreased transverse dimension of philtrum
 decreased urinary 1 - methylhistidine
 decreased urinary 2 - oxoglutarate
 decreased urinary 3 - methylhistidine
+decreased urinary bile acid level
 decreased urine guanidinoacetic acid level
 decreased vertical dimension of face
 decreased vertical dimension of philtrum
@@ -34505,6 +34923,7 @@ delayed speech and language development
 delayed start of first period
 delayed upper limb epiphyseal ossification
 delta - aminolevulinate dehydratase deficiency
+demonstration of leishmania in tissue
 demyelination in central white matter
 dense bone of skull base
 dentinogenesis imperfecta of baby teeth
@@ -34526,6 +34945,7 @@ detachment of visceral epithelial cell
 detachment of visceral epithelial cells
 developmental delay , gross motor
 developmental delay in early childhood
+developmental dysplasia of the hip
 deviation of the 2nd finger
 deviation of the 2nd toe
 deviation of the 3rd finger
@@ -34621,6 +35041,8 @@ distortion of the nasal tip
 disturbed perception with a stimulus
 diverticulum of the coronary sinus
 dminished respiratory ciliary beat frequency
+dolichol level high in urine
+dolichol levels high in urine
 doll - like facial appearance
 dorv with doubly commit vsd
 dorv with doubly committed vsd
@@ -34636,6 +35058,8 @@ downturned corner of the mouth
 downturned corners of the mouth
 downward - slant palpebral fissure
 downward - slanting palpebral fissures
+drain sinus tract in skin
+draining sinus tract in skin
 drooping of both upper eyelid
 drooping of both upper eyelids
 dropping of one upper eyelid
@@ -34779,6 +35203,7 @@ eeg with temporal sharp waves
 elevate alp of bone origin
 elevate alp of hepatic origin
 elevate alp of renal origin
+elevate aortic transvalvular pressure gradient
 elevate apo - aii level
 elevate apoa - ii level
 elevate blood parathyroid hormone level
@@ -34794,6 +35219,7 @@ elevate circulate alkaline phosphatase concentration
 elevate circulate apolipoprotein b concentration
 elevate circulate apolipoprotein e concentration
 elevate circulate aspartate aminotransferase concentration
+elevate circulate c10:0 acylcarnitine concentration
 elevate circulate c10:1 acylcarnitine concentration
 elevate circulate c14 carnitine concentration
 elevate circulate c16 acylcarnitine concentration
@@ -34807,9 +35233,12 @@ elevate circulate c5 acylcarnitine concentration
 elevate circulate c5:1 acylcarnitine concentration
 elevate circulate c6 acylcarnitine concentration
 elevate circulate c6:0 acylcarnitine concentration
+elevate circulate c8:0 acylcarnitine concentration
 elevate circulate c8:1 acylcarnitine concentration
 elevate circulate cerotic acid concentration
 elevate circulate creatine kinase concentration
+elevate circulate dihydroxyphenylacetic acid concentration
+elevate circulate dnajb9 protein concentration
 elevate circulate e selectin level
 elevate circulate glutaric acid concentration
 elevate circulate growth hormone concentration
@@ -34821,21 +35250,27 @@ elevate circulate hydroxybutyric acid concentration
 elevate circulate hydroxyphenlyllactic acid concentration
 elevate circulate ketone body concentration
 elevate circulate luteinizing hormone level
+elevate circulate methionine sulfoxide concentration
 elevate circulate methylmalonic acid concentration
 elevate circulate methylsuccinic acid concentration
 elevate circulate parathyroid hormone level
 elevate circulate phytanic acid concentration
+elevate circulate pipecolic acid concentration
 elevate circulate pristanic acid concentration
 elevate circulate reverse t3 concentration
 elevate circulate reverse triiodothyronine concentration
 elevate circulate sebacic acid concentration
 elevate circulate soluble cd25 concentration
+elevate circulate soluble fasl concentration
 elevate circulate suberic acid concentration
 elevate circulate tetracosanoic acid concentration
+elevate circulate vitamin b12 concentration
+elevate circulate vitamin b6 concentration
 elevate circulate vitamin b6 level
 elevate coagulation factor v activity
 elevate creatine kinase after exercise
 elevate creatine phosphokinase after exercise
+elevate csf apolipoprotein b concentration
 elevate csf argininosuccinic acid concentration
 elevate csf chitotriosidase 1 concentration
 elevate csf chitotriosidase 1 level
@@ -34860,6 +35295,7 @@ elevate plasma octenoylcarnitine , c8:1
 elevate plasma oleylcarnitine , c18:1
 elevate plasma palmitoleylcarnitine , c16:1
 elevate plasma propionylcarnitine , c3:0
+elevate plasma vitamin b12 level
 elevate right ventricular systolic pressure
 elevate rv / tlc ratio
 elevate serum 11 - deoxycortisol
@@ -34867,6 +35303,7 @@ elevate serum 21 - hydroxyprogesterone
 elevate serum glutamic oxaloacetic transaminase
 elevate serum parathyroid hormone level
 elevate serum transaminase during infection
+elevate serum vitamin b12 level
 elevate terminal : vellus ratio
 elevate thyroid stimulate hormone level
 elevate urinary 2 - methylbutyrylglycine
@@ -34877,12 +35314,15 @@ elevate urinary formiminoglutamic acid level
 elevate urinary monocarboxylic acid level
 elevate urinary n - butyrylglycine
 elevate urinary phenylpyruvic acid level
+elevate urinary pipecolic acid level
 elevate urinary prostaglandin e2 level
+elevate urinary xanthurenic acid level
 elevate urine 5 - oxoproline
 elevate urine acetoacetic acid level
 elevate urine aconitic acid level
 elevate urine fumaric acid level
 elevate urine glutaconic acid level
+elevate urine guanidinoacetic acid level
 elevate urine keto acid level
 elevate urine malonic acid level
 elevate urine mevalonic acid level
@@ -34893,6 +35333,7 @@ elevate urine suberic acid level
 elevated alp of bone origin
 elevated alp of hepatic origin
 elevated alp of renal origin
+elevated aortic transvalvular pressure gradient
 elevated apo - aii level
 elevated apoa - ii level
 elevated blood parathyroid hormone level
@@ -34908,6 +35349,7 @@ elevated circulating alkaline phosphatase concentration
 elevated circulating apolipoprotein b concentration
 elevated circulating apolipoprotein e concentration
 elevated circulating aspartate aminotransferase concentration
+elevated circulating c10:0 acylcarnitine concentration
 elevated circulating c10:1 acylcarnitine concentration
 elevated circulating c14 carnitine concentration
 elevated circulating c16 acylcarnitine concentration
@@ -34921,9 +35363,12 @@ elevated circulating c5 acylcarnitine concentration
 elevated circulating c5:1 acylcarnitine concentration
 elevated circulating c6 acylcarnitine concentration
 elevated circulating c6:0 acylcarnitine concentration
+elevated circulating c8:0 acylcarnitine concentration
 elevated circulating c8:1 acylcarnitine concentration
 elevated circulating cerotic acid concentration
 elevated circulating creatine kinase concentration
+elevated circulating dihydroxyphenylacetic acid concentration
+elevated circulating dnajb9 protein concentration
 elevated circulating e selectin level
 elevated circulating glutaric acid concentration
 elevated circulating growth hormone concentration
@@ -34935,21 +35380,27 @@ elevated circulating hydroxybutyric acid concentration
 elevated circulating hydroxyphenlyllactic acid concentration
 elevated circulating ketone body concentration
 elevated circulating luteinizing hormone level
+elevated circulating methionine sulfoxide concentration
 elevated circulating methylmalonic acid concentration
 elevated circulating methylsuccinic acid concentration
 elevated circulating parathyroid hormone level
 elevated circulating phytanic acid concentration
+elevated circulating pipecolic acid concentration
 elevated circulating pristanic acid concentration
 elevated circulating reverse t3 concentration
 elevated circulating reverse triiodothyronine concentration
 elevated circulating sebacic acid concentration
 elevated circulating soluble cd25 concentration
+elevated circulating soluble fasl concentration
 elevated circulating suberic acid concentration
 elevated circulating tetracosanoic acid concentration
+elevated circulating vitamin b12 concentration
+elevated circulating vitamin b6 concentration
 elevated circulating vitamin b6 level
 elevated coagulation factor v activity
 elevated creatine kinase after exercise
 elevated creatine phosphokinase after exercise
+elevated csf apolipoprotein b concentration
 elevated csf argininosuccinic acid concentration
 elevated csf chitotriosidase 1 concentration
 elevated csf chitotriosidase 1 level
@@ -34975,6 +35426,7 @@ elevated plasma octenoylcarnitine , c8:1
 elevated plasma oleylcarnitine , c18:1
 elevated plasma palmitoleylcarnitine , c16:1
 elevated plasma propionylcarnitine , c3:0
+elevated plasma vitamin b12 level
 elevated right ventricular systolic pressure
 elevated rv / tlc ratio
 elevated serum 11 - deoxycortisol
@@ -34982,6 +35434,7 @@ elevated serum 21 - hydroxyprogesterone
 elevated serum glutamic oxaloacetic transaminase
 elevated serum parathyroid hormone level
 elevated serum transaminases during infections
+elevated serum vitamin b12 level
 elevated terminal : vellus ratio
 elevated thyroid stimulating hormone levels
 elevated urinary 2 - methylbutyrylglycine
@@ -34992,12 +35445,15 @@ elevated urinary formiminoglutamic acid level
 elevated urinary monocarboxylic acid level
 elevated urinary n - butyrylglycine
 elevated urinary phenylpyruvic acid level
+elevated urinary pipecolic acid level
 elevated urinary prostaglandin e2 level
+elevated urinary xanthurenic acid level
 elevated urine 5 - oxoproline
 elevated urine acetoacetic acid level
 elevated urine aconitic acid level
 elevated urine fumaric acid level
 elevated urine glutaconic acid level
+elevated urine guanidinoacetic acid level
 elevated urine keto acid level
 elevated urine malonic acid level
 elevated urine mevalonic acid level
@@ -35256,6 +35712,8 @@ fluid accumulation in low limb
 fluid accumulation in lower limbs
 fluid accumulation in upper limb
 fluid accumulation in upper limbs
+foamy cell on hepatic biopsy
+foamy cells on hepatic biopsy
 focal - onset epileptic spasm
 focal absence of scalp tissue
 focal and segmental glomerular sclerosis
@@ -35600,6 +36058,7 @@ high urine uric acid level
 high urine urocanic acid level
 high urine urocanic acid levels
 hip - girdle muscle weakness
+hockey - stick palmar crease
 hole in center of heart
 hole in centre of heart
 hole in roof of mouth
@@ -35637,8 +36096,10 @@ hyperplasia of visceral epithelial cell
 hyperplasia of visceral epithelial cells
 hyperplastic inferior crus of antihelix
 hyperplastic superior crus of antihelix
+hyperpolarized transepithelial nasal potential difference
 hyperreflexia in the low limb
 hyperreflexia in the lower limbs
+hypertension resistant to conventional therapy
 hypertrichosis , congenital anterior cervical
 hypertrophic alveolar type ii cell
 hypertrophic alveolar type ii cells
@@ -35846,6 +36307,7 @@ inability to produce voice sound
 inability to produce voice sounds
 inability to walk on heel
 inability to walk on heels
+inappropriately low concentration of acetoacetate
 incipient distal thumb phalanx duplication
 incomplete calcification of palatine bone
 incomplete cleft maxillary alveolar ridge
@@ -36686,6 +37148,8 @@ medullary peritubular capillary intraluminal thrombus
 megakaryocyte decrease im bone marrow
 megakaryocytes decreased im bone marrow
 meiotic maturation arrest of spermatogenesis
+melanin reduce in substantia nigra
+melanin reduced in substantia nigra
 melanotic macule of oral mucosa
 mesomelia of the low limb
 mesomelia of the lower limbs
@@ -36828,6 +37292,8 @@ multifocal cerebral white matter abnormalities
 multifocal cerebral white matter abnormality
 multifocal sub - rpe deposit
 multifocal sub - rpe deposits
+multinucleated giant cell in skin
+multinucleated giant cells in skin
 multiple central nervous system lipoma
 multiple central nervous system lipomas
 multiple episode of otitis medium
@@ -36989,7 +37455,6 @@ non - immune fetal hydrops
 non - immune foetal hydrops
 non - insulin dependent diabetes
 non - medullary thyroid carcinoma
-non - midline cleft lip
 non - midline cleft palate
 non - necrotizing pulmonary granulomatosis
 non - periodic recurrent fever
@@ -37088,6 +37553,8 @@ ovoid - shaped vertebral bodies
 ovoid - shaped vertebral body
 ovoid thoracic and lumbar vertebra
 ovoid thoracic and lumbar vertebrae
+pain associate with bowel movement
+pain associated with bowel movements
 pain of muscle of mastication
 pain of muscles of mastication
 painless fracture due to injury
@@ -37226,10 +37693,13 @@ pinhole visual acuity 1.2 logmar
 pinhole visual acuity 1.3 logmar
 pinhole visual acuity 2.0 logmar
 pinhole visual acuity 3.0 logmar
+pipecolic acid high in blood
 pituitary acidophilic stem cell adenoma
 pituitary growth hormone cell adenoma
 pituitary resistance to thyroid hormone
 plaque - like facial hemangioma
+pneumocystis cyst in respiratory secretion
+pneumocystis cysts in respiratory secretions
 polychromasia on peripheral blood smear
 polyclonal elevation of circulate iga
 polyclonal elevation of circulate ige
@@ -37260,11 +37730,18 @@ poor visual behavior for age
 poor visual behaviour for age
 portal fibrosis show on biopsy
 portal fibrosis shown on biopsy
+positive bloodstream antibacterial antibody positivity
+positive bloodstream antifungal antibody positivity
 positive carpal hoffmann tinel sign
+positive faecal occult blood test
 positive fecal clostridium botulinum test
+positive fecal occult blood test
 positive gastric fluid barbiturate test
+positive glucose hydrogen breath test
 positive lactose hydrogen breath test
+positive lactulose hydrogen breath test
 positive stool infectious agent test
+positive stool occult blood test
 post - capillary pulmonary hypertension
 post - vaccination rotavirus infection
 post - vaccination yellow fever
@@ -37418,6 +37895,7 @@ pubertal developmental failure in females
 punctate opacification of the cornea
 punctate periventricular t2 hyperintense foci
 punctate periventricular t2 hyperintense focus
+purulent drainage from stensen duct
 pustulosis of palm and sol
 pustulosis of palms and soles
 pyridoxine - responsive sideroblastic anaemia
@@ -37468,10 +37946,13 @@ reduce circulate interleukin 23 concentration
 reduce circulate interleukin 27 concentration
 reduce circulate interleukin 7 concentration
 reduce circulate interleukin 9 concentration
+reduce circulate lactate dehydrogenase concentration
 reduce circulate leukotriene c4 concentration
 reduce circulate urocanic acid concentration
 reduce circulate vitamin a concentration
+reduce circulate vitamin b6 circulate
 reduce circulate vitamin b6 level
+reduce circulate xanthine oxidase activity
 reduce co - speech gesture
 reduce coagulation factor v activity
 reduce collagen 6 in muscle
@@ -37484,6 +37965,7 @@ reduce erythrocyte free porphyrin concentration
 reduce erythrocyte porphobilinogen deaminase activity
 reduce erythrocyte pyruvate kinase activity
 reduce euglobulin clot lysis time
+reduce f - wave amplitude
 reduce fetal long bone echogenicity
 reduce fev1 / fvc ratio
 reduce fibroblast surface marker level
@@ -37493,7 +37975,6 @@ reduce helper t cell proportion
 reduce hepatic carbamoylphosphate synthetase activity
 reduce hepatic methionine adenosyltransferase activity
 reduce immediate imitation of others
-reduce lactate dehydrogenase b level
 reduce leave ventricular ejection fraction
 reduce leave ventricular endsystolic diameter
 reduce leukocyte acid lipase activity
@@ -37517,8 +37998,11 @@ reduce muscle fibre alpha sarcoglycan
 reduce muscle fibre beta sarcoglycan
 reduce muscle fibre delta sarcoglycan
 reduce muscle fibre gamma sarcoglycan
+reduce muscle lactate dehydrogenase activity
 reduce muscle myoadenylate deaminase activity
 reduce muscle phosphoglycerate kinase activity
+reduce muscle phosphoglycerate mutase activity
+reduce muscle phosphorylase kinase activity
 reduce proximal interphalangeal joint space
 reduce respiratory ciliary beating frequency
 reduce response to social cue
@@ -37547,10 +38031,13 @@ reduced circulating interleukin 23 concentration
 reduced circulating interleukin 27 concentration
 reduced circulating interleukin 7 concentration
 reduced circulating interleukin 9 concentration
+reduced circulating lactate dehydrogenase concentration
 reduced circulating leukotriene c4 concentration
 reduced circulating urocanic acid concentration
 reduced circulating vitamin a concentration
+reduced circulating vitamin b6 circulating
 reduced circulating vitamin b6 level
+reduced circulating xanthine oxidase activity
 reduced co - speech gestures
 reduced coagulation factor v activity
 reduced collagen 6 in muscle
@@ -37563,6 +38050,7 @@ reduced erythrocyte free porphyrin concentration
 reduced erythrocyte porphobilinogen deaminase activity
 reduced erythrocyte pyruvate kinase activity
 reduced euglobulin clot lysis time
+reduced f - wave amplitude
 reduced fetal long bone echogenicity
 reduced fev1 / fvc ratio
 reduced fibroblast surface marker level
@@ -37574,7 +38062,6 @@ reduced helper t cell proportion
 reduced hepatic carbamoylphosphate synthetase activity
 reduced hepatic methionine adenosyltransferase activity
 reduced immediate imitation of others
-reduced lactate dehydrogenase b level
 reduced left ventricular ejection fraction
 reduced left ventricular endsystolic diameter
 reduced leukocyte acid lipase activity
@@ -37598,8 +38085,11 @@ reduced muscle fibre alpha sarcoglycan
 reduced muscle fibre beta sarcoglycan
 reduced muscle fibre delta sarcoglycan
 reduced muscle fibre gamma sarcoglycan
+reduced muscle lactate dehydrogenase activity
 reduced muscle myoadenylate deaminase activity
 reduced muscle phosphoglycerate kinase activity
+reduced muscle phosphoglycerate mutase activity
+reduced muscle phosphorylase kinase activity
 reduced natural killer cell activity
 reduced natural killer cell count
 reduced natural killer cell number
@@ -37744,6 +38234,10 @@ sandwich appearance of vertebral body
 sarcomatoid carcinoma of the tongue
 scheuermann - like vertebral change
 scheuermann - like vertebral changes
+scissoring of the low extremity
+scissoring of the low limb
+scissoring of the lower extremities
+scissoring of the lower limbs
 sclerosis of 2nd finger phalanx
 sclerosis of 2nd toe phalanx
 sclerosis of 3rd finger phalanx
@@ -38498,6 +38992,8 @@ yellowish cloudy centre of lens
 2 - 5 finger cutaneous syndactyly
 3 - 4 finger cutaneous syndactyly
 5 - hydroxymethyluracil high in blood
+5 - hydroxymethyluracil high in csf
+5 - hydroxymethyluracil high in urine
 abnormal 6 - hydroxypurine phosphoribosyltransferase level
 abnormal activity of mitochondrial respiratory chain
 abnormal alanine level in cerebrospinal fluid
@@ -38549,6 +39045,7 @@ abnormal circulate 7 - dehydrocholesterol concentration
 abnormal circulate alpha - fetoprotein concentration
 abnormal circulate amino sulfonic acid concentration
 abnormal circulate aromatic amino acid concentration
+abnormal circulate beta - carotene concentration
 abnormal circulate beta - crosslaps level
 abnormal circulate beta - ctx level
 abnormal circulate beta - mannosidase activity
@@ -38570,6 +39067,7 @@ abnormal circulating 7 - dehydrocholesterol concentration
 abnormal circulating alpha - fetoprotein concentration
 abnormal circulating amino sulfonic acid concentration
 abnormal circulating aromatic amino acid concentration
+abnormal circulating beta - carotene concentration
 abnormal circulating beta - crosslaps level
 abnormal circulating beta - ctx level
 abnormal circulating beta - mannosidase activity
@@ -39016,7 +39514,6 @@ abnormality of the renal collecting system
 abnormality of the retinal pigment epithelium
 abnormality of the second metatarsal bone
 abnormality of the sense of smell
-abnormality of the seventh cranial nerve
 abnormality of the shape of calvarium
 abnormality of the shoulder girdle musculature
 abnormality of the sixth cranial nerve
@@ -39325,10 +39822,14 @@ anti - anna - 1 antibody
 anti - anna - 2 antibody
 anti - aquaporin 4 antibody positivity
 anti - asialoglycoprotein receptor antibody positivity
+anti - bartonella henselae antibody positivity
 anti - beta2gpi igg antibody positivity
 anti - beta2gpi igm antibody positivity
 anti - bicaudal d2 antibody positivity
+anti - chikungunya virus antibody positivity
+anti - chlamydia psittaci antibody positivity
 anti - citrullinated protein antibody positivity
+anti - dengue virus antibody positivity
 anti - desmoplakin i antibody positivity
 anti - desmoplakin ii antibody positivity
 anti - epidermal transglutaminase antibody positivity
@@ -39343,12 +39844,14 @@ anti - gq1b igg antibody positivity
 anti - gq1b igm antibody positivity
 anti - gt1a igg antibody positivity
 anti - gt1a igm antibody positivity
+anti - herpes simplex antibody positivity
 anti - homer - 3 antibody
 anti - laminin 332 antibody positivity
 anti - laminin 5 antibody positivity
 anti - laminin 6 antibody positivity
 anti - laminin gamma1 antibody positivity
 anti - lkm - 1 positive
+anti - lymphocytic choriomeningitis antibody positivity
 anti - mitochondrial m2 antibody positivity
 anti - neurexin - 3alpha antibody
 anti - neurofascin 186 antibody positivity
@@ -39363,6 +39866,7 @@ anti - phosphatidyl glycerol antibody positivity
 anti - phosphatidyl inositol antibody positivity
 anti - phosphatidyl serine antibody positivity
 anti - platelet antigen antibody positivity
+anti - powassan virus antibody positivity
 anti - proteinase 3 antibody positivity
 anti - pyruvate dehydrogenase antibody positivity
 anti - ribosome po antibody positivity
@@ -39378,6 +39882,7 @@ anti - topoisomerase i antibody positivity
 anti - tr / dner antibody
 anti - transglutaminase 2 antibody positivity
 anti - trim9 / trim67 antibody
+anti - trypanosoma cruzi antibody positivity
 anti - tsh receptor antibody positivity
 anti - type vii collagen antibody
 anti - u1 ribonucleoprotein antibody positivity
@@ -39660,6 +40165,7 @@ bracket epiphysis of the 5th finger
 bracket epiphysis of the 5th toe
 breakdown of small bone of finger
 breakdown of small bones of fingers
+brief tear break - up time
 broad bone of the 2nd toe
 broad bone of the 4th toe
 broad bone of the little toe
@@ -39750,11 +40256,14 @@ bullet - shaped middle toe phalanx
 bullet - shaped pinkie finger bones
 bullet - shaped pinky finger bones
 bullet - shaped proximal toe phalanx
+c10 : decanoylcarnitine high in blood
 cafe - au - lait macule
 cafe - au - lait macules
 cafe - au - lait spot
 cafe - au - lait spots
+caffeine in vitro contracture test positive
 calcific stippling of infantile cartilaginous skeleton
+calcification of the middle tibiofibular joint
 calcification of the small brain vessel
 calcification of the small brain vessels
 calcified amorphous tumor of the heart
@@ -39823,6 +40332,7 @@ cleavage within the basal keratinocyte layer
 cleft of alveolar ridge of maxilla
 cleft of hard and soft palate
 clinical anophthalmia , unilateral / bilateral
+cmv antibody titer high in blood
 coalescence of carpal and tarsal bone
 coalescence of carpal and tarsal bones
 coarctation in the transverse aortic arch
@@ -40019,6 +40529,7 @@ darkening of skin around the mouth
 darkening of skin of the lip
 darkening of skin of the lips
 decrease / absent deep tendon reflex
+decrease 3 - hydroxyisobutyrate dehydrogenase activity
 decrease alpha - galactosidase a activity
 decrease amplitude of sensory action potential
 decrease amplitude on flash visual electroretinogram
@@ -40032,9 +40543,11 @@ decrease circulate 18 - hydroxycortisone level
 decrease circulate 7 - dehydrocholesterol concentration
 decrease circulate alpha - fetoprotein concentration
 decrease circulate alpha - mannosidase activity
+decrease circulate beta - carotene concentration
 decrease circulate beta - crosslaps level
 decrease circulate beta - ctx level
 decrease circulate beta - mannosidase activity
+decrease circulate complement component 1 concentration
 decrease circulate complement factor b concentration
 decrease circulate complement factor h concentration
 decrease circulate complement factor i concentration
@@ -40095,6 +40608,7 @@ decrease width of dorsum of nose
 decrease width of upper jaw bone
 decrease width of upper lateral incisor
 decreased / absent deep tendon reflexes
+decreased 3 - hydroxyisobutyrate dehydrogenase activity
 decreased activity of mitochondrial complex i
 decreased activity of mitochondrial complex ii
 decreased activity of mitochondrial complex iii
@@ -40118,9 +40632,11 @@ decreased circulating 18 - hydroxycortisone level
 decreased circulating 7 - dehydrocholesterol concentration
 decreased circulating alpha - fetoprotein concentration
 decreased circulating alpha - mannosidase activity
+decreased circulating beta - carotene concentration
 decreased circulating beta - crosslaps level
 decreased circulating beta - ctx level
 decreased circulating beta - mannosidase activity
+decreased circulating complement component 1s concentration
 decreased circulating complement factor b concentration
 decreased circulating complement factor h concentration
 decreased circulating complement factor i concentration
@@ -40164,6 +40680,8 @@ decreased middle cerebral artery pulsatility index
 decreased mobility 3rd - 5th fingers
 decreased movement range in interphalangeal joints
 decreased mucosal sucrase - isomaltase activity
+decreased muscle caveolin - 3 expression
+decreased muscle caveolin - 3 level
 decreased number of circulate t cell
 decreased number of sternal ossification center
 decreased number of sternal ossification centers
@@ -40282,6 +40800,7 @@ delayed ossification of the trapezoid bone
 delayed pneumatization of the mastoid process
 delayed recoil upon stretching of skin
 delta - aminolevulinate dehydratase activity low
+dengue antibody titer high in blood
 dentinogenesis imperfecta limit to primary teeth
 dentinogenesis imperfecta limited to primary teeth
 depletion of mitochondrial dna in liver
@@ -40354,6 +40873,8 @@ distort red blood cell resemble keratocytes
 distorted red blood cells resembling keratocytes
 disturbance in perception relate to sleep
 disturbance in perception related to sleep
+dnajb9 protein level in serum elevate
+dnajb9 protein level in serum elevated
 dohle - like leukocyte inclusion bodies
 dohle - like leukocyte inclusion body
 double 1st long bone of hand
@@ -40509,6 +41030,7 @@ elevate circulate ca19 - 9 concentration
 elevate circulate d - arabinitol concentration
 elevate circulate d - dimer concentration
 elevate circulate follicle stimulate hormone level
+elevate circulate gm - csf concentration
 elevate circulate l - alloisoleucine concentration
 elevate circulate lyso - globotriaosylsphingosine concentration
 elevate circulate membrane cofactor protein concentration
@@ -40527,11 +41049,15 @@ elevate circulate rt3 / t3 ratio
 elevate circulate s - sulfocysteine concentration
 elevate circulate tenascin - c level
 elevate csf 3,4 - dihydroxyphenylalanine concentration
+elevate csf 5 - hydroxymethyluracil concentration
+elevate csf aica - riboside concentration
 elevate csf gamma - hydroxybutyric acid
+elevate csf myelin basic protein concentration
 elevate csf neurofilament light chain concentration
 elevate hypoxanthine - guanine phosphoribosyltransferase level
 elevate imprint of the transverse sinus
 elevate maternal serum alpha - fetoprotein
+elevate mitochondrial citrate synthase synthase activity
 elevate non - hdl cholesterol concentration
 elevate phospho - ck after exercise
 elevate proportion of naive t cell
@@ -40542,9 +41068,13 @@ elevate tissue non - specific alp
 elevate urinary 2 - ethylhydracylic acid
 elevate urinary 2 - hydroxybutyric acid
 elevate urinary 3 - hydroxybutyric acid
+elevate urinary 3 - hydroxykynurenine level
 elevate urinary 3 - methylcrotonylglycine level
 elevate urinary 4 - hydroxybutyric acid
+elevate urinary 5 - hydroxymethyluracil level
 elevate urinary 7 - biopterin level
+elevate urinary aica - riboside level
+elevate urinary creatine / creatinine ratio
 elevate urinary delta - aminolevulinic acid
 elevate urinary n - hexanoylglycine concentration
 elevate urinary prostaglandin e2 metabolite level
@@ -40596,6 +41126,7 @@ elevated circulating ca19 - 9 concentration
 elevated circulating d - arabinitol concentration
 elevated circulating d - dimer concentration
 elevated circulating follicle stimulating hormone level
+elevated circulating gm - csf concentration
 elevated circulating l - alloisoleucine concentration
 elevated circulating lyso - globotriaosylsphingosine concentration
 elevated circulating membrane cofactor protein concentration
@@ -40614,11 +41145,15 @@ elevated circulating rt3 / t3 ratio
 elevated circulating s - sulfocysteine concentration
 elevated circulating tenascin - c level
 elevated csf 3,4 - dihydroxyphenylalanine concentration
+elevated csf 5 - hydroxymethyluracil concentration
+elevated csf aica - riboside concentration
 elevated csf gamma - hydroxybutyric acid
+elevated csf myelin basic protein concentration
 elevated csf neurofilament light chain concentration
 elevated hypoxanthine - guanine phosphoribosyltransferase level
 elevated imprint of the transverse sinuses
 elevated maternal serum alpha - fetoprotein
+elevated mitochondrial citrate synthase synthase activity
 elevated non - hdl cholesterol concentration
 elevated phospho - ck after exercise
 elevated proportion of naive t cells
@@ -40629,9 +41164,13 @@ elevated tissue non - specific alp
 elevated urinary 2 - ethylhydracylic acid
 elevated urinary 2 - hydroxybutyric acid
 elevated urinary 3 - hydroxybutyric acid
+elevated urinary 3 - hydroxykynurenine level
 elevated urinary 3 - methylcrotonylglycine level
 elevated urinary 4 - hydroxybutyric acid
+elevated urinary 5 - hydroxymethyluracil level
 elevated urinary 7 - biopterin level
+elevated urinary aica - riboside level
+elevated urinary creatine / creatinine ratio
 elevated urinary delta - aminolevulinic acid
 elevated urinary n - hexanoylglycine concentration
 elevated urinary prostaglandin e2 metabolite level
@@ -41040,6 +41579,7 @@ groove in skin under the eye
 ground glass opacity of humeral diaphysis
 growth in inner lining of intestine
 growths in inner lining of intestine
+halothane in vitro contracture test positive
 hand has less than 5 fingers
 hand have less than 5 finger
 hardening of skin and connective tissue
@@ -41052,6 +41592,7 @@ hearing loss , sensorineural , bilateral
 hearing loss , sensorineural , progressive
 helix , crus , tragal bridge
 heparin co - factor ii deficiency
+hepatic lipid - laden macrophage infiltration
 hepatic melanin - like lysosomal pigmentation
 high - frequency sensorineural hearing impairment
 high - output congestive heart failure
@@ -41110,6 +41651,7 @@ high valine levels in cerebrospinal fluid
 highly elevate serum phosph - ck
 highly elevated serum phosph - ck
 horizontal orientation of the ear crus
+hsv antibody titer high in blood
 hyaloid vascular remnant and retrolental mass
 hydrops fetalis , non - immune
 hyperchromasia of renal tubular epithelial cell
@@ -41227,8 +41769,8 @@ impaired epinephrine - induced platelet aggregation
 impaired flow - mediated arterial dilatation
 impaired pathogen - specific cd8 cytoxicity
 impaired release of bile from liver
-impaired renal ltubular reabsorption of chloride
 impaired renal tubular reabsorption of bicarbonate
+impaired renal tubular reabsorption of chloride
 impaired renal tubular reabsorption of glucose
 impaired renal tubular reabsorption of magnesium
 impaired renal tubular reabsorption of phosphate
@@ -41266,6 +41808,7 @@ increase carotid artery intimal medial thickness
 increase cellular sensitivity to uv light
 increase circulate 18 - hydroxycortisone level
 increase circulate alpha - mannosidase activity
+increase circulate beta - carotene concentration
 increase circulate beta - crosslaps level
 increase circulate beta - ctx level
 increase circulate brain natriuretic peptide concentration
@@ -41286,6 +41829,7 @@ increase comfort with casual physical contact
 increase complex n - glycan level
 increase csf / serum albumin ratio
 increase csf alpha - aminobutyrate concentration
+increase csf d - threitol concentration
 increase csf l - alloisoleucine concentration
 increase density of left ventricular trabecula
 increase density of long bone diaphysis
@@ -41320,7 +41864,6 @@ increase level of neu5ac in urine
 increase level of oxalate in urine
 increase level of phenylalanine in urine
 increase level of phosphoserine in urine
-increase level of ribitol in csf
 increase level of ribitol in serum
 increase level of ribitol in urine
 increase level of ribose in csf
@@ -41373,6 +41916,7 @@ increase urinary o - link sialopeptides
 increase urinary squamous epithelial cell count
 increase urinary transitional epithelial cell count
 increase urine alpha - ketoglutarate concentration
+increase urine cr / crn ratio
 increase urine o - phosphoethanolamine level
 increase variability in muscle fiber diameter
 increase variability in muscle fiber size
@@ -41403,6 +41947,7 @@ increased carotid artery intimal medial thickness
 increased cellular sensitivity to uv light
 increased circulating 18 - hydroxycortisone level
 increased circulating alpha - mannosidase activity
+increased circulating beta - carotene concentration
 increased circulating beta - crosslaps level
 increased circulating beta - ctx level
 increased circulating brain natriuretic peptide concentration
@@ -41423,6 +41968,7 @@ increased comfort with casual physical contact
 increased complex n - glycan level
 increased csf / serum albumin ratio
 increased csf alpha - aminobutyrate concentration
+increased csf d - threitol concentration
 increased csf l - alloisoleucine concentration
 increased density of left ventricular trabeculae
 increased density of long bone diaphyses
@@ -41459,7 +42005,6 @@ increased level of neu5ac in urine
 increased level of oxalate in urine
 increased level of phenylalanine in urine
 increased level of phosphoserine in urine
-increased level of ribitol in csf
 increased level of ribitol in serum
 increased level of ribitol in urine
 increased level of ribose in csf
@@ -41515,6 +42060,7 @@ increased urinary o - linked sialopeptides
 increased urinary squamous epithelial cell count
 increased urinary transitional epithelial cell count
 increased urine alpha - ketoglutarate concentration
+increased urine cr / crn ratio
 increased urine o - phosphoethanolamine level
 increased variability in muscle fiber diameter
 increased variability in muscle fiber size
@@ -41642,6 +42188,7 @@ ivory epiphysis of the 4th finger
 ivory epiphysis of the 4th toe
 ivory epiphysis of the 5th finger
 ivory epiphysis of the 5th toe
+jc virus pcr in blood positive
 joint contracture of the 2nd finger
 joint contracture of the 2nd toe
 joint contracture of the 3rd finger
@@ -41698,6 +42245,8 @@ limited hair on end of eyebrow
 limited mobility of innermost hinge joint
 limited mobility of proximal interphalangeal joint
 limited pronation / supination of forearm
+linear hyperpigmentation along blaschko 's line
+linear hyperpigmentation along blaschko 's lines
 lipid - laden lymph node macrophage
 lipid - laden lymph node macrophages
 lipoma of the central nervous system
@@ -41771,6 +42320,7 @@ low valine level in cerebrospinal fluid
 low valine levels in cerebrospinal fluid
 lower jaw shifted to one side
 lymphocytic infiltration of the colorectal mucosa
+lymphocytic infiltration of the parotid gland
 lytic cystic lesion in appendicular bone
 lytic cystic lesions in appendicular bones
 lytic defect in index finger phalanges
@@ -41798,6 +42348,7 @@ marcus gunn jaw - winking syndrome
 mark metaphyseal flaring of long bone
 marked metaphyseal flaring of long bones
 maturity onset diabetes of the young
+measles antibody titer high in blood
 medial rotation of the medial malleolus
 mediosternal , longitudinal streak of hypopigmentation
 medullary peritubular capillary lumen cholesterol emboli
@@ -41904,6 +42455,7 @@ multiple pancreatic beta - cell adenoma
 multiple pancreatic beta - cell adenomas
 muscle abnormality relate to mitochondrial dysfunction
 muscle abnormality related to mitochondrial dysfunction
+muscle biopsy : lactate dehydrogenase low
 muscle biopsy : lipoic acid low
 muscle biopsy : myoadenylate deaminase low
 muscle fiber intracytoplasmic reduce inclusion body
@@ -41920,9 +42472,11 @@ muscle weakness , shoulder - girdle
 muscular hypertrophy of the calf muscle
 muscular hypertrophy of the calf muscles
 muscular weakness , limb - girdle
+myelin basic protein high in csf
 myeloid maturation arrest in bone marrow
 myotonia with warm - up phenomenon
 n - acetylaspartate high in urine
+nadh - cytochrome b5 reductase low
 narrow , bell - shape thorax
 narrow , bell - shaped thorax
 narrow , high - arched palate
@@ -42033,6 +42587,9 @@ osteomyelitis , especially of the mandible
 ovarian sex cord - stromal tumor
 ovarian sex cord - stromal tumour
 pain in head and neck region
+pancreatic biopsy : acinar structure reduce
+pancreatic biopsy : acinar structures reduced
+pancreatic islet beta cell iron deposition
 papillary renal cell carcinoma type 1
 papillary renal cell carcinoma type 2
 paralysis on one side of body
@@ -42124,7 +42681,9 @@ poor cd25 upregulation upon tcr activation
 port - wine stain on eyelid
 port - wine stain on forehead
 port - wine stain on neck
+positive 2,4 - dinitrophenylhydrazine urine test
 positive blood 1,3 beta glucan test
+positive bloodstream nucleic acid pathogen test
 positive cmv urine nucleic acid test
 positive cytomegalovirus urine nucleic acid test
 positive enterovirus urine nucleic acid test
@@ -42189,6 +42748,7 @@ radial deviation of the 5th finger
 radial deviation of the ring finger
 radial deviation of thumb terminal phalanx
 rapid eye movement sleep behavior disorder
+rapid eye movement sleep behaviour disorder
 recto - sigmoid colon stercoral ulcer
 recurrent bacterial upper respiratory tract infection
 recurrent bacterial upper respiratory tract infections
@@ -42197,9 +42757,7 @@ recurrent gram - negative bacterial infections
 recurrent infection in bronchus and lung
 recurrent infection of the gastrointestinal tract
 recurrent infection of the gi tract
-recurrent infection of the middle ear
 recurrent infections in bronchi and lungs
-recurrent infections of the middle ear
 recurrent loss of toenail and fingernail
 recurrent loss of toenails and fingernails
 recurrent low blood sugar in infant
@@ -42234,6 +42792,7 @@ reduce c - reactive protein level
 reduce carbon dioxide in the blood
 reduce carnitine o - palmitoyltransferase level
 reduce cd95 - induced lymphocyte apoptosis
+reduce circulate dopa decarboxylase , activity
 reduce circulate matrix metalloproteinase 2 concentration
 reduce csf 5 - methyltetrahydrofolate concentration
 reduce electroretinogram rod b - wave
@@ -42250,9 +42809,11 @@ reduce factor xiii , subunit b
 reduce fat tissue below the skin
 reduce fibroblast type iii procollagen synthesis
 reduce hair growth in temporal region
+reduce hepatic beta - ureidopropionase activity
 reduce hepatic glycogen debrancher enzyme activity
 reduce hypoxanthine - guanine phosphoribosyltransferase level
 reduce il2ra upregulation upon tcr activation
+reduce in vitro contracture test threshold
 reduce intraepidermal small nerve fiber density
 reduce lamina lucida anchor filament density
 reduce leukocyte alpha - mannosidase activity
@@ -42298,6 +42859,7 @@ reduced c - reactive protein level
 reduced carbon dioxide in the blood
 reduced carnitine o - palmitoyltransferase level
 reduced cd95 - induced lymphocyte apoptosis
+reduced circulating dopa decarboxylase , activity
 reduced circulating matrix metalloproteinase 2 concentration
 reduced csf 5 - methyltetrahydrofolate concentration
 reduced electroretinogram rod b - wave
@@ -42314,9 +42876,11 @@ reduced factor xiii , subunit b
 reduced fat tissue below the skin
 reduced fibroblast type iii procollagen synthesis
 reduced hair growth in temporal region
+reduced hepatic beta - ureidopropionase activity
 reduced hepatic glycogen debrancher enzyme activity
 reduced hypoxanthine - guanine phosphoribosyltransferase level
 reduced il2ra upregulation upon tcr activation
+reduced in vitro contracture test threshold
 reduced intraepidermal small nerve fiber density
 reduced lamina lucida anchoring filament density
 reduced leukocyte alpha - mannosidase activity
@@ -42395,13 +42959,17 @@ restrictive deficit on pulmonary function tests
 reticulate pigmentation of oral mucous membrane
 retinal dystrophy with early macular involvement
 retinopathy of prematurity pre - plus
+rhythmic movement of the tympanic membrane
+rhythmic movements of the tympanic membrane
 right - to - left shunt
 round epiphyses of the upper limbs
 round epiphysis of the upper limb
+rubella antibody titer high in blood
 s - adenosylmethionine high in blood
 s - sulfocysteine high in blood
 s - sulfocysteine high in urine
 sacralization of the fifth lumbar vertebra
+schistosoma antibody titer high in blood
 sclerosis of bone of the foot
 sclerosis of bones of the feet
 sclerotic humeral metaphysis with longitudinal striation
@@ -42557,10 +43125,13 @@ smoker - inclusion in alveolar macrophage
 smoker - inclusions in alveolar macrophages
 smooth septal thicken on pulmonary hrct
 smooth septal thickening on pulmonary hrct
+snowstorm pattern of uterus on ultrasound
 soft tissue swelling of hinge joint
 soft tissue swelling of hinge joints
 soft tissue swelling of interphalangeal joint
 soft tissue swelling of interphalangeal joints
+solid tissue pass by the vagina
+solid tissue passed by the vagina
 solitary median maxillary central incisor syndrome
 sonographic non - visualized fetal bladder
 specific anti - polysaccharide antibody deficiency
@@ -42585,6 +43156,7 @@ spinocerebellar tract disease in low limb
 spinocerebellar tract disease in lower limbs
 spinous keratoses of palm and sol
 spinous keratoses of palms and soles
+splenic lipid - laden macrophage infiltration
 spurred metaphyses of the upper limb
 spurred metaphyses of the upper limbs
 squamous cell carcinoma of the pancreas
@@ -42704,6 +43276,8 @@ too much calcium deposit in kidney
 too much calcium deposited in kidneys
 tooth with dentin dysplasia type i
 total absence von willebrand factor multimers
+tract under skin draining associate abscess
+tract under skin draining associated abscess
 tragal bridge of crus of helix
 transient decrease in blood erythrocyte number
 transitional cell carcinoma of the bladder
@@ -42815,6 +43389,8 @@ underdevelopment of condylar process of mandible
 underdevelopment of the primary palate bone
 unequal size of red blood cell
 unequal size of red blood cells
+unesterified cholesterol accumulation in cultured fibroblast
+unesterified cholesterol accumulation in cultured fibroblasts
 unilateral absence of pectoralis major muscle
 unilateral aplasia of pectoralis major muscle
 unilateral hypoplasia of pectoralis major muscle
@@ -42826,6 +43402,7 @@ upper respiratory tract infections , recurrent
 uric acid urolithiasis independent of gout
 vacuolization of bone marrow myeloid precursor
 vacuolization of bone marrow myeloid precursors
+vaginal passage of hydatidiform mole tissue
 varicella zoster virus infection after vaccination
 vascular remnant arise from the disc
 vascular remnant arising from the disc
@@ -42931,6 +43508,7 @@ wrist bone / ankle bone fusions
 2 - methylcitric acid high in urine
 2nd - 5th toe middle phalangeal hypoplasia
 3 - hydroxyglutaric acid high in urine
+3 - hydroxyisobutyryl - coa hydrolase deficiency
 3 - hydroxypropionic acid high in urine
 4 - hydroxyisovaleric acid present in urine
 5 - minute apgar score of 0
@@ -43382,6 +43960,7 @@ all organs on wrong side of body
 almond - shape open between the eyelid
 almond - shaped opening between the eyelids
 alpha - oxoadipic acid high in blood
+alpha - oxoadipic acid high in urine
 amyloidosis within arcuate arterial intima / media
 amyloidosis within arcuate arterial intima / medium
 amyloidosis within arcuate vein intima / media
@@ -43404,6 +43983,7 @@ anterior wedging of the 11th thoracic vertebra
 anterior wedging of the 12th thoracic vertebra
 anti - 21 - hydroxylase antibody positivity
 anti - annexin - v antibody positivity
+anti - babesia - specific antibody positivity
 anti - carbonic anhydrase ii antibody positivity
 anti - carbonic anhydrase vi antibody positivity
 anti - cenp - a antibody positivity
@@ -43458,6 +44038,7 @@ anti - pm - scl antibody positivity
 anti - pm - scl100 antibody positivity
 anti - pm - scl75 antibody positivity
 anti - pm / scl antibody positivity
+anti - powassan encephalitis virus antibody positivity
 anti - protein kinase c gamma antibody
 anti - purkinje cell cytoplasmic antibody 1
 anti - ro / ssa antibody positivity
@@ -43467,9 +44048,13 @@ anti - scl - 34 antibody positivity
 anti - scl - 70 antibody positivity
 anti - signal recognition particle antibody positivity
 anti - th / to antibody positivity
+anti - thsd7a antibody present in blood
 anti - tif - 1gamma antibody positivity
 anti - tif1 - gamma antibody positivity
 anti - u1 - rnp antibody positivity
+anti - varicella - zoster antibody positivity
+anti - west nile virus antibody positivity
+anti - zikavirus - specific antibody positivity
 anti - zinc transporter 8 antibody positivity
 antigen - specific t cell proliferation defect
 aplasia / hypoplasia involve the carpal bone
@@ -43588,6 +44173,7 @@ atrophy of one side of the face
 avascular necrosis of the capital femoral epiphysis
 avoidance of stimuli associated with traumatic event
 avoidance of stimulus associate with traumatic event
+bartonella henselae antibody titer high in blood
 beaking of vertebral bodies t12 - l3
 beaking of vertebral body t12 - l3
 benign neoplasm of the central nervous system
@@ -43716,6 +44302,7 @@ bullet - shaped phalanx of the hand
 bullet - shaped phalanx of the thumb
 bullet - shaped phalanx of the toe
 bullet - shaped proximal phalanges of toe
+calcification of the interosseous membrane of leg
 calcium buildup in soft tissue of body
 calcium buildup in soft tissues of body
 cancer start in small tube in kidney
@@ -44154,6 +44741,7 @@ elevate circulate 4 - hydroxyphenylacetic acid concentration
 elevate circulate alpha - aminoadipic semialdehyde concentration
 elevate circulate alpha - aminobutyric acid concentration
 elevate circulate alpha - oxoadipic acid concentration
+elevate circulate angiotensin - convert enzyme concentration
 elevate circulate apolipoprotein a - ii concentration
 elevate circulate apolipoprotein a - iv concentration
 elevate circulate apolipoprotein c - iii concentration
@@ -44176,6 +44764,7 @@ elevate circulate pancreatic secretory trypsin inhibitor activity
 elevate circulate s - adenosyl methionine concentration
 elevate circulate short - chain acylcarnitine concentration
 elevate circulate thyroid - stimulate hormone concentration
+elevate circulate tumor necrosis factor alpha concentration
 elevate circulating cartilage oligomeric matrix protein concentration
 elevate circulating sialylated lewis a antigen concentration
 elevate csf 4 - hydroxybutyric acid concentration
@@ -44185,6 +44774,7 @@ elevate csf glial fibrillary acidic protein concentration
 elevate csf glial fibrillary acidic protein level
 elevate forced expiratory volume in one second
 elevate leave ventricular end - diastolic diameter
+elevate methylhex - dienedioic level by mr
 elevate n , n - dimethylglycine level
 elevate phospho - creatine kinase after exercise
 elevate plasma glutarylcarnitine , c5 - dc
@@ -44195,6 +44785,7 @@ elevate proportion of naive cd8 t cell
 elevate proportion of unswitched memory b cell
 elevate serum long - chain fatty acid
 elevate tissue non - specific alkaline phosphatase
+elevate urinary 2 ' - deoxyadenosine level
 elevate urinary n - acetylaspartic acid level
 elevate urinary tamm - horsfall protein concentration
 elevate urine 2 - methylacetoacetic acid level
@@ -44212,6 +44803,7 @@ elevated circulating 4 - hydroxyphenylacetic acid concentration
 elevated circulating alpha - aminoadipic semialdehyde concentration
 elevated circulating alpha - aminobutyric acid concentration
 elevated circulating alpha - oxoadipic acid concentration
+elevated circulating angiotensin - converting enzyme concentration
 elevated circulating apolipoprotein a - ii concentration
 elevated circulating apolipoprotein a - iv concentration
 elevated circulating apolipoprotein c - iii concentration
@@ -44235,6 +44827,7 @@ elevated circulating s - adenosyl methionine concentration
 elevated circulating short - chain acylcarnitine concentration
 elevated circulating sialylated lewis a antigen concentration
 elevated circulating thyroid - stimulating hormone concentration
+elevated circulating tumor necrosis factor alpha concentration
 elevated csf 4 - hydroxybutyric acid concentration
 elevated csf angiotensin - converting enzyme concentration
 elevated csf gamma - aminobutyric acid concentration
@@ -44242,6 +44835,7 @@ elevated csf glial fibrillary acidic protein concentration
 elevated csf glial fibrillary acidic protein level
 elevated forced expiratory volume in one second
 elevated left ventricular end - diastolic diameter
+elevated methylhex - dienedioic level by mrs
 elevated n , n - dimethylglycine level
 elevated phospho - creatine kinase after exercise
 elevated plasma glutarylcarnitine , c5 - dc
@@ -44252,6 +44846,7 @@ elevated proportion of naive cd8 t cells
 elevated proportion of unswitched memory b cells
 elevated serum long - chain fatty acids
 elevated tissue non - specific alkaline phosphatase
+elevated urinary 2 ' - deoxyadenosine level
 elevated urinary n - acetylaspartic acid level
 elevated urinary tamm - horsfall protein concentration
 elevated urine 2 - methylacetoacetic acid level
@@ -44595,6 +45190,7 @@ hyposegmentation of neutrophil nucleus in cerebrospinal fluid
 hyposegmentation of neutrophil nucleus in peripheral blood
 hypothalamic luteinizing hormone - release hormone deficiency
 hypothalamic luteinizing hormone - releasing hormone deficiency
+iappropriately low concentration of beta - hydroxybutyrate
 idiopathic constriction of the fetal ductus arteriosus
 idiopathic constriction of the foetal ductus arteriosus
 idiopathic cutaneous hyperchromia at the orbital region
@@ -44939,6 +45535,8 @@ lip pit at corner of the mouth
 lip pits at corners of the mouth
 lipid - laden macrophage in bronchoalveolar fluid
 lipid - laden macrophages in bronchoalveolar fluid
+liver biopsy : lipid - laden macrophage
+liver biopsy : lipid - laden macrophages
 liver kidney microsome type 1 antibody positivity
 long chain 3 hydroxyacyl coa dehydrogenase deficiency
 long hair grow from helix of ear
@@ -45124,10 +45722,15 @@ plantar crease between first and second toe
 plantar crease between first and second toes
 plaque build - up in aorta artery
 plaque build - up in cerebral artery
+positive bloodstream parasite - specific antibody positivity
+positive bloodstream pathogen - specific antibody positivity
+positive bloodstream virus - specific antibody positivity
+positive glucose or lactulose hydrogen breath test
 positive neisseria gonorrhoeae urine nucleic acid test
 positive urine infectious agent nucleid acid test
 post - vaccination varicella zoster virus infection
 posterior fossa cyst at the fourth ventricle
+powassan encephalitis antibody titer high in blood
 premature fusion of the radial epiphyseal plate
 premature fusion of the radial epiphyseal plates
 premature plaque build - up in arteries
@@ -45166,7 +45769,10 @@ reduce , decline or lessen social interaction
 reduce / lack of hair on scalp
 reduce alpha - 2 - antiplasmin activity
 reduce antigen - specific t cell proliferation
+reduce circulate 5 - hydroxytryptophan decarboxylase activity
+reduce circulate acyl - coa oxidase activity
 reduce circulate c - reactive protein concecntration
+reduce circulate cortisol - binding globulin concentration
 reduce contraction of the left ventricular apex
 reduce erg amplitude of b - wave
 reduce fetal femur / foot length ratio
@@ -45176,6 +45782,7 @@ reduce growth - hormone bind protein level
 reduce hepatic alanine - glyoxylate aminotransferase activity
 reduce hepatic cystathionine gamma - lyase activity
 reduce hepatic d - glycerate kinase activity
+reduce hepatic n - acetylglutamate synthase activity
 reduce holocarboxylase synthetase activity in cultured fibroblast
 reduce insulin - like factor 3 level
 reduce leukocyte n - sulfoglucosamine sulfohydrolase activity
@@ -45184,6 +45791,7 @@ reduce level of n - acetylglucosaminyltransferase ii
 reduce muscle fiber lamin a / c
 reduce muscle fibre lamin a / c
 reduce peroxisomal glutaryl - coa oxidase activity
+reduce phosphoserine phosphatase activity in cultured fibroblast
 reduce proportion of cd4 - positive cell
 reduce proportion of cd4+ central memory cell
 reduce proportion of cd4+cd25+ regulatory t cell
@@ -45199,7 +45807,10 @@ reduced , declined or lessened social interactions
 reduced / lack of hair on scalp
 reduced alpha - 2 - antiplasmin activity
 reduced antigen - specific t cell proliferation
+reduced circulating 5 - hydroxytryptophan decarboxylase activity
+reduced circulating acyl - coa oxidase activity
 reduced circulating c - reactive protein concecntration
+reduced circulating cortisol - binding globulin concentration
 reduced contraction of the left ventricular apex
 reduced erg amplitude of b - wave
 reduced fetal femur / foot length ratio
@@ -45209,6 +45820,7 @@ reduced growth - hormone binding protein level
 reduced hepatic alanine - glyoxylate aminotransferase activity
 reduced hepatic cystathionine gamma - lyase activity
 reduced hepatic d - glycerate kinase activity
+reduced hepatic n - acetylglutamate synthase activity
 reduced holocarboxylase synthetase activity in cultured fibroblasts
 reduced insulin - like factor 3 level
 reduced leukocyte n - sulfoglucosamine sulfohydrolase activity
@@ -45217,6 +45829,7 @@ reduced level of n - acetylglucosaminyltransferase ii
 reduced muscle fiber lamin a / c
 reduced muscle fibre lamin a / c
 reduced peroxisomal glutaryl - coa oxidase activity
+reduced phosphoserine phosphatase activity in cultured fibroblasts
 reduced proportion of cd4 - positive cells
 reduced proportion of cd4+ central memory cells
 reduced proportion of cd4+cd25+ regulatory t cells
@@ -45414,6 +46027,8 @@ speckled calcification in end part of bone
 speckled calcifications in end part of bone
 spider vein of mucous membrane of nose
 spider veins of mucous membrane of nose
+spleen biopsy : lipid - laden macrophage
+spleen biopsy : lipid - laden macrophages
 spur wide portion of upper limb bone
 spurred wide portion of upper limb bone
 stippling of the epiphyses of the fingers
@@ -45434,6 +46049,8 @@ subepithelial glomerular basement membrane electron dense deposits
 submucous cleft of soft and hard palate
 sunken or indent skin due to damage
 sunken or indented skin due to damage
+superficial blush - like subcutaneous fatty lesion
+superficial blush - like subcutaneous fatty lesions
 supraventricular tachycardia with a concealed accessory connection
 supraventricular tachycardia with a concealed accessory connexion
 supraventricular tachycardia with a manifest accessory pathway
@@ -46024,6 +46641,8 @@ accumulation of muscle fibre valosin - containing protein
 acro - osteolysis of terminal index finger phalanx
 adenosine triphosphate ( atp ) high in erythrocyte
 adenosine triphosphate ( atp ) high in erythrocytes
+alpha - aminoadipic semialdehyde synthase low in fibroblast
+alpha - aminoadipic semialdehyde synthase low in fibroblasts
 anaemia correct by uridylic acid and cytidylic acid
 anaemia corrected by uridylic acid and cytidylic acid
 anemia correct by uridylic acid and cytidylic acid
@@ -46041,6 +46660,7 @@ anti - alanyl - trna synthetase antibody positivity
 anti - aminoacyl - trna synthetase antibody positivity
 anti - asparaginyl - trna synthetase antibody positivity
 anti - beta 2 glycoprotein i antibody positivity
+anti - chlamydia trachomatis - specific antibody positivity
 anti - fibroblast growth factor receptor 3 antibody
 anti - gaba ( a ) r antibody
 anti - gaba ( b ) r antibody
@@ -46122,6 +46742,7 @@ aplasia of the proximal phalanx of the toe
 aplasia of the pyramid of the medulla oblongata
 aplasia of the pyramids of the medulla oblongata
 arcuate vein intimal / medial storage material accumulation
+asymmetric thickening of the nipple - areolar complex
 asymmetrical distribution of pattern reversal visual evoke potential
 asymmetrical distribution of pattern reversal visual evoked potentials
 asymmetrical insertion of the midpiece into the head
@@ -46512,6 +47133,7 @@ electrical status epilepticus during slow - wave sleep
 elevate amniotic fluid alpha - 1 - fetoprotein
 elevate brain creatine level by magnetic resonance spectroscopy
 elevate brain gamma - aminobutyric acid by mr
+elevate circulate 3 - hydroxybutyryl - carnitine concentration
 elevate circulate 3 - oh - palmitoleylcarnitine concentration
 elevate circulate alpha - l - fucosidase activity
 elevate circulate beta - 2 - microglobulin level
@@ -46532,6 +47154,7 @@ elevate urinary non - proteinogenic amino acid level
 elevated amniotic fluid alpha - 1 - fetoprotein
 elevated brain creatine level by magnetic resonance spectroscopy
 elevated brain gamma - aminobutyric acid by mrs
+elevated circulating 3 - hydroxybutyryl - carnitine concentration
 elevated circulating 3 - oh - palmitoleylcarnitine concentration
 elevated circulating alpha - l - fucosidase activity
 elevated circulating beta - 2 - microglobulin level
@@ -46621,6 +47244,8 @@ failure of development of primary mandibular lateral incisor
 failure of development of primary maxillary central incisor
 failure of development of primary maxillary lateral incisor
 failure of development of the primary palate bone
+failure to increase oxygen saturation on hyperoxia test
+failure to offer information to initiate social interaction
 failure to thrive in first year of life
 favorable response of weakness to acetylcholine esterase inhibitor
 favorable response of weakness to acetylcholine esterase inhibitors
@@ -46755,6 +47380,8 @@ fusion involving the 5th long bone of hand
 fusion involving the bones of the lower limbs
 fusion of the long bone of the foot
 fusion of the long bones of the feet
+gamma - glutamyl cysteine synthetase low in erythrocyte
+gamma - glutamyl cysteine synthetase low in erythrocytes
 gap between large left and right abdominal muscle
 gap between large left and right abdominal muscles
 generalise non - convulsive status epilepticus without coma
@@ -47031,6 +47658,7 @@ liquefactive necrosis within interlobular arterial intima / media
 liquefactive necrosis within interlobular arterial intima / medium
 liquefactive necrosis within interlobular vein intima / media
 liquefactive necrosis within interlobular vein intima / medium
+liver biopsy : beta - ureidopropionase activity low
 loss of ability to walk in early childhood
 loss of ability to walk in first decade
 loss of purkinje cell in the cerebellar vermis
@@ -47043,6 +47671,7 @@ low number of red blood cell or hemoglobin
 low number of red blood cells or haemoglobin
 low number of red blood cells or hemoglobin
 low urinary cyclic amp response to pth administration
+lymphocytic choriomeningitis virus antibody titer high in blood
 lytic defect in metaphyses of the upper limb
 lytic defect of terminal phalanx of middle finger
 lytic defects in metaphyses of the upper limbs
@@ -47183,6 +47812,7 @@ phenylephrine do not induce blanching of eye redness
 phenylephrine does not induce blanching of eye redness
 photically induce myoclonic - tonic - clonic seizure
 photically induced myoclonic - tonic - clonic seizure
+positive microfilaria pcr test in the blood circulation
 pre - b - cell acute lymphoblastic leukaemia
 pre - b - cell acute lymphoblastic leukemia
 premature birth follow premature rupture of fetal membrane
@@ -47230,15 +47860,21 @@ reduce beta - mannosidase activity in cultured fibroblast
 reduce brain choline level by magnetic resonance spectroscopy
 reduce brain creatine level by magnetic resonance spectroscopy
 reduce brain lactate level by magnetic resonance spectroscopy
+reduce circulate alpha - 1 - antitrypsin concentration
 reduce circulate alpha - l - fucosidase activity
 reduce circulate beta - 2 - microglobulin level
 reduce epidermal bullous pemphigoid antigen 1 protein expression
 reduce epidermal extracellular matrix protein 1 protein expression
+reduce erythrocyte gamma - glutamyl cysteine synthetase activity
 reduce hepatic fructose - 1,6 - bisphosphatase activity
+reduce hepatic glucose - 6 - phosphatase activity
 reduce isovaleryl coa dehydrogenase activity in cultured fibroblast
 reduce leukocyte alpha - l - fucosidase activity
+reduce methylmalonate semialdehyde dehydrogenase activity in cultured fibroblast
+reduce muscle alpha - 1,4 - glucosidase activity
 reduce muscle laminin alpha - 2 chain staining
 reduce orotidine 5 - prime phosphate decarboxylase level
+reduce phytanic acid oxidase activity in cultured fibroblast
 reduce proportion of cd4+ effector memory t cell
 reduce proportion of gamma - delta t cell
 reduce ration of renal ca2+ to creatinine clearance
@@ -47247,15 +47883,21 @@ reduced beta - mannosidase activity in cultured fibroblasts
 reduced brain choline level by magnetic resonance spectroscopy
 reduced brain creatine level by magnetic resonance spectroscopy
 reduced brain lactate level by magnetic resonance spectroscopy
+reduced circulating alpha - 1 - antitrypsin concentration
 reduced circulating alpha - l - fucosidase activity
 reduced circulating beta - 2 - microglobulin level
 reduced epidermal bullous pemphigoid antigen 1 protein expression
 reduced epidermal extracellular matrix protein 1 protein expression
+reduced erythrocyte gamma - glutamyl cysteine synthetase activity
 reduced hepatic fructose - 1,6 - bisphosphatase activity
+reduced hepatic glucose - 6 - phosphatase activity
 reduced isovaleryl coa dehydrogenase activity in cultured fibroblasts
 reduced leukocyte alpha - l - fucosidase activity
+reduced methylmalonate semialdehyde dehydrogenase activity in cultured fibroblasts
+reduced muscle alpha - 1,4 - glucosidase activity
 reduced muscle laminin alpha - 2 chain staining
 reduced orotidine 5 - prime phosphate decarboxylase level
+reduced phytanic acid oxidase activity in cultured fibroblasts
 reduced proportion of cd4+ effector memory t cells
 reduced proportion of gamma - delta t cells
 reduced ration of renal ca2+ to creatinine clearance
@@ -47453,6 +48095,7 @@ thickening of the lateral border of the scapula
 thinning and bulging of occipital bone of skull
 thinning and bulging of the posterior fossa bone
 thinning and bulging of the posterior fossa bones
+thinning of outer muscular layer of small bowel
 thyroid defect in oxidation and organification of iodide
 triangular end part of the 2nd toe bone
 triangular end part of the 3rd toe bone
@@ -47546,6 +48189,7 @@ univentricular heart with absent left sided atrioventricular connexion
 upward slanting of the opening between the eyelid
 upward slanting of the opening between the eyelids
 use of another person 's body to communicate
+varicella - zoster antibody titer high in blood
 wasting of the out part of the retina
 wasting of the outer part of the retina
 white mater abnormalities in the posterior periventricular region
@@ -47750,7 +48394,9 @@ accumulation of lipid droplets in small - bowel enterocytes
 acute vesiculation and crusting and scar follow sun exposure
 acute vesiculation and crusting and scarring following sun exposure
 amplified socializing , enhance social interaction , overattentive behavior
+amplified socializing , enhance social interaction , overattentive behaviour
 amplified socializing , enhanced social interactions , overattentive behavior
+amplified socializing , enhanced social interactions , overattentive behaviour
 anaemia due to reduced life span of red cell
 anaemia due to reduced life span of red cells
 anemia due to reduced life span of red cell
@@ -47775,6 +48421,7 @@ anti - collapsin response - mediated protein 5 antibody
 anti - contactin - associate protein 1 antibody positivity
 anti - contactin - associated protein 1 antibody positivity
 anti - gamma - aminobutyric acid b receptor antibody
+anti - japanese encephalitis virus - specific antibody positivity
 anti - la / ss - b antibody positivity
 anti - liver cytosolic antigen type 1 antibody positivity
 anti - liver kidney microsomal type 1 antibody positivity
@@ -48088,6 +48735,8 @@ delayed maturation / delayed ossification of the humeral epiphyses
 delayed maturation of the head of the thigh bone
 diffusion weight magnetic resonance imaging ( dwi ) abnormality
 diffusion weighted magnetic resonance imaging ( dwi ) abnormality
+diminish prolactin response to thyrotrophin - release hormone stimulation
+diminished prolactin response to thyrotrophin - releasing hormone stimulation
 distal amyotrophy , especially of the hand and foot
 distal amyotrophy , especially of the hands and feet
 dorv with non - commit vsd and pulmonary stenosis
@@ -48157,12 +48806,14 @@ elevate alkaline phosphatase , liver / bone / kidney
 elevate brain n - acetyl aspartate level by mr
 elevate circulate interleukin - 2 receptor alpha - chain
 elevate circulate piperideine - 6 - carboxylic acid concentration
+elevate csf d - 2 - hydroxyglutaric acid concentration
 elevate imprint of occipital bone over the transverse sinus
 elevate proportion of immature gamma - delta t cell
 elevated alkaline phosphatase , liver / bone / kidney
 elevated brain n - acetyl aspartate level by mrs
 elevated circulating interleukin - 2 receptor alpha - chain
 elevated circulating piperideine - 6 - carboxylic acid concentration
+elevated csf d - 2 - hydroxyglutaric acid concentration
 elevated imprint of occipital bone over the transverse sinuses
 elevated proportion of immature gamma - delta t cells
 endoarterial hypercellularity within arcuate artery consisting of foam cell
@@ -48355,6 +49006,7 @@ increase prothrombin induce by vitamin k absence - ii
 increase serum bile acid concentration during pregnancy , resolve
 increase sulfur - contain amino acid level in urine
 increase urinary 8 - oxo - 7,8 - dihydroguanosine
+increase urinary n - acetylglucosamine - rich oligosaccharide level
 increase urine 8 - oxo - 7,8 - dihydroguanosine
 increased anti - alpha - gal ige antibody level
 increased anti - house dust mite ige antibody level
@@ -48400,6 +49052,7 @@ increased prothrombin induced by vitamin k absence - ii
 increased serum bile acid concentration during pregnancy , resolves
 increased sulfur - containing amino acid level in urine
 increased urinary 8 - oxo - 7,8 - dihydroguanosine
+increased urinary n - acetylglucosamine - rich oligosaccharide level
 increased urine 8 - oxo - 7,8 - dihydroguanosine
 inflammation of the outer white part of the eye
 instability or lack of coordination of central trunk muscle
@@ -48486,6 +49139,7 @@ neurogenic muscle atrophy , especially in the lower limbs
 neuronal / glioneuronal neoplasm of the central nervous system
 not able to finish a normal - size meal
 not able to finish a normal - sized meal
+oil - drop brown pigmentation of the corneal limbus
 only one artery in umbilical cord instead of two
 orotidine - 5 - prime - phosphate decarboxylase defect
 osteolytic defect of the distal phalanx of the hallux
@@ -48641,16 +49295,23 @@ pseudoepiphysis of the proximal phalanx of the 4th finger
 pseudoepiphysis of the proximal phalanx of the 4th toe
 pseudoepiphysis of the proximal phalanx of the 5th finger
 pseudoepiphysis of the proximal phalanx of the 5th toe
+pyridoxal - 5 ' - phosphate low in csf
 reduce 17 - beta - hydroxysteroid dehydrogenase 4 activity
 reduce attempt to get or direct another 's attention
 reduce attempt to get or direct attention of peer
 reduce bone - marrow pro - b cell count
 reduce brain gamma - aminobutyric acid level by mr
 reduce brain n - acetyl aspartate level by mr
+reduce circulate 3 - hydroxyisobutyryl - coa hydrolase activity
 reduce circulate 3 - ketoacyl - coa thiolase concentration
+reduce circulate aromatic l - amino acid decarboxylase activity
 reduce circulate complement factor h related protein 1 concentration
+reduce circulate pyrimidine 5 - prime - nucleotidase activity
+reduce csf pyridoxal - 5 ' - phosphate concentration
 reduce erythrocyte galactose - 1 - phosphate uridylyltransferase activity
 reduce hepatic fructose - 1,6 - phosphate aldolase activity
+reduce hepatic glucose - 6 - phosphate translocase activity
+reduce hmg - coa lyase activity in cultured fibroblast
 reduce level of platelet glycoprotein iib / iiia complex
 reduce liver 2,4 - dienoyl - coa reductase activity
 reduce muscle 2,4 - dienoyl - coa reductase activity
@@ -48668,10 +49329,16 @@ reduced attempt to get or direct attention of peers
 reduced bone - marrow pro - b cell count
 reduced brain gamma - aminobutyric acid level by mrs
 reduced brain n - acetyl aspartate level by mrs
+reduced circulating 3 - hydroxyisobutyryl - coa hydrolase activity
 reduced circulating 3 - ketoacyl - coa thiolase concentration
+reduced circulating aromatic l - amino acid decarboxylase activity
 reduced circulating complement factor h related protein 1 concentration
+reduced circulating pyrimidine 5 - prime - nucleotidase activity
+reduced csf pyridoxal - 5 ' - phosphate concentration
 reduced erythrocyte galactose - 1 - phosphate uridylyltransferase activity
 reduced hepatic fructose - 1,6 - phosphate aldolase activity
+reduced hepatic glucose - 6 - phosphate translocase activity
+reduced hmg - coa lyase activity in cultured fibroblasts
 reduced level of platelet glycoprotein iib / iiia complex
 reduced liver 2,4 - dienoyl - coa reductase activity
 reduced muscle 2,4 - dienoyl - coa reductase activity
@@ -48866,6 +49533,8 @@ wide shaft of long bone of the upper limbs
 wider - than - typical soft spot of skull
 yellow subcutaneous tissue cover by thin , scaly skin
 yellow subcutaneous tissue covered by thin , scaly skin
+2 ' - deoxyadenosine ( dado ) elevate in urine
+2 ' - deoxyadenosine ( dado ) elevated in urine
 3 - ketoacyl - coa thiolase ( thio ) deficiency
 abnormal amplitude of pattern onset / offset visual evoked potential
 abnormal amplitude of pattern onset / offset visual evoked potentials
@@ -48979,7 +49648,9 @@ absent tsh response to thyrotrophin - releasing hormone stimulation test
 accentuation of the pulmonic component of the second heart sound
 alter location of the longitudinal column in the fibrous sheath
 altered location of the longitudinal column in the fibrous sheath
+angiotensin - convert enzyme ( ace ) high in blood
 angiotensin - convert enzyme ( ace ) high in csf
+angiotensin - converting enzyme ( ace ) high in blood
 angiotensin - converting enzyme ( ace ) high in csf
 anomalous insertion of papillary muscle directly into anterior mitral leaflet
 anomalous origin of left coronary artery from the pulmonary artery
@@ -48994,6 +49665,7 @@ anti - dopamine - 2 receptor ( d2r ) antibody
 anti - dopamine - 2 receptors ( d2r ) antibody
 anti - endothelin - 1 type a receptor antibody positivity
 anti - epidermal transglutaminase ( anti - etg ) antibody
+anti - epstein - barr virus - specific antibody positivity
 anti - gamma amino butyric acid type a receptor antibody
 anti - gamma amino butyric acid type a receptors antibody
 anti - granulocyte - macrophage colony stimulate factor antibody positivity
@@ -49002,7 +49674,9 @@ anti - immunoglobulin - like cell adhesion molecule 5 antibody
 anti - inositol 1,4,5 - trisphosphate receptor type 1 antibody
 anti - p / q - type vgcc antibody positivity
 anti - rna - polymerase - iii - autoantibody positivity
+anti - sars - cov - 2 coronavirus antibody positivity
 anti - sj / inositol 1,4,5 - trisphosphate receptor antibody
+anti - soluble liver antigen / liver pancreas antibody positivity
 anti - sumo - activate enzyme subunit 1 antibody positivity
 anti - sumo - activate enzyme subunit 2 antibody positivity
 anti - sumo - activating enzyme subunit 1 antibody positivity
@@ -49212,6 +49886,7 @@ criss - cross atrioventricular valve with superior - inferior ventricle
 criss - cross atrioventricular valves with superior - inferior ventricles
 damage to outer layer of the cornea of the eye
 death of digestive organ tissue due to poor blood supply
+decrease circulate nicotinamide adenine dinucleotide - cytochrome b5 reductase activity
 decrease glucose - 6 - phosphate dehydrogenase level in blood
 decrease glucose - 6 - phosphate dehydrogenase level in db
 decrease glucose - 6 - phosphate dehydrogenase level in leukocyte
@@ -49227,6 +49902,7 @@ decrease tubular maximum for phosphate reabsorption per glomerular filtration ra
 decrease udp - glucose 4 - epimerase level in plasma
 decrease udp - glucose 4 - epimerase level in rbc
 decrease urinary lysyl - pyridinoline - hydroxylysyl - pyridinoline ratio
+decreased circulating nicotinamide adenine dinucleotide - cytochrome b5 reductase activity
 decreased glucose - 6 - phosphate dehydrogenase level in blood
 decreased glucose - 6 - phosphate dehydrogenase level in dbs
 decreased glucose - 6 - phosphate dehydrogenase level in leukocytes
@@ -49263,20 +49939,26 @@ diminished integration of verbal and non - verbal communicative behavior
 disproportionate short - trunk short stature , identifiable in childhood
 double outlet right ventricle , doubly commit ventricular septal defect
 double outlet right ventricle , doubly committed ventricular septal defect
+elevate circulate granulocyte - macrophage colony - stimulating factor concentration
 elevate circulate n - carbamyl - beta - alanine concentration
 elevate circulate s - adenosyl - l - homocysteine concentration
 elevate circulate s - adenosyl - l - methionine concentration
+elevate csf 5 - amino - 4 - imidazolecarboxyamide concentration
 elevate csf chitinase - 3 - like protein 1 concentration
 elevate csf chitinase - 3 - like protein 1 level
+elevate csf n - carbamyl - beta - alanine concentration
 elevate imprint of posterior skull bone over the transverse sinus
 elevate level of neutrophil in broncho - alveolar lavage fluid
 elevate serum level of free thyroid hormone with nonsuppressed tsh
 elevate urine 3,5,6 - trichloro - 2 - pyridinol level
+elevated circulating granulocyte - macrophage colony - stimulating factor concentration
 elevated circulating n - carbamyl - beta - alanine concentration
 elevated circulating s - adenosyl - l - homocysteine concentration
 elevated circulating s - adenosyl - l - methionine concentration
+elevated csf 5 - amino - 4 - imidazolecarboxyamide concentration
 elevated csf chitinase - 3 - like protein 1 concentration
 elevated csf chitinase - 3 - like protein 1 level
+elevated csf n - carbamyl - beta - alanine concentration
 elevated imprint of posterior skull bones over the transverse sinuses
 elevated level of neutrophils in broncho - alveolar lavage fluid
 elevated serum levels of free thyroid hormone with nonsuppressed tsh
@@ -49528,6 +50210,7 @@ muscle biopsy : fingerprint bodies at periphery of muscle fibers
 muscle biopsy : fingerprint bodies at periphery of muscle fibres
 muscle biopsy : fingerprint body at periphery of muscle fiber
 muscle biopsy : fingerprint body at periphery of muscle fibre
+n - carbamyl - beta - alanine high in csf
 normal density transverse band in metaphyses of the upper limb
 normal density transverse bands in metaphyses of the upper limbs
 osteolytic defect of the distal phalanx of the 2nd finger
@@ -49688,14 +50371,17 @@ patchy sclerosis of the proximal phalanx of the 5th finger
 patchy sclerosis of the proximal phalanx of the 5th toe
 plaque build - up in arteries supplying blood to heart
 plaque build - up in artery supply blood to heart
+positive jc - virus pcr test in the blood circulation
 proximal muscle weakness due to defect at the neuromuscular junction
 pulmonary arterial hypertension with positive acute response to no challenge
 reduce 3 - methylcrotonyl coa carboxylase activity in cultured fibroblast
+reduce alpha - aminoadipic semialdehyde synthase activity in cultured fibroblast
 reduce alpha - n - acetylgalactosaminidase activity in cultured fibroblast
 reduce mitochondrial acetyl - coa acetyltransferase activity in cultured fibroblast
 reduce response to another 's attempt to get direct attention
 reduce tsh response to thyrotrophin - release hormone stimulation test
 reduced 3 - methylcrotonyl coa carboxylase activity in cultured fibroblasts
+reduced alpha - aminoadipic semialdehyde synthase activity in cultured fibroblasts
 reduced alpha - n - acetylgalactosaminidase activity in cultured fibroblasts
 reduced mitochondrial acetyl - coa acetyltransferase activity in cultured fibroblasts
 reduced response to another 's attempt to get direct attention
@@ -49871,6 +50557,8 @@ anomalous origin of the right subclavian artery from the descending aorta
 anti - beta - 2 - glycoprotein i igg antibody positivity
 anti - beta - 2 - glycoprotein i igm antibody positivity
 anti - cytosolic - 5 - nucleotidase - 1a antibody positivity
+anti - thrombospondin type i domain - contain 7a antibody positivity
+anti - thrombospondin type i domain - containing 7a antibody positivity
 aplasia / hypoplasia of the distal phalanx of the 2nd finger
 aplasia / hypoplasia of the distal phalanx of the 2nd toe
 aplasia / hypoplasia of the distal phalanx of the 3rd finger
@@ -49957,6 +50645,7 @@ eeg with spike - wave complexes ( > 3.5 hz )
 elevate brain n - acetyl aspartate level by magnetic resonance spectroscopy
 elevate circulate 3 - methyl - 2 - oxovaleric acid concentration
 elevate circulate 4 - methyl - 2 - oxopentanoic acid concentration
+elevate csf n - carbamyl - beta - aminoisobutyric acid concentration
 elevate plasma 3 - oh - linoleylcarnitine , c18:1 - oh
 elevate plasma 3 - oh - palmitoleylcarnitine , c16:1 - oh
 elevate urine 2 - hydroxy - 3 - methylvaleric acid level
@@ -49965,6 +50654,7 @@ elevate urine 4 - methyl - 2 - oxopentanoic acid level
 elevated brain n - acetyl aspartate level by magnetic resonance spectroscopy
 elevated circulating 3 - methyl - 2 - oxovaleric acid concentration
 elevated circulating 4 - methyl - 2 - oxopentanoic acid concentration
+elevated csf n - carbamyl - beta - aminoisobutyric acid concentration
 elevated plasma 3 - oh - linoleylcarnitine , c18:1 - oh
 elevated plasma 3 - oh - palmitoleylcarnitine , c16:1 - oh
 elevated urine 2 - hydroxy - 3 - methylvaleric acid level
@@ -50186,6 +50876,7 @@ multilamellation ( onion skinning ) within interlobular vein intima / media
 multilamellation ( onion skinning ) within renal arteriole intima / media
 muscle biopsy : 2,4 - dienoyl - coa reductase activity low
 n - carbamyl - beta - aminoisobutyric acid high in blood
+n - carbamyl - beta - aminoisobutyric acid high in csf
 nocturnal sleep - related eating disorder ( ns - red )
 partial / complete duplication of the 1st long bone of hand
 partial / complete duplication of the distal phalanges of the hand
@@ -50219,8 +50910,10 @@ pulmonary arterial hypertension with lack of acute response to no challenge
 radial deviation of the hand or of finger of the hand
 radial deviation of the hand or of fingers of the hand
 reduce acetylglucosamine - 6 - sulfate sulfatase activity in cultured fibroblast
+reduce alpha - methylacyl - coa racemase activity in cultured fibroblast
 reduce brain n - acetyl aspartate level by magnetic resonance spectroscopy
 reduced acetylglucosamine - 6 - sulfate sulfatase activity in cultured fibroblasts
+reduced alpha - methylacyl - coa racemase activity in cultured fibroblasts
 reduced brain n - acetyl aspartate level by magnetic resonance spectroscopy
 reduced insulin like growth factor bind protein acid labile subunit concentration
 reduced insulin like growth factor bind protein acid labile subunit level
@@ -51185,7 +51878,9 @@ focal impair awareness autonomic seizure with epigastric sensation / nausea / vo
 focal impaired awareness autonomic seizure with epigastric sensation / nausea / vomiting / other gastrointestinal phenomena
 increase proportion of naive thymus - derive cd4 - positive , alpha - beta t cell
 increased proportion of naive thymus - derived cd4 - positive , alpha - beta t cells
+reduce 3 - beta - hydroxysteroid - delta - 5 - desaturase activity in cultured fibroblast
 reduce proportion of naive thymus - derive cd8 - positive , alpha - beta t cell
+reduced 3 - beta - hydroxysteroid - delta - 5 - desaturase activity in cultured fibroblasts
 reduced proportion of naive thymus - derived cd8 - positive , alpha - beta t cells
 abnormal proportion of effector memory cd8 - positive , alpha - beta t cell , terminally differentiate
 abnormal proportion of effector memory cd8 - positive , alpha - beta t cells , terminally differentiated
@@ -51193,6 +51888,7 @@ elevate proportion of cd4 - negative , cd8 - negative , alpha - beta regulatory 
 elevated proportion of cd4 - negative , cd8 - negative , alpha - beta regulatory t cells
 increase proportion of effector memory cd8 - positive , alpha - beta t cell , terminally differentiate
 increased proportion of effector memory cd8 - positive , alpha - beta t cells , terminally differentiated
+low tetrahydrocortisol ( thf ) plus 5 - alpha - thf / tetrahydrocortisone ( the ) ratio
 reduce proportion of cd4 - negative , cd8 - negative , alpha - beta regulatory t cell
 reduced proportion of cd4 - negative , cd8 - negative , alpha - beta regulatory t cells
 increased number of cd4 - / cd8 - t cell express alpha / beta t - cell receptor

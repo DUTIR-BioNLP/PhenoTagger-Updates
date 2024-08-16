@@ -452,8 +452,8 @@ def GSCplus_corpus_hponew(prefile,goldfile,subtree=True):
     fin_gold=open(goldfile,'r',encoding='utf-8')
     #fin_alt=open('//panfs/pan1/bionlp/lulab/luoling/HPO_project/bioTag/data/evaluation/alt_hpoid.json','r',encoding='utf-8')
     #fin_subtree=open('//panfs/pan1/bionlp/lulab/luoling/HPO_project/bioTag/data/evaluation/hpo_lable.vocab','r',encoding='utf-8')
-    fin_alt=open('../dict_hponew/alt_hpoid.json','r',encoding='utf-8')
-    fin_subtree=open('../dict_hponew/lable.vocab','r',encoding='utf-8')
+    fin_alt=open('../dicts/dict202402/alt_hpoid.json','r',encoding='utf-8')
+    fin_subtree=open('../dicts/dict202402/lable.vocab','r',encoding='utf-8')
     alt_hpoid=json.load(fin_alt)
     fin_alt.close()
     subtree_list=fin_subtree.read().strip().split('\n')
@@ -500,7 +500,8 @@ def GSCplus_corpus_hponew(prefile,goldfile,subtree=True):
         gold_result[pmid]=temp_result
     doc_f=document_metric(pre_result,gold_result)
     men_f=mention_metric_new(pre_result,gold_result)
-    return doc_f+men_f
+    # return doc_f+men_f
+    return doc_f, men_f
 
 def GSCplus_corpus_sub(subfiles,prefile,goldfile,subtree=True):
     fin_pre=open(prefile,'r',encoding='utf-8')
