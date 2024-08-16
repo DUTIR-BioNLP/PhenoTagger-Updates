@@ -28,7 +28,7 @@ $ pip install -r requirements.txt
 
 <a name="preparation"></a>
 
-1. To run this code, you need to create a model folder named "models" in the PhenoTagger folder, then download the model files ( four trained models for HPO concept recognition are released, i.e., CNN, Bioformer, BioBERT, PubMedBERT) into the model folder.
+1. To run this code, you need to create a model folder named "models" in the PhenoTagger folder, then download the model files ( four trained models for HPO concept recognition are released, i.e., Bioformer, BioBERT, PubMedBERT) into the model folder.
 
    - First download original files of the pre-trained language models (PLMs): [Bioformer](https://huggingface.co/bioformers/bioformer-8L/), [BioBERT](https://huggingface.co/dmis-lab/biobert-base-cased-v1.2), [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext)
 2. The two typo-corpora are provided in */data/ 
@@ -111,7 +111,7 @@ The file requires 4 parameters:
 
 - --trainfile, -t, help="the training file"
 - --devfile, -d, help="the development set file. If don't provide the dev file, the training will be stopped by the specified EPOCH"
-- --modeltype, -m, help="the deep learning model type (cnn, biobert, pubmedbert or bioformer?)"
+- --modeltype, -m, help="the deep learning model type (biobert, pubmedbert or bioformer?)"
 - --output, -o, help="the output folder of the model"
 
 Example:
