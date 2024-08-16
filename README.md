@@ -101,7 +101,7 @@ After the program is finished, 3 files will be generated in the outpath:
 
 ### 3. Training Ontology Vector
 
-The ontology vector was trained using *TransE.py* and *TransR.py*. For the ConvE methods, please refer to [Conve](#https://github.com/TimDettmers/ConvE).
+The ontology vector was trained using *TransE.py* and *TransR.py*. For the ConvE methods, please refer to [Conve](https://github.com/TimDettmers/ConvE).
 
 After training, the vectors were processed using emb_process.py for format handling.
 
