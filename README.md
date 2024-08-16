@@ -11,7 +11,7 @@
 ## Dependency package
 
 <a name="package"></a>
-PhenoTagger has been tested using Python3.9.19 on CentOS and uses the following dependencies on a CPU and GPU:
+Our method has been tested using Python3.9.19 on CentOS and uses the following dependencies on a CPU and GPU:
 
 - [TensorFlow 2.12.0](https://www.tensorflow.org/)
 - [Transformers 4.30.1](https://huggingface.co/docs/transformers/index)
