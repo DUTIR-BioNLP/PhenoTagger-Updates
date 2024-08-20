@@ -11,7 +11,7 @@
 ## Dependency package
 
 <a name="package"></a>
-Our method has been tested using Python3.9.19 on CentOS and uses the following dependencies on a CPU and GPU:
+PhenoTagger has been tested using Python3.9.19 on CentOS and uses the following dependencies on a CPU and GPU:
 
 - [TensorFlow 2.12.0](https://www.tensorflow.org/)
 - [Transformers 4.30.1](https://huggingface.co/docs/transformers/index)
@@ -28,7 +28,7 @@ $ pip install -r requirements.txt
 
 <a name="preparation"></a>
 
-1. To run this code, you need to create a model folder named "models" in the PhenoTagger folder, then download the model files ( three trained models for HPO concept recognition are released, i.e., Bioformer, BioBERT, PubMedBERT) into the model folder.
+1. To run this code, you need to create a model folder named "models" in the PhenoTagger folder, then download the model files ( four trained models for HPO concept recognition are released, i.e., CNN, Bioformer, BioBERT, PubMedBERT) into the model folder.
 
    - First download original files of the pre-trained language models (PLMs): [Bioformer](https://huggingface.co/bioformers/bioformer-8L/), [BioBERT](https://huggingface.co/dmis-lab/biobert-base-cased-v1.2), [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext)
 2. The two typo-corpora are provided in */data/ 
@@ -55,7 +55,24 @@ $ CUDA_VISIBLE_DEVICES=0 python HPO_evaluation.py -m biobert -o ../example/outpu
 
 <a name="training"></a>
 
-### 1. Build the ontology dictionary using the *Build_dict.py* file
+### 1. Make Typo Data for training by using the *Build_typo_train_data.py* file
+
+The file requires 2 parameters:
+
+- --input, -i, help="Input ontology path."
+- --output, -o, help="Output typo_ontology path."
+
+Example:
+
+```
+$ python Build_typo_train_data.py -i ../ontology/hp20240208.obo -o ../ontology/typo_hpo.obo
+```
+
+After the program is finished, 1 file will be generated in the outpath:
+
+- typo_hpo.obo
+
+### 2. Build the ontology dictionary using the *Build_dict.py* file
 
 The file requires 3 parameters:
 
@@ -78,7 +95,7 @@ After the program is finished, 6 files will be generated in the output folder.
 - word\_id\_map.json
 - alt\_hpoid.json
 
-### 2. Build the distant supervised training dataset using the *Build_distant_corpus.py* file
+### 3. Build the distant supervised training dataset using the *Build_distant_corpus.py* file
 
 The file requires 4 parameters:
 
@@ -99,19 +116,26 @@ After the program is finished, 3 files will be generated in the outpath:
 - distant\_train\_pos.conll  (distantly-supervised training positives)
 - distant\_train\_neg.conll  (distantly-supervised training negatives)
 
-### 3. Training Ontology Vector
+### 4. Training Ontology Vector
 
-The ontology vector was trained using *TransE.py* and *TransR.py*. For the ConvE methods, please refer to [Conve](https://github.com/TimDettmers/ConvE).
+The ontology vector was trained using *TransE.py* and *TransR.py*. For the *ConvE* methods, please refer to [https://github.com/TimDettmers/ConvE].
 
-After training, the vectors were processed using emb_process.py for format handling.
+After training, the vectors were processed using *emb_process.py* for format handling.
 
-### 4. Training using the *training.py* file
+Example:
+
+```
+$ python TransE.py
+$ python emb_process.py
+```
+
+### 5. Training using the *training.py* file
 
 The file requires 4 parameters:
 
 - --trainfile, -t, help="the training file"
 - --devfile, -d, help="the development set file. If don't provide the dev file, the training will be stopped by the specified EPOCH"
-- --modeltype, -m, help="the deep learning model type (biobert, pubmedbert or bioformer?)"
+- --modeltype, -m, help="the deep learning model type (cnn, biobert, pubmedbert or bioformer?)"
 - --output, -o, help="the output folder of the model"
 
 Example:
@@ -119,3 +143,4 @@ Example:
 ```
 $ CUDA_VISIBLE_DEVICES=0 python training.py -t ../data/distant_train_data/distant_train.conll -d ../data/corpus/GSC/GSC-2024_dev.tsv -m biobert -o ../models/
 ```
+

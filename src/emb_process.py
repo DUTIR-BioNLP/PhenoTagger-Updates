@@ -23,7 +23,7 @@ for line in allids:
             entity2id[line[1]] = line[0]
 # print(emb[0])
 # print(entity2id)
-fout = open('./emb_2024/transR_512.emb', 'w', encoding='utf-8')
+fout = open('../emb_2024/transR_512.emb', 'w', encoding='utf-8')
 
 all_label = open('./dict/lable.vocab', 'r', encoding='utf-8')
 labels = all_label.read().strip().split('\n')
