@@ -37,19 +37,32 @@ $ pip install -r requirements.txt
 
 <a name="tagging"></a>
 
-You can identify the HPO concepts from biomedical texts by the *HPO_evaluation.py* file.
+You can identify the HPO concepts from biomedical texts by the *tagging.py* file.
 
 
-The file requires 2 parameters:
+The file requires 3 parameters:
 
 - --modeltype, -m, help="the model type (pubmedbert or biobert or bioformer?)"
+- --input, -i, help="the input prediction file"
 - --output, -o, help="output folder to save the tagged results"
 
 Example:
 
 ```
-$ CUDA_VISIBLE_DEVICES=0 python HPO_evaluation.py -m biobert -o ../example/output/
+$ CUDA_VISIBLE_DEVICES=0 python tagging.py -m biobert -i ../data/GSC_2024_test.tsv -o ../results/GSC_2024_test_biobert.tsv
 ```
+
+We also provide some optional parameters for the different requirements of users in the *tagging.py* file.
+
+```
+para_set={
+'onlyLongest':False,  # False: return overlapping concepts; True: only return the longgest concepts in the overlapping concepts
+'abbrRecog':Fasle,   # False: don't identify abbreviation; True: identify abbreviations
+'ML_Threshold':0.95,  # the Threshold of deep learning model
+}
+```
+
+
 
 ## Training
 
