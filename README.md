@@ -58,11 +58,12 @@ We also provide some optional parameters for the different requirements of users
 para_set={
 'onlyLongest':False,  # False: return overlapping concepts; True: only return the longgest concepts in the overlapping concepts
 'abbrRecog':Fasle,   # False: don't identify abbreviation; True: identify abbreviations
+'negation': False, #True:negation detection
 'ML_Threshold':0.95,  # the Threshold of deep learning model
 }
 ```
 
-
+Note: If you use typo data for noise detection after training, we recommend replacing *bioTag()* in the recognition function with *bioTag_ml()*
 
 ## Training
 

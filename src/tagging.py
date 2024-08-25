@@ -7,8 +7,108 @@ import os
 import time
 import json
 import tensorflow as tf
+import bioc
 from embedding_process import embedding_load
 from tqdm import tqdm
+from negbio2.negbio_run import negbio_load, negbio_main
+
+def neg_iden(infile, outfile):
+    # gsc to xml
+    fin = open(infile, 'r', encoding='utf-8')
+    all_in = fin.read().strip().split('\n\n')
+    fin.close()
+    collection = bioc.BioCCollection()
+    for doc in all_in:
+        lines = doc.split('\n')
+        pmid = lines[0]
+        text = lines[1]
+
+        document = bioc.BioCDocument()
+        document.id = pmid
+
+        passage = bioc.BioCPassage()
+        passage.offset = 0
+
+        passage.text = text.strip()
+        document.add_passage(passage)
+
+        mention_num = 0
+        for i in range(2, len(lines)):
+            ele = lines[i].split('\t')
+            bioc_node = bioc.BioCAnnotation()
+            bioc_node.id = str(mention_num)
+            if len(ele) == 1:
+                continue
+            bioc_node.infons['identifier'] = ele[3]
+            bioc_node.infons['type'] = "Phenotype"
+            bioc_node.infons['score'] = ele[4]
+            start = int(ele[0])
+            last = int(ele[1])
+            loc = bioc.BioCLocation(offset=str(passage.offset+start), length= str(last-start))
+            bioc_node.locations.append(loc)
+            bioc_node.text = passage.text[start:last]
+            passage.annotations.append(bioc_node)
+            mention_num += 1
+        collection.add_document(document)
+    with open(outfile, 'w') as fp:
+        bioc.dump(collection, fp)
+    
+    pipeline, argv = negbio_load()
+    negbio_main(pipeline, argv, outfile, './')
+
+def turn_xml_to_bc8(output):
+    fin = open('./BC8_neg.neg2.xml', 'r', encoding='utf-8')
+    neg2_results = {}
+    collection = bioc.load(fin)
+    fin.close()
+
+    for document in collection.documents:
+        pmid = document.id
+        _mention = {}
+        for passage in document.passages:
+            for men_node in passage.annotations:
+                if 'uncertainty' in men_node.infons.keys():
+                    _mention[men_node.id] = 'uncertainty'
+                elif 'negation' in men_node.infons.keys():
+                    _mention[men_node.id] = 'negation'
+                else:
+                    _mention[men_node.id] = 'positive'
+        neg2_results[pmid] = _mention
+
+
+    with open('./BC8_temp.tsv', 'r', encoding='utf-8') as fin:
+        all_in = fin.read().strip().split('\n\n')
+    
+
+    fout = open(output, 'w', encoding='utf-8')
+    fout.write(f'ObservationID\tText\tHPO Term\n')
+
+    for doc in all_in:
+        lines = doc.split('\n')
+        pmid, text = lines[0], lines[1]
+
+        if neg2_results[pmid] == {}:
+            fout.write(f'{pmid}\t{text}\tNA\n')
+        elif len(neg2_results[pmid]) == 1:
+            # print(neg2_results[pmid])
+            # print(lines)
+            # break
+            if neg2_results[pmid]['0'] == 'positive':
+                hpid = lines[2].split('\t')[3]
+                fout.write(f'{pmid}\t{text}\t{hpid}\n')
+            else:
+                fout.write(f'{pmid}\t{text}\tNA\n')
+        else:
+            if len(list(set(neg2_results[pmid].values()))) == 1 and list(set(neg2_results[pmid].values()))[0] != 'positive':
+                fout.write(f'{pmid}\t{text}\tNA\n')
+            for anno_id in neg2_results[pmid].keys():
+                if neg2_results[pmid][anno_id] == 'positive':
+                    hpid = lines[2+int(anno_id)].split('\t')[3]
+                    fout.write(f'{pmid}\t{text}\t{hpid}\n')
+                else:
+                    continue
+            
+    fout.close()
 
 def run_gsc_test(input, output, biotag_dic, nn_model, para_set):
     
@@ -16,7 +116,10 @@ def run_gsc_test(input, output, biotag_dic, nn_model, para_set):
     fin_test=open(input,'r',encoding='utf-8')
     all_test=fin_test.read().strip().split('\n\n')
     fin_test.close()
-    test_out=open(output,'w',encoding='utf-8')
+    if para_set['negation'] == True:
+        test_out=open('./BC8_temp.tsv','w',encoding='utf-8')
+    else:
+        test_out=open(output,'w',encoding='utf-8')
     #i=0
     for doc_test in tqdm(all_test):
         #i+=1
@@ -31,7 +134,15 @@ def run_gsc_test(input, output, biotag_dic, nn_model, para_set):
             test_out.write(ele[0]+'\t'+ele[1]+'\t'+lines[1][int(ele[0]):int(ele[1])]+'\t'+ele[2]+'\t'+ele[3]+'\n')
         test_out.write('\n')
     test_out.close()
-    GSCplus_corpus_hponew(output,input,subtree=True)
+    # GSCplus_corpus_hponew(output,input,subtree=True)
+    if para_set['negation'] == True:
+        neg_iden(infile='./BC8_temp.tsv', outfile='./BC8_neg.xml')
+        turn_xml_to_bc8(output)
+
+
+        os.remove('./BC8_temp.tsv')
+        os.remove('./BC8_neg.xml')
+        os.remove('./BC8_neg.neg2.xml')
 
 
 if __name__ == '__main__':
@@ -52,7 +163,7 @@ if __name__ == '__main__':
     para_set={
               'onlyLongest':False, # False: return overlap concepts, True only longgest
               'abbrRecog':False,# False: don't identify abbr, True: identify abbr
-            #   'negation': True, #True:negation detection
+              'negation': False, #True:negation detection
               'ML_Threshold':0.95,# the Threshold of deep learning model
               }
     
