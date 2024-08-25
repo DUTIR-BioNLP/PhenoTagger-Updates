@@ -63,7 +63,11 @@ para_set={
 }
 ```
 
-Note: If you use typo data for noise detection after training, we recommend replacing *bioTag()* in the recognition function with *bioTag_ml()*
+In order to verify our method more conveniently, we provide a model trained with typo data for annotation testing. The download link is as follows:
+
+[biobert_emb_model](https://huggingface.co/Mr77/emb)
+
+Note: If you use typo data for noise detection, we recommend replacing *bioTag()* in the recognition function with *bioTag_ml()*
 
 ## Training
 
