@@ -31,7 +31,7 @@ $ pip install -r requirements.txt
 1. To run this code, you need to create a model folder named "models" in the PhenoTagger folder, then download the model files into the model folder.
 
    - First download original files of the pre-trained language models (PLMs): [Bioformer](https://huggingface.co/bioformers/bioformer-8L/), [BioBERT](https://huggingface.co/dmis-lab/biobert-base-cased-v1.2), [PubMedBERT](https://huggingface.co/microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract-fulltext)
-   - The model trained with typo data for taggging. [biobert_emb_model](https://huggingface.co/Mr77/emb)
+   - Then download the fine-tuned model files for HPO in [Here](https://huggingface.co/Mr77/emb). we provide BioBERT and Bioformer models for tagging.
 2. The two typo-corpora are provided in */data/ 
 
 ## Tagging
@@ -64,9 +64,6 @@ para_set={
 }
 ```
 
-In order to verify our method more conveniently, we provide BioBERT and Bioformer models for annotation testing. The download link is as follows:
-
-[models](https://huggingface.co/Mr77/emb)
 
 Note: If you use typo data for noise detection, we recommend replacing *bioTag()* in the recognition function with *bioTag_ml()*
 
